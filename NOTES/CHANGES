@@ -1,0 +1,425 @@
+#NOTES
+
+Requires_Climb~
+Greyclaw~
+Added a flag to dflags for use on exits that should require the climbing
+
+or fly skill.  Also added a overloading ability to movement messages
+
+which should allow cliffs to be done simply and well.
+
+~
+841544665
+Pager/Ledit~
+Greyclaw~
+* Fixed pager to handle longer files and editor enforces new limit.
+
+* Started ledit command - Welcome to look at it.
+
+~
+841939706
+Searching~
+Greyclaw~
+* Added searching trigger to actions and made the search command use
+
+on/off.  All searching acodes should now use that trigger instead of
+
+overloading the command search.
+
+~
+842043743
+Size Flags~
+Greyclaw~
+These are worth looking at.  Are very useful for making it impossible for
+
+that dwarf to weild the giants hammar.  Also good for making armor not be
+
+one size fits all.
+
+~
+842097409
+Liquids~
+Greyclaw~
+The mud now adds the liquid to the end of a drink container.  A object
+
+can have a known liquid or unknown in it.  If the liquid_known flag is
+
+set it uses the real name and if not it uses the color entry of the
+
+liquid table.  This flag tends to float around.  So if you fill a bottle
+
+from a fountain the bottle inherits it from the fountain.  Therefore
+
+"known" water sources such as chiiron fountain should have known_liquid
+
+set as they know it is water and not just a clear liquid.  All drink
+
+containers should no longer have afters and before of of beer or of
+
+scotch.
+
+~
+842121864
+Aggressive Pets~
+Greyclaw~
+Aggressive pets are no longer aggressive so is fine to have aggressive
+
+mobs tamable IF it makes sense otherwise.  This is mainly for pets
+
+growing.  So a baby wolf could grow into a big wolf.  The big wolf is not
+
+tamable and aggressive - the baby wolf is tamable.
+
+~
+842220080
+Skeletons/Zombies~
+Greyclaw~
+Fields in mstat are for the zombie or skeleton which is created when the
+
+mob is animated.  Should be left 0 for mobs with no skeleton or zombie.
+
+~
+842228898
+Starting Table~
+Greyclaw~
+Entries for all races now - perhaps all goblins should know climb or
+
+something.
+
+~
+842230164
+Food/A-Flag~
+Greyclaw~
+Added +A flag to resets for a silly lizard - type help reset.
+
+Food now can be raw, cooked or burnt.
+
+If you don't want it to be any of these set value1 to -1.
+
+If an fire object is in the room players can "cook" food.
+
+~
+843294978
+Rowhere/Actions~
+Greyclaw~
+Add close trigger on exits - same as open.
+
+Target field in action now looks up in command table the standard minimum
+
+length for a given command if a normal command so 1 east can now just be
+
+east.
+
+rowhere -p and rmwhere -p work.
+
+~
+844210071
+Predator/Status~
+Greyclaw~
+Made mobs with predator flag attack sleeping players.
+
+Added rset status - please use it.
+
+Accounts command done.
+
+~
+844849406
+Attack_Fire~
+Greyclaw~
+Attack_fire function added.
+
+~
+846884480
+Pending~
+Greyclaw~
+Changed around dedit - see help dedit.
+
+Added reset <num> <num> to move resets around.
+
+Added strength number to doors in prep for door bash.
+
+Added disrupt to tedit commands for whether or not command disrupts spell
+
+casting.
+
+~
+846884454
+Hbug~
+Greyclaw~
+Added Hbug Command for tacking things onto help files.
+
+Liquid in a liquid container is now set in the reset so we need only ONE
+
+type of barrel.
+
+~
+847557138
+Ofind/Mfind~
+Greyclaw~
+Completely rearranged - see help.
+
+~
+850093613
+Pending~
+Greyclaw~
+Added No_Auction flag.
+
+Missing Description Oextra check added to bugs.
+
+Can set prayer/thirst/etc now.
+
+~
+850511097
+Ban/Socials~
+Greyclaw~
+* Ban has been modified to allow banning of phule without banning all of
+
+purdue.
+
+* If the line of a social begins with ! it is seen even if the person
+
+cannot see the socialite.  For example some of the lines of cough should
+
+begin with a ! while none of those of smile should.
+
+* Pet prices are being used.
+
+~
+852773518
+Reset # Vnum~
+Greyclaw~
+Added reset # vnum # command.
+
+~
+853006153
+Ps/Review~
+Greyclaw~
+* Made -b work on ofind.
+
+* Made the spiffy { and } work in customs.
+
+* Added is_silenced( ch ) function.
+
+* Added size to doors.
+
+* Added settable wander delay.
+
+* Made the spell action table sortable.
+
+* Made passdoor affect and wandering mobs compatible.
+
+* Age is now on mstat.
+
+* New command - ps.
+
+* New command - Review.
+
+* Finished approve command.
+
+~
+853612988
+Spells~
+Greyclaw~
+* Added Obj_Value function.
+
+* Sorted out astral gate - see tedit astral.
+
+* Sorted out leaving actions and sleeping pets - see room 46750.
+
+* Added mot flags to bugs.
+
+* Added no_enchant oflag.
+
+* Class/Level on spell help.
+
+* Many new spells/affects - they need work still though.
+
+~
+854029235
+Reset Tables/Pets~
+Greyclaw~
+Reset tables added.  See also help pets.
+
+~
+869945700
+Pending~
+Greyclaw~
+* Immortals are never wanted.
+
+* Shcustom # <item> changes item custom creates
+
+* Dipping in acid, water, youth does something.
+
+~
+870284931
+oedit replace <v1> <v2>~
+Greyclaw~
+Mass replace of reset vnums for objects so I can more easily replace all
+
+the silly <metal> <armor> objects.
+
+~
+870460633
+Woodworms~
+Talis~
+Their aim has improved with their acid spray attack.  (Meaning it
+
+actually works now) So don't be surprised when it hurts like it was
+
+always supposed to.
+
+~
+873374398
+corrections~
+Merior~
+-- ogre strength now increases your strength a maximum of 3 (to cap of
+
+17) 
+
+-- blind fighting now actually does something (it appears it was never
+
+coded *blush* ) 
+
+~
+874342489
+invis vs invisibility~
+Talis~
+Invis and Invisibility are object flags.  You can't make invisible
+
+objects, because attempting to toggle the invis flag defaults to toggling
+
+the invisibility flag (which makes the player invisible when they use the
+
+item in question).  Maybe rename invis to is.invis so it doesn't confuse
+
+the flags?
+
+  
+
+While at it, maybe make all the is.  and is_ into one format?  So we
+
+don't have to check oflags every time we need to determine, is it
+
+is.chair or is_chair.
+
+
+Re: Flags now check for exact match and failing that a partial match so
+
+problem 1 should be gone.
+
+~
+876359215
+Rtables~
+Greyclaw~
+* Added rtwhere command.
+
+* Fixed renumbering problem with rtables.
+
+* Generally cleaned them up.
+
+~
+879555301
+Lock Trigger~
+Greyclaw~
+Added lock trigger to objects.
+
+~
+880757016
+Carnivore~
+Greyclaw~
+My pet wolf wanted to be about to eat corpses so added carnivore flags
+
+for mobs.  Allows them to eat meat.
+
+~
+880763778
+Misc.~
+Greyclaw~
+* added mfind -T <trigger>
+
+* tedit spell_data <spell>, tset loc <loc>
+
+* rflag donation = all objects in room non-stolen.
+
+* give <food> <pet> has it eat it
+
+~
+886602304
+Minor stuff~
+Merior~
+Sometime before we officially re-open, will rename a few boards
+
+(General-IC and General-OOC and take out Wanted).  If there are minor
+
+things like that you can think of, please let me know.  I am not going to
+
+do any serious coding so as to stay out of GC's way, but can do trivial
+
+stuff.
+
+~
+894034046
+Reagent/trainer changes~
+Florian~
+*A lot of changes are being made to trainers and their rules for
+
+placement.  (help trainer_placement) 
+
+*Also, krynite pinches are no longer to be sold in shops.  They are now
+
+custom item, made from a small fragment of krynite ore.  This ore can be
+
+used as treasure in 30+ level areas, but please use caution.  Even minor
+
+enchantment should be rare.
+
+~
+894767738
+Cover Oflag~
+Greyclaw~
+Cover oflag causes objects worn underneath not to show when others look
+
+at player.
+
+~
+895529263
+Corpse~
+Greyclaw~
+Object type now has an int for decay time.  Also is not started at repop
+
+- only when item is dropped, etc.
+
+Added species to corpse objects ...  is used by skin and animate dead
+
+command just in case you want to scatter "real" looking corpses.
+
+~
+895980731
+Weight Func~
+Greyclaw~
+Add weight function.  Require a "thing" as argument which can be a
+
+character, an object, or a room.  For any it return total weight in
+
+hundreths of a pound.  For a room it is just total of contents.
+
+~
+896150899
+Secret Doors~
+Greyclaw~
+Played with them.  See 30402 for an example.
+
+~
+897624208
+Corpse weights~
+Florian~
+Corpse weights, it is my understanding, are now determined by the weight
+
+of the mob, which is set in the mset field.
+
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899843219
+$~

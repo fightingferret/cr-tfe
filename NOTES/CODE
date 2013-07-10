@@ -1,0 +1,590 @@
+#NOTES
+
+Remove Curse~
+Orb~
+Spell disintegrates cursed items in your inventory as well as equipped.
+
+~
+894050299
+Cursed items~
+Orb~
+I didnt see the cursed message when I equipped a no.remove item.
+
+~
+894050373
+wearing items with +stats.~
+Nivel~
+For instance, I wear an object that gives me +hps, but when I quit and
+
+relogin, it only gives me my nat hp, and if I take that object off, it
+
+takes off those hps.  eg.  I wear a +3000hp body armor(seems excessive
+
+but helps) and when I wear it I have around 4.5khps, when I quit and
+
+relogin I only keep the 1.5khps, and the and when I take it off, I'm down
+
+to 1hps, since it can't go any lower.  The problem can be solved by
+
+reversing the process, but it should be fixed regardles.
+
+~
+894058619
+Hand Items~
+Jimbalaya~
+no.shield should make an item take up both hands.
+
+
+The shield skill likely doesn't work now that there is no shield wear
+
+position, maybe a shield flag should be put in to trigger teh shield
+
+skill.
+
+
+Offhand will probably need to be adjusted now that you can wield a second
+
+weapon without the offhand skill.
+
+~
+894248807
+Holy light~
+Talis~
+Doesn't include detect hidden.
+
+(don't know if it see's invis or camouflage)
+
+~
+894284214
+Random Triggers in Acodes~
+Olah~
+Don't seem to be triggering.
+
+~
+894483130
+Directions in rextras~
+Starshine~
+Code isn't checking rextra keywords when you type look <direction>
+
+Or at least it returns "You see nothing of interest in that direction."
+
+whether it exists in rextras or not.
+
+
+@C==
+
+This is very very strange.  Directions in rextras don't seem to be
+
+working in one of the my areas, but they ARE working in my two other
+
+areas...haven't figured out why yet.  The only difference between the
+
+former and the latter is that the former was created before the latter
+
+areas.
+
+Olah@n
+
+~
+894559377
+Hidden mobs~
+Nivel~
+can't see em.
+
+~
+894670369
+ask w/o target trigger~
+Florian~
+Using a tell trigger w/o a target lets you use is_name OR to interpret
+
+ANYTHING that the pc _tells_ an npc to return the same thing.  Can the ask
+
+trigger be made the same way?  As it is, asking a mob in a fashion to
+
+make ANY asked response turn up the same thing does not work.
+
+
+@C*Florian@n
+
+~
+894736016
+Min levels~
+Jimbalaya~
+They aren't currently working.
+
+~
+894768691
+Oprogs~
+Olah~
+Don't work.
+
+--
+
+$p and $N, etc do not work in opcode or mpcodes...
+
+~
+895085309
+class table~
+Phule~
+cannot set certain flags ( like chaotic evil align ) because is processed
+
+as another flag ( like chaotic good align ).  Perhaps change names to
+
+chaotic.evil, etc.
+
+or, like in mflags, search for match first, etc.
+
+anyways....
+
+
+@RP@Yh@Gu@Bl@Me@n
+
+~
+895181050
+add ofind flag~
+Phule~
+for layer. ofind -l ?
+
+perhaps for level also, ofind -L 50 gives you items over 50.
+
+so ofind -W sword -L 50 gives you swords over 50, ofind -w neck -l top -L
+
+!20 gives you all top-level neckwear under level 20.
+
+~
+895277262
+is_player~
+Orb~
+Hmm, this isnt working in acodes.  I triggered a mob's attack code with a
+
+room code with an entering trigger.  I looped all in the room to do an
+
+area attack, then designated that only players should be hit.  The mobs
+
+went crzy and hit everything in the room.
+
+~
+895370045
+summon~
+Adakar~
+Currently the summon code for mobs does not seem to be functioning.  The
+
+mobs appear to go through the coding but they dont actually summon the
+
+other mobs to them.
+
+adakar
+
+~
+895458182
+Interpret~
+Florian~
+Be able to specify a variable target after interpret.
+
+E.g. interpret( mob, "smile", victim );
+
+@C*Florian@n
+
+~
+895092651
+minor bug~
+Nivel~
+sweep isn't working, was a nice little command.
+
+~
+895708190
+few bugs~
+Nivel~
+@b@C->@n Has_obj doesn't look for objects outside of inv, like worn eq.
+
+I'm assuming junk_obj works similarly.
+
+@b@C->@n goto <room name> still doesn't work.
+
+
+These might be repeated bugs, but I figure I'll post em anyway, just in
+
+case they aren't obvious.  Others may follow.
+
+~
+895757361
+bad capitalization in acodes~
+Rue~
+This seems to only happen when using color codes.
+
+
+The output:
+
+a drunken off-duty orc pushes the wooden beads aside with a soft clatter.
+
+
+The string:
+
+@G$n pushes the wooden beads aside with a soft clatter.@n
+
+~
+896373996
+'east of the waterfall'~
+Merolen~
+I type 'enter waterfall', and get no response at all.
+
+
+@ywaterfall is not the keyword you need, but it should say something like
+
+'you don't see that to enter' or something like that.  --Fenlyn@n 
+
+~
+896662215
+get all + hidden objects~
+Florian~
+Typing get all reveals hidden objects.  Should be totally hidden, I'd
+
+hope.
+
+@C*Florian@n
+
+~
+896724696
+Barding and Saddlebags~
+Rue~
+Can't put them on your horses with this syntax:
+
+
+put barding on stallion
+
+returns: Syntax: put <obj> [in] <container>.
+
+
+and put barding stallion
+
+returns: You can't put in a slender black stallion.
+
+~
+896935370
+Has_obj doesn't check~
+Talis~
+has_obj doesn't check wielded items it seems.  I have a few mobs that
+
+have weapons load equiped on them, and a has_obj in their mpcode turns up
+
+negative in such cases.
+
+
+@g- - - - -@n
+
+Would be really good if has_obj considered wielded objects.  Then a mob
+
+with a shortsword special attack could atually implement it when it had
+
+the shortsword.  As it stands now, I'd have to load some strange object
+
+into their inventory whenver the shortsword loaded and check for it to
+
+trigger the shortsword attack.  This means, all normal mobs that check
+
+for the equiped item are generating wimpier experience and seem far
+
+wimpier tan they are.
+
+
+Kind of odd when a bare-handed level 4 mob is doing the same damage as
+
+its armed level 6 guardian.
+
+~
+897054633
+re: avatar of ss'trasa~
+Keethrax~
+When you do 'get statue' in 'The Holy Shrine of Sst'rasa', the statue
+
+hits you once, but you don't enter combat.
+
+--
+
+Using attack functions in codes to draw mobs into combat isnt working.
+
+@C*Florian@n
+
+~
+897381441
+has_obj problems~
+Florian~
+There is a very minute chance that if you spam something to activate a
+
+code that has a has_object check that it'll check as being true,
+
+regardless of you having (or ever having had ) the object.  (minute as in
+
+very very very slim - i think its usually the first time the program has
+
+been run per boot...but can happen afterward too.) 
+
+
+Also, if there is a crash, if gets rid of no.save items (as should be) -
+
+the side affect is that if a program calls for a has_object check and the
+
+character had the item before crash but no.save wiped it out, sometimes
+
+it'll still show the character as having it and has_item will read true.
+
+@C*Florian@n
+
+~
+897630521
+Objects vs. Room.~
+Nivel~
+I think Room descriptions should come before object description.  For
+
+instance, when I type look ring, I look at the ring I have, and I can't
+
+look at the ring in the rextra.  Same when I tried to look at a stream. 
+
+Perhaps this could be fixed.
+
+~
+897670817
+Hallucinate~
+Rag'nor~
+when you drink the water in the Rabbit Warrens that is in the roomwith
+
+the DWarf wizard you see colors...  Okay...I am now halluciating and on
+
+scan I see all of the Neato stuff...but when I "look" in the room I see
+
+what is there ie...I see a dwarf wizard...
+
+~
+897671102
+no.show + obj desc first?~
+Florian~
+If you have an object with no.show, chances are its used a LOT.  Like
+
+river items, pools, etc.  But they Didnt always have to have the same
+
+description.  If the item desc didnt match the room it was going in, you
+
+could mask it with a room extra decription, so you didnt have to make a
+
+new object every time.  Such is no longer the case because an item's desc
+
+takes precident over the rooms desc.  Bug or feature?  If feature, then
+
+the only way to correct is to write acodes if you dont want to make new,
+
+unnecessary items that just do the same as other no.show items.
+
+~
+897773636
+Desert [BUG]~
+Grimsza~
+Suddenly, [BUG] shifts to the side and thrashes about wildly.
+
+This was on the young sand wyrm.
+
+Clacking in fear, [BUG] releases a honey-sweet odor into the air.
+
+This was a honeypot ant.
+
+--
+
+After the first couple of lines of code, no MATTER if you re-define the
+
+mob with a mob = mob_in_room( mob, room ); string, act_messages such as
+
+act_tochar( #string, ch, obj, mob ) will still turn up [BUG] in place of
+
+$N.
+
+@C*Florian@n
+
+~
+897773953
+Is_follower mostly broken~
+Florian~
+is_follower function is broken, more or less, making a lot of entering
+
+acodes duplicate their actions.  NOt to mention just about any other
+
+reason you need it for.
+
+@C*Florian@n
+
+~
+898236200
+acodes~
+Fenlyn~
+Have a code in my office (84) that takes all the coins out of the
+
+turnstiles on the ground and junks the coins.  My screen displays my
+
+junking the coins before I actually get the coins out of the turnstiles.
+
+It uses interprets to get the coins and an interpret to junk all.coin.
+
+It is aedit 2 in rm 84.
+
+
+--Fenlyn
+
+~
+898415388
+animals have shields~
+Grimwulf~
+I'm getting "red fox blocks your slash with her shield" messages
+
+~
+898607748
+Buying stuff~
+Fenlyn~
+Imms can't buy without having to oload coins.  This is bad.
+
+--Fenlyn
+
+~
+898755826
+Looking~
+Alana~
+If you are in a room with exits to the north, and type look north, You
+
+get the message "The  is open". Shouldn't it say "The way is open"?
+
+Alana
+
+--
+
+Ick.  Simple, no door directions appear to be showing as doors upon look?
+
+@C*Florian@n
+
+~
+898853610
+shield skill~
+Draynath~
+Woohoo..just love it, improved at shield.
+
+Too bad i was using crimson incense.
+
+~
+898754927
+lilypads and white lily flowers~
+Servius~
+When a lilypad had a flower on it, when you walk into a room it would
+
+display it in a fasion of adding another line after the lilypad indented
+
+saying: On a lily pad: a white lily flower.  This was quite important
+
+because when you go to look in lily pads, it says they aren't a container
+
+thus there is no way to know if there is a flower on one.
+
+~
+899158712
+Halucination~
+Griffin Tgar~
+If tell is entirely OOC, then why do I still see 'sewer rats' telling to
+
+me when Hallucinated?
+
+~
+899419382
+Here's a nice bug~
+Fenlyn~
+note summary is not working right.  It sets all your notes to read as you
+
+login instead of counting notes posted since last login.  no message as
+
+you login either.
+
+--Fenlyn
+
+~
+899922183
+iflag problems~
+Fenlyn~
+@y Can't set noteboard iflags for clan or bugs.  Iflags info options at
+
+top of list take precedence.  --Fenlyn@n 
+
+~
+899960447
+Chant~
+Fenlyn~
+When you chant you see "You chant: blah blah" and then on the next line
+
+you see "Fenlyn chants: blah blah." Also, when an invis imm chants, it
+
+says someone instead of "Someone" with a capital letter.  Also, you can't
+
+type chant on and chant off to toggle chant.  I guess you could still use
+
+opt chant, but where's the fun in that?
+
+--Fenlyn
+
+~
+900169785
+Repair~
+Ashke~
+Why is it returning this message when I repair something?
+
+Ashke gets a white silk shirt with lace trim repaired.
+
+
+@CAshke@n
+
+~
+900191568
+Wearing eq~
+Fingolfin~
+I can see when people remove their eq, but not wear it.  I have message
+
+eq.  on 3.  Is this a bug?
+
+
+Fingolfin
+
+~
+900233109
+Plural Bunnies (Warrens)~
+Cecil~
+Two Giant Brown Rabbits is here, fighting YOU!
+
+
+Heh, that pretty much sums it up.
+
+
+/// Cecil ///
+
+~
+900281803
+reimb -e busted~
+Talis~
+its reimbing other people's gear much of the time. :(
+
+
+Shade and sweet water,
+
+Talis
+
+~
+900562678
+Spank Social~
+Griffin Tgar~
+!a gaunt sandy-haired man with emerald eyes spanks you with a stone
+
+tablet of Enduraba!
+
+The ! at the beginning shouldn't be there.
+
+- Griff
+
+
+@ySeems the ! which is supposed to be in the table entry for blind people
+
+is coming up in the output.  Code bug.  --Fenlyn@n 
+
+~
+900848599
+$~

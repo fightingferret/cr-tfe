@@ -1,0 +1,5335 @@
+#NOTES
+
+Umm~
+Sionell~
+this is all from info death Paradisium killed by the spectre of a dwarven
+
+honor guard.  Item #3, a home-spun cloak returned to the estate of a
+
+deceased character.  Item #9, a hard leather cap returned to the estate
+
+of a deceased character.  Dravic killed by a giant black beetle.
+
+why does that deceased auction stuff appear here?
+
+----
+
+The 'deceased character' in auction refers to a character which auctioned
+
+something and then deleted, not one who died in battle.  The items at
+
+that point go out of the game entirely.
+
+-- Merior
+
+~
+893418248
+Trivial~
+Luxus~
+It is trivial, but:
+
+Help pray states that currently CE players are forbidden from praying.
+
+I believe that is not the case anymore... :-)
+
+~
+893378961
+Peter~
+Bel'el~
+Peter won't allow vagrants to sleep in it's shop?
+
+--
+
+Fixed. Will be better in a reboot or 2. Or 3. Or 4. But fixed.
+
+@C*Florian@n
+
+~
+893454932
+Crabman Village~
+Volkaran~
+I never attacked a single crabman and all of the sudden they're all
+
+afriad of me and wont let me into their shops.
+
+
+@MV@Bo@Ml@Bk@Ma@Br@Ma@Bn @b, @BStar-Thief
+
+--
+
+The crabmen are a secluded race and care not for anyone if they feel that
+
+their safety is at risk.  Please mail me any further 'bug' notes
+
+concerning the desert.
+
+@C*Florian@n
+
+~
+893612626
+pie?~
+Shelia~
+why are chitin and a piece of dried fruit both responding to the keyword
+
+"pie" ? 
+
+--
+
+because it is a PIECE of chitin and a PIECE of fruit.
+
+-- Merior
+
+~
+893636871
+Qwho/who~
+Kanroc~
+Both of these report more players on than they should.
+
+-Kanroc
+
+--
+
+This doesn't count only visible players.  There is no bug.
+
+-- Merior
+
+~
+893636936
+flee~
+Cornelius~
+The flee command is queued with spells...  I think that should be an
+
+emergency command and therefore not being queued...
+
+@n
+
+@I Cornelius the @Rfire@n maniac
+
+---
+
+Just proceed flee or anything else you want to break the queue with with
+
++ (plus sign).
+
+-- Merior
+
+~
+893676416
+Lizard smile social~
+Rakekniven~
+You flash your needle-sharp teeth in a smile at her.
+
+Needles aren't sharp, they're pointy.
+
+Razors, on the hand, are sharp.
+
+Rakekniven.
+
+
+@yGet up from your computer.  Get a needle out of a sewing kit.  Prick
+
+yourself in your arm with it, and then tell me its pointy and not sharp. 
+
+--Fenlyn@n 
+
+~
+893646929
+Rings of Courage~
+Atrax~
+Rings of Courage will blow up on you even if you type 'flee' in
+
+conversation sometimes, and also if a situation happens like aspect of
+
+pride attempts to force you to flee, they blow up even if you are
+
+berserked/etc.  and do not actually flee.  This seems kind of buggy,
+
+since I did not actually flee.  I realize this is a 'seems buggy because
+
+I think it's hosed' note, so take it as you wish...  I didn't type flee,
+
+didn't want to flee, couldn't scream because I was berserked, and didn't
+
+flee, yet my rings blew up on me just the same.
+
+
+@yOkay, here's what I think.  The only way the program is triggered is if
+
+you type flee as a command.  Since the only command you would use in
+
+conversation is a say or tell or whatever, I don't buy into it.  Although
+
+I've seen stranger things happen.  If it is happening, then I suggest
+
+posting a small log of what happened.  Fighting a mob that forces you to
+
+flee is the same as typing flee yourself.  In the mob's code, it in
+
+essence forces you to 'flee' as if you typed it yourself.  Rings blow up
+
+when you show a lack of courage.  Attempted fleeing, forced or otherwise
+
+is grounds for a damaged hand.  On the bright side, the ring is still
+
+bugged in your favor and will most likely not be able to be fixed.  So,
+
+consider it a balancing act.
+
+--Fenlyn@n
+
+~
+893646840
+help blind fighting~
+Way~
+In the last line, you have:
+
+... and is so ingrained inthe monks...
+
+~
+893642005
+Phial of Ogre Strength~
+Sayang~
+i have natural strength 18
+
+strength + 21(18) with necklace and robe of Rat'ka
+
+why was strength 17(18) without eq when i quaff the phial
+
+
+@yBecause you are stronger than an ogre.  Quaffing the phial makes you as
+
+puny as an ogre.  --Fenlyn@n :P 
+
+~
+893687848
+slisp~
+Arathorn~
+slisp contains a 'p', which I cannot seem to pronounce without using my
+
+lips.  Lizardmen aren't supposed to have lips, so how do they pronounce
+
+the 'p' in slisp?
+
+--
+
+A) They dont.  the term slisp is possibly just the name given to the
+
+lizardman language by outsiders.
+
+B) Phonetically, this morpheme might sound different.
+
+C) Give me a break.
+
+
+@C*Florian@n
+
+~
+893726745
+Bugbears~
+Evergreen~
+In the room furthest west (Sleeping area is the name) under the room
+
+description, it says 'clean, place' clean, place 
+
+
+I don't know if this was left over from the other day when some work was
+
+being done on the mud.  Nothing big, but it is amusing since every once
+
+in a while you see a message talking about the horrible smell in the room. 
+
+-@gEve@n
+
+--
+
+Picky, picky.  Leave a typo message please next time.  We read
+
+them...eventually.
+
+@C*Florian@n
+
+~
+893726859
+Moose pet race~
+Arista~
+I tamed a moose, and after I grouped him, it said   [12 Mob   ].
+
+it appears that mooses arent really mooses.
+
+
+***
+
+It is now a mammal.
+
+Rue
+
+~
+893734394
+golden brown gem~
+Tyranus~
+whenever you look at a golden brown gem it says-
+
+
+***
+
+fixed
+
+rue
+
+~
+893734721
+Incredibly huge meat cleaver~
+Sayang~
+auction said i can use it
+
+but i can't even lift it
+
+
+***
+
+Auction doesn't say that you CAN use it.  It only says if there is a
+
+reason you CAN'T use it.  If you were strong enough you could.  And there
+
+are things that will raise your strength.
+
+Rue
+
+~
+893734807
+flee (again)~
+Cornelius~
+Thanks to Merior for the syntax on how to not queue commands.  now i'm
+
+trying how "+ flee" works...  if i write it as is (no other command
+
+queued) i get this: 
+
+@n
+
+You clip the keyring onto an empty belt loop.
+
+<Type 'help' for help>
+
+That seems kinda odd to me...
+
+@n
+
+@I Cornelius the @Rfire@n maniac
+
+---
+
+Don't place a space after the '+'.  It works just fine.
+
+-- Merior
+
+~
+893778363
+The messy room right before Vadis~
+Griffin~
+When auto assisting me, all of my group was hitting the skeletal
+
+guardians, even though I targeted one particular mob.  (The Ghost of
+
+Brother Grullf in this case).  Please check on this.  With a mob that
+
+heals himself, it can be fatal if everyone's not targetting the same mob.
+
+
+@rGriffin@n
+
+
+RE: was just informed that when autoassisting, the group will attack the
+
+first mob that leaps to attack the tank.  *shrug* It's in the code, I
+
+guess 
+
+~
+893750846
+obsidian armor~
+Swiftus~
+Just wondering why I can wear the obsidian boots...but not the breastplate.  Doesnt seem right to that the breastplate is antigood.
+
+---
+
+Has as been explained to me, obsidian items come from different mobs, and
+
+are not really a matched set.  Not a very satisfying answer, but one the
+
+builders seem to stick to.
+
+-- Merior
+
+~
+893845695
+Fireball trap~
+Auther~
+Okay...I gotz one for you the Fireball trap On the way yo the young green
+
+dragon North of chiiron does Physical damage and not Fire...thanks 
+
+
+Inflict only does physical damage until hard-coding is changed.  The code
+
+is correct.
+
+Rue
+
+~
+893906036
+Stupid Lord Richard~
+Calandra~
+How to prac riding when the stupid lord is siting in same room ...and i
+
+get only to prac at him :P 
+
+Cala
+
+
+**
+
+Still not a bug.
+
+Rue
+
+~
+893906071
+Magic Missile~
+Spife~
+I have found that on the damage roll , it says that magic missile is
+
+4d5+(l*2).Not that I am complaining, but the max amount of damage I could
+
+do at level 2 is 24 correct?  So why do I maim (minimum of 29) at level
+
+two.  Note this was not on a deathblow.
+
+-Spife
+
+
+***
+
+When level is referred to it in a spell, it refers to the level of skill
+
+you have the spell at.
+
+Rue
+
+~
+893906608
+group serious~
+Avery~
+Group serious doesn't heal pets in groups
+
+
+***
+
+This is intentional.
+
+Rue
+
+~
+893906641
+Strange Wood Ring~
+Melisandre~
+Strange wood ring doesn't have the keyword of armor..  at least mine
+
+doesn't but its prolly ancient.
+
+
+Meli
+
+
+***
+
+This is not a bug.
+
+Rue
+
+~
+893907005
+Kobolds.~
+Rahnee~
+Thanks to whoever was changing the area, for a start.  In the room
+
+'Enclosed Room', the description implies that you're trapped there: but
+
+you're not trapped, you just walked in and can walk out.
+
+Also, there are no descriptions of any object in here.
+
+
+***
+
+I have been sidetracked from my work in the kobold caves.  That room will
+
+remain a mess for the time being.  However, rest assured that it is
+
+'fixed' as soon as I get the time.
+
+Rue
+
+~
+893922550
+get~
+Kalin~
+Typing 'get all' will try to pick up players.
+
+---
+
+Objects and mobs are now treated the same.  This one is not a bug.
+
+-- Merior
+
+~
+893965877
+portal.~
+Fyli~
+'shimmering a portal stands here..'
+
+~
+893990069
+small lizard~
+EmmitNervend~
+small a lizard sits here sunning itself
+
+~
+893990930
+Looking at the priestess~
+Wind Dancer~
+Before you is a tall woman who looks to be quite old.  She appears to be
+
+in perfect communion with her god.  You could probably stand to learn
+
+from her.  She is holding an arcane symbol covered with many
+
+ancient religious runes.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+A priestess is in perfect health.
+
+
++++ Equipment +++
+
+Body Location          Item                                       Condition
+
+---- --------          ----                                       ---------
+
+Left hand              wooden holy symbol                         excellent
+
+
+Didn't used to have the extra line.  And on a side note se no longer is
+
+upset by people drinking from the cauldron.
+
+
+@yNot a bug.  New and improved 'look' no pun intended.  --Fenlyn@n
+
+~
+894032685
+"Get all"~
+Menolly~
+When you type this in a room to pick up several items at once.  In a room
+
+with other people in it the computer lists the items you can't pick up... 
+
+it gives you a list of what you can't take...  the counter, the shop
+
+keeper, the guards, any other players in the shop....  It didn't use to
+
+itemise these sorts of things....  just wondered if it was a bug or just
+
+something new...
+
+Menolly who picks up everyone's used junk...  as she tries to refill her
+
+bank vault...
+
+
+Rather has to do this if you can get some mobs.
+
+Is by design.
+
+
+-Greyclaw
+
+~
+894247037
+mob appearance~
+Krugsonson~
+All of the mobs in the lynx area have stuffed appearances.
+
+
+@c---
+
+With about 4,000 mobs, it's hard to catch them all.  This is one of the
+
+things being worked on.
+
+
+--Caer @n 
+
+~
+893994697
+Slightly rusty brook~
+Spurf~
+Gotta be a bug.
+
+
+*** was a bug, is no longer
+
+Rue
+
+~
+894465479
+backpack~
+Malhic~
+Old canvas backpack.  Now replaces a jacket in the main body armor slot. 
+
+(bug or change, who knows :P) 
+
+
+I'm working on body objects.  I just haven't gotten to that one yet
+
+--Fenlyn
+
+~
+894466694
+Gnomish Youth~
+Nokegami~
+eyes bright with curiousity..
+
+
+Should be curiosity.
+
+
+***
+
+Fixed
+
+Rue
+
+~
+894471780
+Bone Rats~
+Alpha~
+These are skinnable? Doesn't seem like you should be able to skin one of these.
+
+
+***
+
+Don't take 'skinning' seriously, it is a bone rat and all you are doing
+
+is finding something on it's broken body.
+
+Rue
+
+~
+894578625
+another one!~
+Sionell~
+in the arena of something or other in denab knur, the guy who teaches punch
+
+ will smack you around even if you dont have the pracs or the cash,
+
+or the prereqs for the skill.
+
+sionell
+
+
+**
+
+Even better reason to smack you around.
+
+Rue
+
+~
+894595958
+"rofl" social~
+Irmo~
+Seems odd that I get the message:
+
+You drop to the floor laughting at Lart
+
+- It doesn't have a period at the end and there is a t in laughing.
+
+-- Btw, am I an ogre :)
+
+- Irmo
+
+~
+894598121
+ogre social, shake~
+Irmo~
+when shaking an object, there is an extra word in it.. for example:
+
+You pick up the an empty rusty cup and give it a good shaking.
+
+The 'the' should be removed.
+
+-- Irmo
+
+~
+894604069
+color codes~
+Phule~
+When I get a tell, it seems that the bold part of the color code is
+
+cancelled, but the color part remains.  So now all i see is yellow :) 
+
+in fact it seems to work with ALL bold colors, but is prolly my evil
+
+terminal program at work.
+
+
+yup, found it.  NetTerm is defaulted to not allow the reset of color
+
+codes to default!  :) 
+
+
+If you have the same problem with NetTerm, use Options -> Setup -> Screen
+
+Colors, then check Allow Graphics Redition Code of 0 to....
+
+
+hope that helps.
+
+
+@RP@Yh@Gu@Bl@Me@n
+
+~
+894655316
+Forest of Medienne - Small Clearing~
+Irmo~
+There is in this room:
+
+A well has been dug into the ground.
+
+When I type look well, I see:
+
+[a well]
+
+Before you stands a small well dug deep into the ground.  A small wall of
+
+stones is piled up around the well to protect it from small creatures. 
+
+The water is pure and crystal clear.
+
+===
+
+Not sure if this is a bug or suppose to be there, but the "[a well]"
+
+before the description looks kinda goofy.
+
+-- Irmo
+
+ps, will leave a typo in the room cus there are lots of Forest of
+
+Medienne rooms.  (typo command that is)
+
+
+***
+
+The [a well] is there to alert you to what you are looking at.  It is not a bug.
+
+Rue
+
+~
+894668825
+dodge for darkies~
+Kezef~
+There is nowhere to learn dodge in Voaleth.  Considering Voaleth is a
+
+starter town, and dodge is a starter ability for many classes, it seems
+
+there should be a place to learn it there.
+
+
+@yAll trainers are in the process of being brainwashed by Florian.  This
+
+may occur often in our testing phase.  --Fenlyn@n 
+
+
+@RNod, be this as it may seem, there IS a trainer for dodge.  It's not my
+
+fault you cant find him.
+
+@G
+
+All skills/spells up to 15th level are practicable SOMEWHERE, for all to
+
+have access to.
+
+@C*Florian@n
+
+~
+894734970
+Chiiron Duck Pond~
+Menolly~
+You swim into a room labelled "In the Duck Pond" and it tells you "A pond
+
+is here".  Um, I thought the swimming and the other title would have
+
+given it away.  Or is this the way things are labelled now?
+
+Menolly
+
+
+***
+
+some items that are invisible are visible right now.  anytime you 'see' a
+
+river, pond, waterfall, etc, it is this same error we are aware of.
+
+Rue
+
+~
+894838576
+ability~
+Darion~
+I type abil spell monk
+
+it says... "The monk class has no spell skills."
+
+
+***
+
+How is that a bug?  They have no spells...
+
+Rue
+
+~
+894893246
+Swordsman~
+EtzGadol~
+the comma for him standing is misplaced.  I'm not entering him (I hope),
+
+but as I enter (the room), he stands.
+
+--Fixed.
+
+@C*Florian@n
+
+~
+895004239
+Wiggle (troll)~
+Aapje~
+Snapdragon wiggles @yhe@n wide bottom left and right... Look out!
+
+--
+
+Should be fixed, assuming socials are saving :)
+
+@C*Florian@n
+
+~
+895004581
+An a fragile, ancient sage...~
+Way~
+The sage in medienne shows up like the title says.
+
+--Fixed.
+
+@C*Florian@n
+
+~
+895005013
+mutant sewer frog~
+Stile~
+line #2 in its description has "ypu" instead of "you"
+
+line #6 has "you r" instead of "your"
+
+line #7 has "thje" instead of "the"
+
+line #5 has "lenth" instead of "length"
+
+
+Stiles
+
+p.s. nice surprise ;)
+
+--
+
+Master Splinter say...all fixed.
+
+~
+895127690
+'time' command~
+Demok~
+Um, found an interesting little discrepancy.  While I'm sleeping I like
+
+to hit 'time' to see when the tick is done.  Anyway, there's one room in
+
+the caverns of voaleth, that when I type 'time', it tells me 'You are
+
+unable to do that while note awake.' The room is one north of the
+
+spiraling stalagmite on the east side of the river.  I know this is kinda
+
+trivial, but it's a bug nonetheless.
+
+~
+895438696
+find mount clues?~
+Way~
+The stable hand tells you about Sir walltier and his mounts...
+
+should be Walltier i believe
+
+~
+895376983
+Help appear.~
+Fyli~
+Thanks for updating these files.  The examples, though, still have 'a' st
+
+the start of them, and the example of the elven maiden is longer than the
+
+50 chracters allowed.
+
+
+--
+
+changed the elven maiden example, leaving the 'a'
+
+~
+895442618
+kha-da~
+Way~
+the dwarves, should show up as dwarven whatever :P not dwarf
+
+whatever.
+
+~
+895342106
+Gaunt thief~
+Phsstpok~
+The @ygaunt@n thief in voaleth caverns, "Thieves' hideout" seems to miss
+
+keyword @ygaunt@n 
+
+~
+895501870
+Not all Dwarves have beards~
+Bliss~
+there are still beardless priests in khada
+
+- perhaps this could mean some dwarf (or all ) clerics /monks/paladins
+
+(or maybe just clerics) have beardlessness too
+
+- Bliss
+
+
+---
+
+
+Dwarven clerics are not allowed to grow their beards until they have
+
+proven their humility before their deity.  In fact, a full-bearded
+
+dwarven cleric is held with highest respect in the Kha-Da area.  So no,
+
+all dwarf clerics/etc are not beardless, although some might shave their
+
+beards in mourning or protest or grief, etc.
+
+@RP@Yh@Gu@Bl@Me@n
+
+~
+895636870
+Sinkhole~
+Sparrowhawk~
+in the Sinkhole where the mirefish are i got this message when leaving
+
+the area: You wade up.  seems to me that wadding up might be kinda hard.
+
+
+you do not wade VERTICALLY upward, rather along an upward slope.
+
+@RP@Yh@Gu@Bl@Me@n
+
+~
+895636936
+large bush with large flat leaves~
+Bern~
+the large bush with large flat leaves has no description.  That is, when
+
+I look at it, I get "No description".  Needless to say, there isn't any
+
+fruit on it either.
+
+~
+895574568
+Titles~
+Aera~
+They dont work, you cant set them.  If you type title <message> it says
+
+<type help for help>.  Very annoying.
+
+@I-Aera
+
+
+titles were DISABLED PURPOSEFULLY for a time so abuses could not be made
+
+on the web site.
+
+@RP@Yh@Gu@Bl@Me@n
+
+~
+895637041
+belly pouches~
+Yuffi~
+well when you have 2 belly pouches it says: two empty belly pouchs
+
+when it should be: two empty belly pouches
+
+~
+895636632
+Nod social~
+Amergin~
+Seems to imply agreement, at least with lizardmen.  Perhaps it would
+
+simplest to just say *** nods at ***.  and let any further forms of
+
+complexity result from actual poses.
+
+
+try the social AGREE
+
+@RP@Yh@Gu@Bl@Me@n
+
+~
+895637393
+ogre Beat~
+Irmo~
+The Beat social for ogres has a typo in it.  Then a male ogre beats
+
+himself it gives the word, hisself to others - I don't recall this being
+
+a word, shouldn't it be himself?
+
+-- Irmo
+
+~
+895637008
+arrivals~
+Thunor~
+This is actually a real old bug, but it's still not fixed..
+
+room is On the Stalagmite - this is as you enter thieves den..
+
+When someone "jump s"s their arrival is not noted..  you have to scan or
+
+try to do a social on them to see if they are there yet..  :^( 
+
+~
+895636076
+[Bug] in thieves den~
+Thunor~
+Reported this before but the board got wiped and the [BUG] is still here..
+
+[BUG] quickly angles his body and delivers a kick.
+
+
+please be more specific i can't find where you're talking about.
+
+@RP@Yh@Gu@Bl@Me@n
+
+~
+895637282
+Skunk~
+Sa'fach~
+The skunk cocks its head at you in curiousity.
+
+
+Thats all fine and dandy, except for the fact that i was asleep when it
+
+happened 
+
+
+Also, it doesnt appear to have the KW skunk
+
+~
+895680772
+Racial Stats/Descriptions~
+Thunor~
+Just surveyed the races available at creation to see what changes had
+
+been made, found a few things that are inconsistent.
+
+The quick summary of races screen when you create [has the header "The
+
+following races exist in the world"] says: 
+
+Lizardman: Strong, wise, but not very bright
+
+[But lizard stats for wis are now identical to human.]
+
+Orcs: Strong, but slow and dumb
+
+[However Orc dex is now identical to human.]
+
+Goblins: Quick and tough little squirts
+
+[This is the strangest one of the bunch, it looks like somehow the goblin
+
+stats got overwritten with halfling stats.  Goblins are now identical to
+
+halflings statwise...  with above average dex and *int* (???) but below
+
+average str and *con* ("tough"?)]
+
+It was suggested to me by another player that perhaps this was an
+
+intentional change and the summary screen was simply out of date, but the
+
+recently updated help goblin file agrees with the summary screen, not the
+
+current stats.
+
+For instance it says they are "tough and wily" possessing unusual
+
+"resistance to disease and infection" and live off the castoffs of other
+
+races...  certainly sounds like a high con/low int race.
+
+~
+895740414
+Goblin social/help file~
+Zak~
+Goblin social think:
+
+You place your finger on a fang and begin thinking.
+
+Help Goblin:
+
+Goblins tend t ohave sharp teeth, though they are smalls and would not be
+
+called fangs by any stretch of the imagination.
+
+~
+895772320
+Gnomish Youth~
+Spyder~
+The wandering gnomish youths (sic) do not have gnome as a keywork.
+
+~
+895778633
+Terrible Bug~
+Rue~
+There are all these mortals running around.
+
+'nuff said.
+
+Rue
+
+
+@c--
+
+Thanks for the post.  It's been dealt with.
+
+--Caer@n
+
+--
+
+You missed fenlyn I think.
+
+@C*Florian@n
+
+~
+895825644
+Med Inn Fire~
+Bliss~
+Cant ignite stuff with it
+
+
+@c--
+
+Work in progress.  Thanks.
+
+--Caer@n
+
+~
+895833515
+Whois~
+Zim~
+The Created date seems to be wrong.
+
+
+@yAfter the pwipe, the date should be right...  except for us imms. 
+
+--Fenlyn@n 
+
+~
+895779759
+Lizardmen flirting~
+Sssstrudel~
+i "flutter my eyelashes flirtatiously"
+
+me is lizardperson, me no have eyelashes
+
+--
+
+Nod, I'll get to it sometime...trust me.
+
+*(done)
+
+@C*Florian@n
+
+~
+895851798
+Typo social threat~
+Edgar~
+If someone threatens to kill me while i'm sleeping *peer* It says "Your
+
+are disturbed by dark nightmares" I think it should be you are disturbed
+
+by dark nightmares.
+
+~
+895885556
+gobbo social~
+Griffin~
+Scena appears dizzy from wafting Korah's nauseous odors after Korah
+
+lifted his arms.
+
+Korah's a girl, tho :P
+
+~
+895919453
+social bug:~
+Meina~
+: a slender, solemn vyan with vibrant green eyes coughs, uncomfortable in
+
+the presence of lesser beings.
+
+Should I see a : in it?
+
+~
+895910957
+Quilted Picnic Blanket~
+Siralla~
+I got this when I wore this item:
+
+
+You horse.foot a quilted picnic blanket.
+
+---
+
+This object is not meant to be worn.  Has been fixed.
+
+-- Merior
+
+~
+895923566
+Bug.~
+Daar~
+You ask an old man about a ring.
+
+[BUG] mumbles something about kids today.
+
+
+***fixed
+
+rue
+
+~
+895960071
+kobolds~
+Nehemiah~
+Kobalds can't be target when any other type of kobold is in that same
+
+room.  If a keyword is used that different mobs share and one mob has
+
+only one keyword, that mob should be target, because else there is no way
+
+to target it (particulary nasty since this particular mob assists and
+
+caused death.) 
+
+
+***
+
+Fixed up
+
+Rue
+
+~
+895986482
+Zombie butler room in Zaranders~
+Pulchit~
+Room desc says that there's a chest in the room...
+
+But there's no chest item!  BAH!
+
+Pulchit
+
+
+***
+
+Chest is right here.  I can't find any problem.
+
+Rue
+
+p.s.  I just found out that you were right, somebody fixed it before i
+
+got there...
+
+~
+895987542
+Lefty~
+Faucelme~
+There's a quest in Voaleth where someone suggests you to speak with Lefty. 
+
+But there's no way anymore to find out who lefty is, as the name doesnt
+
+show up on scan anymore.
+
+
+***
+
+You can see the names of the mobs after you look at them.
+
+Rue
+
+***
+
+Didnt know did, and how could I?  Seeing a name when you look at someone? 
+
+*boggle* 
+
+But thanks for replying.
+
+~
+896029066
+quilted leg pads~
+Thailog~
+You can't wear these with other leggings, it seems they take the same
+
+spot, but all other quilted stuff fits underneath your normal armor.
+
+~
+896111804
+High score~
+Jaime~
+Says see help high score.Is no help high score.
+
+
+@yRenamed high helpfile to high score.  --Fenlyn@n
+
+~
+896130321
+Egor~
+Varro~
+I recently saw on Egor from the Chiiron graveyard:
+
+___________________________________
+
+Worn on body        cloth hat
+
+
+Now, I'm no expert or anything...
+
+~
+896162853
+Deep spiders~
+B'yann~
+When I look at the room that my 2 pet spiders are in, it says
+
+
+"You can barely make out two gray-white  are standing here,"
+
+
+Should say 'deep spiders' in the gap ;)
+
+~
+896197693
+Medienne: sewers/gates/rats~
+Sedennial~
+Can see the rats in the Medienne sewers.  Are they no longer hidden?  I
+
+didn't used to be able to see them under normal circumstances.  This is
+
+using scan and auto.scan.
+
+
+Also, the guards will open the gate for me.  I'm a vyan.  While this is
+
+nice, I must confess I'm more than a little surprised.
+
+
+In addition, the rats are no longer aggro. Is this a bug?
+
+
+***
+
+Hide is broken.
+
+Rats now aggressive.
+
+Medienne is becoming a more metropolitan city.
+
+Rue
+
+~
+896219543
+bees~
+Marik~
+You taunt a giant bumble bee worker.  Uh-oh, boy that looks like it made
+
+her mad . Hmm...  correct me if I'm wrong but only the Queen bee should
+
+be female.  -Marik 
+
+
+**
+
+You are right, has been fixed.
+
+Rue
+
+~
+896219632
+Hump-backed BUG~
+Grimsza~
+The troll takes the coin in [BUG] outstretched palm and casually tosses it
+
+This is by brith of course..
+
+
+***
+
+Fixed
+
+Rue
+
+~
+896220072
+Targetting spells.~
+Fleur~
+When killing in a room with multiple mobs you can't target another with
+
+the same name as the one previously killed.  You always get you can't
+
+kill or cast that on the corpse of blah.
+
+
+***
+
+Typing kill 2.xxx works fine.
+
+Rue
+
+~
+896228376
+Lizardmen~
+Parn~
+cant be paladins.  If it is on purpose, please post it saying so :)
+
+
+Parn
+
+--
+
+Lizardmen can only be of neutral alignments: LN PN CN. Paladins can only be LG or LE. Hence, no lizardmen paladins.
+
+This is on purpose.
+
+@C*Florian@n
+
+~
+896331810
+sinkhole no drinking water~
+Ghu ju~
+sinkhole no drinking water
+
+or any other wet room tuching it has water that one can drink.
+
+thanks.
+
+Ghu ju
+
+
+***
+
+fixed
+
+Rue
+
+~
+896388904
+re: bees~
+Demok~
+Note 3 on the fixed board states that only the queen should be female. I
+
+quote from the World Book Encyclopedia, "All workers are female, just
+
+like the queen, except smaller." So it was right the first time.
+
+
+***
+
+Yup, thanks.
+
+Fixed
+
+Rue
+
+~
+896389152
+vitality~
+Sklaan~
+i was under the impression that vitality was changed to hp=level*5 but it
+
+just seems to give a flat 30.  i'm not sure this is a bug or if it was
+
+changed back to the way it was.
+
+Sklaan, da uber goober.
+
+
+****
+
+Is the intent to change someday, but for now isn't a bug.
+
+Rue
+
+~
+896389291
+HitPoints.~
+Aldric~
+Shouldn't a level 6 ent warrior have more hp than a level 6 human warrior..... 
+
+if the ent has a 19 con and the human 18?
+
+
+Would sure make sense to me...
+
+
+***
+
+Perhaps.  Depends on luck.
+
+Rue
+
+~
+896389676
+chiiron waterfall~
+Tehanu~
+When i am west of the waterfall it says i'm east of it and vice versa
+
+maybe i don't know my west from my east.
+
+
+***
+
+*drool*
+
+Fixed
+
+Rue
+
+~
+896408686
+SNUFF~
+Bwithh~
+Someonebeen selling snuff to weaponsmith
+
+in chiiron - surely not rite
+
+
+***
+
+Fixed
+
+Rue
+
+~
+896452086
+Help Credit~
+Parn~
+Kaos is mentioned twice.
+
+~
+896465097
+_a scrap of paper~
+Bwithh~
+drop 2 of these on the floor and it comes
+
+up singular
+
+~
+896481042
+chuckle~
+Erainn~
+I can chuckle in my sleep.
+
+
+---
+
+
+the creator of the elven social 'chuckle' was to blame, it is fixed now,
+
+however.
+
+~
+896479186
+Okay...I gotz a doozie~
+Drag'ros~
+I have a Cow as a pet.  I am a troll.  I am going east and I get this
+
+message.  ** A cow is too large to follow you there.  ** Now I am a
+
+troll...are you tellin me dat da cow is Bigger than a troll...You be da
+
+Judge.
+
+
+---
+
+Cows are considered horse sized by the code.  Though this is not entirely
+
+anatomically correct for traditional cows, builders can envision any
+
+beast they like.  Many builders make their mobs larger then human-sized
+
+exactly to prevent their being able to enter some rooms, btw.
+
+~
+896531462
+Silver ring~
+Vorex~
+Cant compare this item to other rings even though they ARE worn in the
+
+same spot.
+
+---
+
+Some rings are considered armor, and some treasure or 'pretties'. 
+
+Although they go in the same spot, the code does not consider them
+
+similar enough for compare to work.
+
+-- Merior
+
+~
+896531578
+Social: Vyan: Salute~
+Ashke~
+'salute' executed on a female got me..
+
+You salute Hyzenthlay.  Yes, sir!
+
+now shes a girl, can we say, 'Yes, ma'am!'
+
+
+@CAshke@n
+
+--
+
+Unfortunately, not.  Socials don't allow you to vary words based upon
+
+recipient's sex (other then pronouns, or whatever he/she, him/her, etc. 
+
+are).
+
+-- Merior
+
+~
+896531924
+desert sand crabs~
+Merolen~
+They have a missing plural appearance, I think.  If there's two, they
+
+scan as 'two.' 
+
+~
+896542300
+Brush, Streambed NE of Chiiron~
+Kwee~
+Should wading ankle-deep through a stream be considered swimming?
+
+I can't recall a time that walking down a quiet stream exhausted me so.
+
+-Kwee
+
+~
+896536705
+kobolds~
+Maxxim~
+Before you can stop a tall, lithe vyan with haunting eyes, he reaches for
+
+the torch, burning his hand!  A searing hot torch injures a tall, lithe
+
+vyan with haunting eyes.
+
+The damage done in this instance should probably be fire damage.
+
+
+***
+
+Code in room is correct, but mud-code needs to be fixed.
+
+Rue
+
+~
+896547616
+Mansion painting~
+Lyb~
+Yu can lok at painting but can't unlock it.
+
+
+***
+
+Not everything is as it was before.
+
+Rue
+
+~
+896547862
+Zuralduur bug~
+Dritz~
+think this is a bug my black feather gives no regen?  Dritz 
+
+--
+
+nope.
+
+~
+896627169
+homoncul-i/ous~
+Montarion~
+two small homonculous are here/two large homonculi are here.  Figure it
+
+out.
+
+~
+896604754
+dwarven clerk in kha-da~
+Shandril~
+when i asked the clerk for the hammer its said.
+
+***FAILS TO COMPILE
+
+***error on line 65
+
+***error of unknown type.
+
+think it should have been something a little different dont you guys .:)
+
+Shandril the finder of buggys
+
+
+@yAny code with function get_size should be changed to size(whatever);
+
+The clerk is fixed as is the shuvana tree.  --Fenlyn@n
+
+~
+896657498
+Deer bug?~
+Freywin~
+I've tamed a bear, a squirrel and a deer.  I grouped them and in the
+
+group thingie, it shows me as an elf, the cub as a bear, the squirrel as
+
+a rod (rodent?) but the deer is blank.
+
+I'm guessing that deers don't have a race?
+
+
+@yFixed.  --Fenlyn@n
+
+~
+896657636
+Feeding pets~
+Freywin~
+I tried to "give carrot deer" when i had a pet deer.  it ate it.  i tried
+
+to "give meat wolf" now that i got a purty woof.  He turned it down. 
+
+now, I'm wondering, since I'D eat that meat, does he have better taste
+
+than me, or is he just a real finicky eater?
+
+Yuck.  I offered him a carrot and he ate it.  I've got a vegan wolf??
+
+
+@yFixed.  --Fenlyn@n
+
+~
+896657804
+Wool~
+Arlec~
+Only part of this is a bug, methinks The woolen cloak customed in pennan
+
+takes the place of the black robe, rather than the deerskin cloak i am
+
+wearing.  Why do two cloaks go in two different places?  I can compare
+
+the deerskin and woolen cloaks, implying they are the same type of item. 
+
+the other bug concerns the properties of TFE wool.  Wool is a fire
+
+retardent, especially the pure wool from TFE's fine sheep.  Why is it
+
+then that woolen items increase fire damage?  shouldnt this be the
+
+otherway around?
+
+thank you,                            Arlec Tera'tarlen, fire mage.
+
+
+@yI don't buy the fire retardant part of your note, but the wear location
+
+has been fixed.  --fenlyn@n 
+
+~
+896657924
+leather cord~
+Umas~
+why do i have to kill a good aligned mob to get this.
+
+
+***
+
+You don't have to.
+
+It pops elsewhere.
+
+Rue
+
+~
+896674151
+mobs of same keyword~
+D'Arvill~
+If two mobs in the same room have the same keyword, but are Very
+
+different, surely there is some sort of register which means you attack
+
+the smallest first?  So, if the white stag has 'deer' as a keyword, and i
+
+leap to attack a deer just as the stag enters the room and i attack it
+
+instead, I wouldn't die horribly?
+
+Like I just did?
+
+
+***
+
+Look deer, or look 2.deer will help you decide which one you want to
+
+attack.  Then you can type either kill deer or kill 2.deer.
+
+Rue
+
+~
+896714194
+Is this a bug......~
+Togashi~
+I seem to be getting a massive amount of practs, nearly one a fight, fair
+
+enough my wisdom is 16, but I'm getting lots here.
+
+
+***
+
+No.
+
+Rue
+
+~
+896714224
+horse equipment~
+Arawa~
+I have recently bought a heavy war horse, plate barding and saddlebags. 
+
+I cannot find a syntax to allow me to put the equipment on the horse.  Is
+
+this a bug?  Arawa the owner of a naked horse.
+
+
+****
+
+Read the help mount.
+
+Rue
+
+~
+896714849
+Calm in ants~
+Demok~
+I walk into a soldier ant and a worker ant, so both attack me, like they
+
+should.  However, I'm only interested in the queen so to save time I cast
+
+calm on the soldier.  The soldier ant stops attacking me, but the worker
+
+is still fighting, like he should.  So I start casting calm on the
+
+worker, but in the meantime the soldier ant has reentered the battle,
+
+assisting the worker ant.  Basically I calmed both ants multiple times,
+
+but the kept on assisting the other one after being calmed, this doesn't
+
+make sense.
+
+
+***
+
+These mobs assist each other.  This is exactly how this spell is supposed to work.
+
+Rue
+
+***
+
+
+Obviously they assist each other, but isn't the purpose of calm to stop a
+
+mob from attacking you?  If it's calmed it should become docile and just
+
+sit there like a good little ant.
+
+Demok
+
+
+***
+
+No.  This works only for one 'docile' mob.  Those that assist will still
+
+assist.  This is how we want the spell to work.
+
+Rue
+
+~
+896734123
+White Duck skins frog legs.~
+Surtur~
+@C==
+
+Read the duck's description, and you'll see why it skins for frog legs.
+
+Olah@n
+
+~
+896805781
+trogs~
+Shandril~
+in trogs the inside a building with exits west and down when you try to
+
+go down it said.
+
+***FAILS TO COMPILE
+
+***Error on line 1
+
+*** Error of unknown type.
+
+the room also has a lever in it.  when you pull the lever it goes through
+
+this little bit about noise and stuff.  then its says.
+
+Alarmed by the noise and the strange sight, BUG flees west.
+
+then my deep spider fleed west at that point.  understand why he fleed
+
+just got a strange message and all.
+
+Shandril the bug finder!
+
+--
+
+fixed.
+
+@C*Florian@n
+
+~
+896809887
+Sallow skinned troglodytes~
+Hoel~
+Since the weapons in this area were changed (degraded) an unarmed sallow
+
+skinned troglodyte can do considerably more damage than an armed one. 
+
+Not really a bug....  just seems odd.
+
+
+
+@g- - - - -@n
+
+Not really.  Weapons changed, damage they can do armed is still greater
+
+than unarmed as it was before.  Even if a damaged weapon does less damage
+
+than its bare hands, having a weapon gives it extra attacks as well as
+
+potential for more damage with them.
+
+-Talis
+
+@g- - - - -@n
+
+~
+896815089
+Locust kIck~
+Surtur~
+It's impossible to find the mob who teaches this skill.
+
+was wondering if it's a bug?
+
+
+***
+
+One exists.
+
+Rue
+
+~
+896888810
+large homonculuos~
+Gaines~
+After killing a large homonculous, I took all from the corpse.  The
+
+message I received was that the corpse of a small homonculous contained
+
+nothing.  But then when I skinned it, I skinned the corpse of a large
+
+homonculous.
+
+
+***
+
+I tried this and it worked fine.  You can't skin the small homonculi. 
+
+Maybe it rotted between you getting items from the corpse and trying to
+
+skin it.
+
+Rue
+
+~
+896903154
+Fisherman ghost~
+Belle~
+The Ghost of a Fisherman in the Gremlins thanks you for your help even
+
+when you have not completed the quest.
+
+Belle, the cute little spunky gnome.
+
+--
+
+Maybe its just because you're so darn cute?
+
+fixed
+
+~
+896935526
+Home of the shaman~
+Griffin Tgar~
+When I scan in this room, I see:
+
+[Here] : a lizardman shaman,
+
+
+Note the comma at the end.
+
+*shrug* just a little thing to annoy the imms ;)
+
+--
+
+Picky. BUt fixable.
+
+@C*Florian@n
+
+~
+896935973
+Shock and hallows~
+Bwithh~
+shouldnt this casuse shock death for the caster when used in shallows?
+
+i mean only if the target is in the water
+
+so not deer standing in pool or bird in air but
+
+certainly fishy in water - the charge should run up into ya
+
+thru your shoes
+
+or maybe not shock death, like in deep water
+
+but just some damage - say charge
+
+
+***
+
+The spell works correctly in shallow rooms.
+
+Rue
+
+~
+896976733
+Plains~
+Griffin Tgar~
+Autoscan doesn't work in the plains. Kinda annoying when you walk into aggro mobs
+
+
+***
+
+Autoscan doesn't always work.  For instance, an area with TALL grass
+
+might make you pause to look around before you 'see' everything.
+
+Rue
+
+~
+896976854
+slap social~
+Snog~
+You can no longer slap someone with an object.
+
+- Snog -
+
+
+@C==
+
+You can again.
+
+Olah@n
+
+~
+896980166
+woodpecker~
+Fingolfin~
+A woodpecker floats in from the north.  I think it should fly in from the
+
+north, but I may be wrong.
+
+Fingy
+
+@C==
+
+These birds, like most of them, were given float over fly awhile ago since
+
+fly wasn't behaving right, but float reduced their movement points.
+
+Olah@n
+
+~
+896980430
+diggin..~
+Kedero~
+Sometimes, for no reason, you get the message, 'You dig in the sand, and
+
+find a small clam!' twice when you dig hole.
+
+This is in the room Sandy Beach at the Sea (and you still only get one
+
+clam to come up) 
+
+I left a typo in the room as well.
+
+
+Ked
+
+
+@C==
+
+Fixed.
+
+Olah@n
+
+~
+896980726
+mottled green cap~
+Griffin Tgar~
+Dunno if the head slots are still being worked on or not, but currently
+
+you cannot wear mottled cap and a blackened helm at the same time.
+
+
+@rGrif@n
+
+
+@C==
+
+Head slots have already been reworked and different items take different
+
+positions on your head now.
+
+Olah@n
+
+~
+896980947
+ent social~
+Jaime~
+more of a typo
+
+Rag'nor blushes, Rag'nor rough skin turning a ruddy shade.
+
+no possesive where their should be.
+
+~
+896998420
+Reput~
+Demok~
+Doesn't register a grievance to a nation after killing a player.
+
+
+---
+
+
+players are not in nations
+
+@RP@Yh@Gu@Bl@Me@n
+
+~
+896998551
+kobolds lair~
+Devilen~
+Inside after going thru the secret passage, when you get to the room
+
+@RWinding Tunnel@n there are west and down exits.  If you head west it
+
+gives the FAILURE TO COMPILE message.  Thought I'd point it out.
+
+@BDevilen
+
+@n
+
+
+@yFixed.  get_size should have been size.  --Fenlyn@n
+
+~
+897062815
+Wizard in rabbit warrens.~
+Belgar~
+If you look at this guy, then type kill dwarf, the dwarf keyword's not
+
+recognised because his name appears to be 'a scruffy wizard.' He now
+
+appears as: 
+
+A scruffy wizard, a small dwarf dressed in mage's robes, offers carrots
+
+to the rabbits.
+
+
+@C==
+
+His appearance has been altered somewhat.
+
+Olah@n
+
+~
+897069970
+zombies~
+Xemas~
+multiple zombies should be 'west : four lynx zombies' not 'west : four
+
+zombies of lynxes' as it is atm.
+
+
+@C==
+
+Sounds fine to me.
+
+Olah@n
+
+~
+897070032
+Clerical weapons and mob conditions...~
+Cedric~
+According to the help cleric file, clerics do not use weapons that shed
+
+blood.  Thus, we clerics use hammers/maces/clubs to do damage.  The
+
+problem is that when you check a mob's condition, and a cleric is
+
+fighting it, the mob can be covered in blood.  This doesn't seem to make
+
+sense if clerical weapons aren't supposed to shed blood.
+
+
+***
+
+There is no plan on changing this at all, and it would make no sense to
+
+change it.
+
+Rue
+
+~
+897096333
+To/tell~
+Liana~
+The weary elf in Chiiron still advises me to tell mobs hi.
+
+
+@C==
+
+Fixed.
+
+Olah@n
+
+~
+897149338
+Skinks.~
+Belgar~
+When skinks run away using their power, they appear as [BUG]
+
+
+@C==
+
+Fixed.
+
+Olah@n
+
+~
+897149610
+Fruit bats.~
+Belgar~
+Tamed one, and I get:
+
+Foobar, a small fruit bat, is standing here.
+
+
+@C==
+
+What's wrong with fruit bats standing around? ;)
+
+Anyway, they're just flagged as fliers, but flying mobs show as standing
+
+around after being tamed.  I'm not sure if it were meant to be this way
+
+or not.  It actually does make sense this way, though.
+
+Olah@n
+
+~
+897149760
+Jhirrik~
+Demok~
+The gnome south of the pennan bank is clearly a gnome, yet when
+
+considered his nation is stated as secomber.
+
+
+@C==
+
+Just because he's a gnome doesn't mean he can't be part of the secomber
+
+clan.  He's lived so long with the humans of secomber that he's been
+
+allowed to become part of their clan.
+
+Olah@n
+
+~
+897149870
+"A giant mosquito wades south"~
+Bwithh~
+perhaps float/fly better?
+
+
+@C==
+
+Floaters still wade through water.  It's just a flier rather than a
+
+floater now, however.
+
+Olah@n
+
+~
+897149985
+Warren Tunnels - Dead End~
+Belgar~
+In this room, the code to web you when you enter doesn't appear to work.
+
+
+@C==
+
+Fixed.
+
+Olah@n
+
+~
+897150283
+"A young eagle is floating here"~
+Bwithh~
+huh?
+
+
+@C==
+
+Tameable fliers were flagged as floaters awhile ago since floating cost
+
+them fewer movement points.  It looks weird, I know, but it's the current
+
+fix until flying is figured out.
+
+Olah@n
+
+~
+897151363
+Coral and pearl bracelets~
+Raudhrskal~
+Wearing two of these doesn't seem to work right..  I will get the affects
+
+from wearing one of them, but when I wear the second it doesn't affect me
+
+at all..
+
+
+@C==
+
+Like Fenlyn's note on announcement board says, he is still working on
+
+wrist items.  I changed it so that you'll get affects from wearing two,
+
+but be warned that level, stats, etc.  on it MIGHT change in the future.
+
+Olah@n
+
+~
+897159301
+tainted~
+Glmory~
+my second tainted bracelet has the same problem  the coral bracelets had
+
+
+@C==
+
+Fixed.  please just send me a tell or mail, or to Fenlyn for these sorts
+
+of things so the noteboards won't get cluttered.
+
+Olah@n
+
+~
+897159574
+Block of Salt~
+Bwithh~
+desc reads "Clear as a piece of ice"
+
+i say "?" because i dink "?"
+
+--
+
+You can read this two ways, either and both of which I intended.
+
+Way(1): Some ice can be extremely clear, depending upon the conditions of
+
+formation.  Same thing with halite or salt.
+
+Way(2):Ice can also be opaque - meaning you CANT see through it.  This
+
+also can be how salt looks when its crystalline structure forms.  Either
+
+way, the desc is correct, I', not sure I see the '?', and it, like many
+
+other things, is suppose to depend on interpretation.
+
+@RBetter?
+
+@C*Florian@n
+
+------------------------------
+
+*reads Materials Structures 101 text*
+
+Ahhhhh!!! now I see the light!!!!
+
+danks!!! now i dink "indeed!"
+
+~
+897170725
+energy regen/hp regen?~
+Waylander~
+I was just fooling around with my equipment and noticed that
+
+in my ten levels of experience i have gained a whole 0.8
+
+energy regen.  Making on average 0.08 regen per level.  I'm
+
+hoping this is a bug, and not the way its going to be.
+
+Hp regen seems to be working fine, and increasing normally
+
+just not energy regen.
+
+
+@C==
+
+This has to do with a certain attribute which you are deficient in.  It
+
+is not a bug.
+
+Olah@n
+
+Oh..a stat i'm deficient in...lets see...considering -none-
+
+of my stats are extremely deficient, i wonder which one you mean.
+
+~
+897234975
+'on the windlass'~
+Umas~
+'You can't drink from a river.'
+
+a thirsty knight
+
+
+@C==
+
+Fixed.
+
+Olah@n
+
+~
+897235002
+River in Trogs~
+Gaines~
+When I tried to drink from the river in trogs, I received the message:
+
+"You can't drink from a river." And when I tried to fill my waterskin in
+
+it, it received the message: "A river isn't something you can fill from."
+
+Yet, the description of the river says that it "invites you to drink and
+
+sate your thirst." 
+
+Not sure, but seems like a bug to me.
+
+
+@C==
+
+Fixed.
+
+Olah@n
+
+~
+897235029
+Morseth in monestary.~
+Belgar~
+He tells you to tell him yes, rahter than using to.
+
+Oh, and his appearance has an extra comma at the end.
+
+
+@C==
+
+His appearance is fixed, but I didn't take out the tell part since it
+
+wouldn't make sense for him to say to 'to him yes'.  I did add a 'To'
+
+help file just in case.
+
+Olah@n
+
+~
+897236427
+Weights~
+Snog~
+Something seems to be wrong with weight.  I start off in a group with a
+
+full canteen of water, a bunch of food in my backpack and am unburdened. 
+
+I have since then run out of food and drank my canteen out of water. 
+
+After having my canteen refilled, I find that I am now lightly burdened. 
+
+I'm not sure what is doing this but my only guess is that when I eat and
+
+drink it doesn't subtract the weight from my total.  If this is the case,
+
+I'm curious if it works the same when a spell reagent gets used up, that
+
+it won't show a lowered amount for a mage/cleric/ranger's weight and
+
+number of items in their inv.
+
+- Snog -
+
+ps, will try and figure it out and post more 
+
+****
+
+Before my inv's weight was around 37+ and after quitting and logging back
+
+on my inv's weight has dropped back down to 12 which is what it should be. 
+
+It would seem to me that items that get eaten and liquids (water) that
+
+one drinks do not get subtracted from the total weight in one's inv.
+
+(again I'll play around some more watching the weighs and see what
+
+happens when you eat something etc.  > 
+
+~
+897292398
+Sprite cold damage~
+Drizzkul~
+When the sea sprites use their cold based damge attack the only thing
+
+they ever seem to hit is themselves.  This seems a little screwy to me.
+
+
+***
+
+I have placed a temporary fix
+
+Rue
+
+~
+897370765
+Red Mote~
+Valince~
+bug The ansi on the green-red mote in the vaasa is only green, not red on
+
+the red.  Just thought you'd like to know.
+
+
+@C==
+
+We can't, for the time being, make mob appearances with multiple colors
+
+in it.  So for now, use your imagination for the @rred@n@C part :) 
+
+Olah@n
+
+~
+897374783
+Cold damage~
+Vorex~
+This should probably be cold damage.
+
+-=-
+
+An imp sentinel's blast of cold breath decimates you.
+
+-=-
+
+Room name is: Ascending Tunnel
+
+
+***
+
+fixed
+
+Rue
+
+With special thanks to @B*Florian@n for saving my sanity while i fixed
+
+this one.
+
+~
+897374820
+Ent Social: Bored~
+X'mulf~
+There is only one @Re@n at the beginning of @Ceyes@n.
+
+-- Yeah yeah.
+
+@C*Florian@n
+
+~
+897380271
+Chickens~
+Otamo~
+They are classified as mob "Unk" (Unknown).
+
+I believe they should be Avion
+
+:)
+
+~
+897383798
+Sacrifice qest?~
+B'yann~
+Sacrificing the skin in chiiron doesn't complete the quest the priestess
+
+gives you.
+
+--
+
+Worked for me - but I had to drop the item before I could sacrifice it. 
+
+Try it.
+
+@C*Florian@n
+
+~
+897410282
+giant white rabbits~
+Xemas~
+i think there may be a broken armor spot on them...  keep critically
+
+hitting them for no damage every now and again..
+
+
+@yFixed.  --Fenlyn@n
+
+~
+897495697
+Old Man~
+Ashke~
+Griffin Tgar tellss an old man something.
+
+
+@CAshke@n
+
+
+@C==
+
+Fixed.
+
+Olah@n
+
+~
+897504847
+Orcish thug~
+Belgar~
+THe appearance is stuffed up.
+
+~
+897555388
+trout bashing~
+Hildebrandt~
+Can bash trout in pool north of Chiiron
+
+
+@C==
+
+Changed.
+
+Olah@n
+
+~
+897592173
+Typo~
+Derjek~
+Lord richard - asked about kidnappings.  'loosing sewer workers' should
+
+be 'losing...' 
+
+And in his appearance, 'A long scar arcs from his left temple down to
+
+chin' should be 'to his chin'.
+
+
+@C==
+
+Fixed.
+
+Olah@n
+
+~
+897592200
+Blocking~
+Edgar~
+Not sure if this is fixable, but I walked north, into a room with a yeti,
+
+looked in Aera's corpse, but when I tried to walk back south again, it
+
+said the yeti was blocking my direction south, if it was blocking my exit
+
+south, I wouldn't have been able to enter that way either.  Note that I
+
+spammed it in using Semicolens, "n;look in aera;s" 
+
+
+***
+
+This is not a bug.
+
+Rue
+
+~
+897663967
+Green Slime caves~
+Griffin Tgar~
+I think these guys need to be looked in to.  The mobs have an AC that
+
+makes Ice hounds look like puppies and the tromp's horn look like a
+
+jelly-bean.  I doubt this was intentional, as this area is a lower
+
+level-ish area.
+
+
+@rGriff@n
+
+
+***
+
+By nature they are difficult to harm.  Some people don't have to go
+
+through the armor and kill the slimes easily.
+
+Rue
+
+~
+897664136
+axes and ents~
+Rag'nor~
+okay...Ents can not use axes...so why can we learn them???
+
+
+@yBecause skill abilities are based on class and not race.  --Fenlyn@n
+
+~
+897543462
+Desert bug.~
+Daar~
+While fighting a young sand wyrm, we got a :
+
+Suddenly, [BUG] shifts to the side and thrashes about wildly.
+
+message, and while fighting the ant (dont know the whole name) it was:
+
+Clacking in fear, [BUG] releases a honey-sweet odor into the air.
+
+                   Daar
+
+--
+
+Its coded correctly - more or less.  I'm waiting on a hard code fix from
+
+GC so this problem is universally fixed.  Bear with it a little longer
+
+please?
+
+@C*Florian@n
+
+~
+897547169
+following in desert~
+Umas~
+sohuld not separate the group.  the leader might get lost but in the end,
+
+we're following them.
+
+--
+
+Yes, you are following them, by technical terms of the follow command. 
+
+But while you may follow someone, you can still get separated from them. 
+
+I'm sorry, but this part of the desert is truly meant to be frustrating
+
+if you go into it without the proper resources.
+
+@C*Florian@n
+
+~
+897547442
+Travelling minstrel~
+Fingolfin~
+When he sings his song, there comes up a line showing: No description.
+
+--
+
+Heh, sue me. Dont suppose you noticed which one ? :)
+
+Fixed.
+
+@C*Florian@n
+
+~
+897675059
+Shuavan Tree - Enter Message~
+Jocelyn~
+Steele enter the rip in the trunk of the Shuvana to the north.
+
+It's missing an s.
+
+--
+
+Fixed
+
+~
+897675353
+shuvana tree~
+Steele~
+Jocelyn kneels down before the living root and begins to speak to it in a
+
+low peaceful voice.  #e then cuts a small piece of wood from the root and
+
+takes it with her.
+
+--
+
+fixed
+
+@C*Florian@n
+
+~
+897675378
+DarkHaven Exit~
+Gabriel~
+You can't look at the thing you have to move to get out from under ground
+
+from Dark Haven.
+
+--
+
+Fixed.
+
+~
+897675778
+Dwarven Captain~
+Atrax~
+Could someone please tone down the repetition of his calling for help?  5
+
+full pages of calling for help in a row caused most of my group to lose
+
+link (mostly healers) and consequentially I died...  You'd think a dwarf
+
+wouldn't be pansy enough to need to cry help 100+ times in a row
+
+(no comments from the darkie peanut gallery on that one)
+
+~
+897385094
+Cloth Tunics~
+Seltha~
+Required for a custom, these only pop on valley warders!
+
+-required for a custom, do not.
+
+~
+897810705
+Half-orc Outlaw~
+Seltha~
+Equipment is wierd...
+
+Body Location          Item                                       Condition
+
+---- --------          ----                                       ---------
+
+.??                    large wooden shield                        reasonable
+
+Right hand             very tarnished bronze battle axe           reasonable
+
+.??                    tarnished long thin dagger                 damaged
+
+
+***
+
+Fixed
+
+Rue
+
+~
+897843938
+concerning a tank and his corpse~
+Kezef~
+Nasty little bug here, if the corpse of a person is in the same room they
+
+are, you can't cast any spells on them.  ie.  grif is killed by a
+
+cyclops, we summon grif back, and go on the cyclops again, he almost dies
+
+a second time because the clerics are all getting the message, 'You
+
+cannot cast on the corpse of Griffin.' 
+
+
+***
+
+Cast etc work fine if you  type xxx 2.griffin
+
+rue
+
+~
+897844080
+Parry~
+Edgar~
+Ok, I'm in a room with a rabbit.  I opt parry, I type K rabbit, and even
+
+though I don't hit the rabbit, or even try to hit it, it still leaps to
+
+attack me.
+
+
+***
+
+This is how opt.parry works.
+
+Rue
+
+~
+897844139
+Orogs~
+Atrax~
+Have opened the hidden door to this area about 5000 times over 5 alts,
+
+and have even been in this zone since the pwipe...  But since hidden
+
+doors have been messed with by GC the other day, we can't get it open...
+
+
+***
+
+Works fine for me.
+
+Rue
+
+~
+897844429
+Minor one in area file.~
+Cynthia~
+Pennan/Rua Valley and Hills of Pennan are the same location - should
+
+merge the contents of the two...
+
+
+@C==
+
+They're in separate area files so the areas in those area files are
+
+listed accordingly.  It's not worth it to merge the area files.
+
+Olah@n
+
+~
+897925019
+King cobra~
+Grimsza~
+Ok, it blinded me..  cool so far..  not that I liked it but I know that
+
+is not a bug.  However THIS seems like one..  remember I am already blind
+
+fighting at this point....
+
+As you watch someone's hypnotic dance, you grow drowsy!
+
+If I am blind how am I watching his hypnotic dance I must ask?  Seems
+
+like each of the effects is bad enough alone..  blinded or slept..  but
+
+it should not be able to blind me first THEN sleep me..  especially since
+
+the mechanism it uses to put you to sleep is visual.
+
+--
+
+Nothing we can do about this.  Grin, bear it, and use your imagination :/
+
+Maybe you were visualizing it internally :) 
+
+@C*Florian@n
+
+~
+898059430
+white duck~
+Squeaky~
+A white duck floats north.
+
+Seems odd, don't they fly?  Oh and plus, this was inside the ant caverns. 
+
+I doubt ducks would fly inside a cave...
+
+--
+
+@RRegarding FLY vs FLOAT.  Yes, mob avians float rather than fly?  Why
+
+not fly?  Because flying, at this juncture, takes more movement that does
+
+float.  So either birds can fly at like 4mv, walk at 2mv, or float at 1mv...
+
+@C*Florian@n
+
+~
+898060179
+Falling~
+Faucelme~
+Your hands loose grip of the slippery stone, and you go sliding to the
+
+floor below.
+
+The fall @rgrazes@n you.
+
+
+Yet im still standing. This is in voaleth caverns, Black stalagmite
+
+~
+896005805
+frogs~
+Kirkion~
+Seven frog corpses weigh one hundred and forty pounds, I think thats a
+
+bit much.
+
+
+- - -
+
+If you'll read the description for this variety of frog, you'll note that
+
+it stands knee-high, thus the reason for the excessive weight.
+
+@CN@cereus@n
+
+~
+898063555
+Medienne forest.~
+Belgar~
+In the room 'Muddy Path', you never used to be able to go west into the
+
+river.  Left a typo in it.
+
+
+- - -
+
+Due to an extremely warm spring thaw, the river has swelled and swept
+
+away the debris blocking entry into the river.
+
+
+@CN@cereus@n
+
+~
+898063090
+intro~
+Kirkion~
+You need to be standing to introduce.
+
+
+- - -
+
+This is intentional.
+
+@CN@cereus@n
+
+~
+898061815
+Protect good/evil~
+Edgar~
+There is no spell description for these 2 spells.
+
+--
+
+help protection/good and help protection/evil work for me.  (Why the
+
+spell has a / is beyond me, but the help files exist.) 
+
+@C*Florian@n
+
+~
+898157275
+raw white bat wing~
+Paco~
+This is what it says The wing of a large, white bat is 18" across, and
+
+clawed at one end.  The wing is tough and leather, but iin between the
+
+stabilizing ridges of cariledge is a wealth of meat.  second line it says
+
+"The ing is tough and leather" emote does the grooovy FUNK-A-TRON dance
+
+shouldnt it be tough as leather?
+
+~
+898182982
+Newbie starters~
+Ory~
+When i got to the vaasa from the portal, the newbie guide elven warrior
+
+asked me to ask him adive about TFE, im L8 
+
+
+@yIf you haven't talked to him before, how would he know you have asked
+
+for advice from someone else?  :P --Fenlyn@n 
+
+~
+898190814
+Buying items~
+Bade~
+I sold like 17 two handed swords (no joke) and wanted to buy some of them
+
+back.  I typed, "Buy 2.iron" but it sold me the first one.  So then I
+
+typed "buy 6.good" and it sold me the first one again!  I guess this a
+
+bug.  Please look this over and test it out and see what's up with it.
+
+
+@yBefore buying stuff like that, try list 2.iron to see what you would be
+
+getting.  This usually works.  --Fenlyn@n 
+
+~
+898190720
+Beach at the Sea~
+Skleesseth~
+I try to get a pebble, but it says nothing is woth taking here.  I can
+
+pick up pebbles and such in all the rooms on the beach except the two
+
+southermost.
+
+---
+
+There isn't something worth taking in every room.
+
+-- Merior
+
+~
+898208632
+Med Bank~
+Edgar~
+You can cast spells inside the Bank of Medienne.
+
+~
+898220681
+Medienne graveyard~
+Snog~
+There is a room in Medienne Graveyard where three bloodwraiths jumped out
+
+killing both myself and Haart.  It can be said that this was how Marek
+
+wanted it to be but then my question goes to the person who reviewed the
+
+zone before it was reopened..  That question being, why are there
+
+bloodwraithes jumping out in a level 20 zone?  More specifically since
+
+there were three of them and three of us were in a group, Why are they
+
+coming out one per group member?  Seems rather poor that the zone was
+
+created this way, if this was intentional.
+
+- Snog -
+
+ps, I don't know the room name because I died to quickly.
+
+**
+
+So what does this mean that the note got moved?
+
+-- Was fixed. Flor.
+
+~
+898230581
+Hawk Claw~
+Bwithh~
+its weapon class is "unarmed" is this rite? me dink it no sound rite
+
+
+-----------------------
+
+Those style of weapons fit under the unarmed catagory ;)
+
+
+Terek
+
+~
+898308388
+meditate and poison~
+Xemas~
+when poisoned and meditating, it says i have a hp regen of 1.8, yet my hp
+
+never raise, even though the -6 energy regen is working.
+
+@I
+
+---
+
+@I
+
+while poisoned you do not regen no matter what shows up in your regen
+
+field, because quite simply you are poisoned.
+
+~
+898224378
+where crystal rings used to be~
+Darion~
+if you look at the footprints on the floor it says that they are mostly
+
+going west and south.  IF you look at everything in the room including
+
+south, it would appear there is no exit south, Is this just a leftover
+
+from the old cave?  or am i missing something.
+
+~
+898313499
+The undead can't drown~
+Ickack~
+Undead pets should not have to breathe air, and shouldn't drown underwater.
+
+
+Ickack the lynx-deprived.
+
+--
+
+I agree. @C*Florian@n
+
+~
+898323427
+cure light~
+Montarion~
+potion of cure light wounds shows up as only potion of cure light.  is
+
+this correct?
+
+
+- - -
+
+Yes.
+
+@CN@cereus@n
+
+~
+898322710
+twisted animals~
+Malissin~
+Not sure if this is intentional but the twisted animals from Med forest
+
+are roaming very far from the twisted forest.  I encountered two on their
+
+own in the mountains north and east of Med Forest.
+
+
+- - -
+
+If left unharmed, the twisted animals can roam anywhere within the forest.
+
+@CN@cereus@n
+
+~
+898320673
+tripping over at icahlah tree~
+Bwithh~
+me trips over a wayward root - should i be sitting position afterwardfs?
+
+@c-----------------@n
+
+Lucky you. You didn't fall.
+
+@g-Starshine@n
+
+~
+898338408
+Tangle vine~
+Demok~
+When the vine's doing it's special attack it says as follows:
+
+A flower upon then tangle vine opens and projects pollen in your face.
+
+Grammar is kinda screwy.
+
+~
+897863582
+Help Socials~
+Parn~
+I think it should be added in help socials that typing social and a race
+
+gives you the race-specific socials.  :) 
+
+
+Sorry if that didnt make much sense. :)
+
+--
+
+Done.
+
+@C*Florian@n
+
+~
+898362472
+Love Social~
+Ashke~
+You declare youre undying love to Shaithis, offering a Zima to her. 
+
+Should be 'your'.
+
+
+@CAshke@n
+
+~
+898382140
+Brown-banded collar.~
+Vorex~
+Popped one of these on a mob in the thieves den near med, dont think this
+
+is right...
+
+~
+898411949
+Mist Forest~
+Kroog~
+I was fighting a Dew Sprite, and low and behold I was turned blind. 
+
+(blah blah blah yakkity shmakity) BANG! 
+
+@Y-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-@n 
+
+A small shape detaches itself from a nearby bush and hurls something at
+
+you.  By the time the implement is close enough to identify it as a crude
+
+weapon, little more than a sharpened stick, the creature has disapeared
+
+into the nearby bushes.
+
+@Y-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-@n
+
+.
+
+I thaught I was blind...
+
+@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@n
+
+@G.@RKroog@n @Bthe@n @YW@Bo@Cn@Gd@Me@Br@Re@Gr@n@G.
+
+@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@n
+
+@I
+
+PS: How come the Dew Sprites aren't tameable?  Mages can get em as a
+
+@Ifamiliar..
+
+
+***
+
+There is no way for us to determine if you are blind in acodes.
+
+
+Just because something is a familiar, doesn't mean it is or should be
+
+tameable.  The dew sprite is one example of this.
+
+Rue
+
+~
+898530053
+the druid~
+Servius~
+Well, this very well may not be a bug but I don't recall this ever
+
+happening before.  The druid of Medienne Forest has managed to wander all
+
+the way into the vaasa and is now near the root that you have to climb up. 
+
+Should he really come this far?  I'm surprised he didn't wander into
+
+frost giants on his way here :p 
+
+--
+
+As an elf, I thought someone like yourself would understand and
+
+appreciate the effort this poor man, a human, is going to to make sure
+
+the land is in good health.  He is even, out of the kindness of his
+
+heart, checking up on the Vaasa.
+
+(Maybe if Thalor would learn to climb and not worry about getting his
+
+clothes dirty a mere human wouldnt have to travel to the Vaasa...) 
+
+@C*Florian@n :)
+
+~
+898535477
+Smile~
+Balthasar~
+smile jaime
+
+You smile at him.
+
+Jaime is a her.
+
+
+@ySocial table looks correct.  Are you a race that has a specialized
+
+social table?
+
+--Fenlyn@n
+
+
+@C==
+
+Fixed.
+
+Olah@n
+
+~
+898631626
+Calm/Block~
+Jemasze~
+I calmed a bridge troll, he still blocked me though.
+
+Is that intentional? It looks odd to me at least
+
+
+- - -
+
+Simply because the troll isn't attacking you doesn't mean he's going to
+
+let you across his bridge.
+
+@CN@cereus@n
+
+~
+898620063
+sea sprites~
+Snog~
+I can't find water when I try to drink or drink water yet I'm unable to
+
+meditate underwater.  I think I should either be able to drink in the
+
+rooms or not be in water so I can meditate/sleep/etc.
+
+- Snog -
+
+
+***
+
+In the interest of saving you from drowning, we don't allow you to drink
+
+water from the rooms.
+
+Rue
+
+~
+898653315
+goat-hide cloak~
+Sinary~
+The custom list for the goat-hide cloak shows that you need 3 thick goat
+
+hides, but when you actually custom the item, only one hide is used 
+
+--
+
+Fixed.
+
+@C*Florian@n
+
+~
+898674137
+Lab door in Zarander's Tower~
+Ashke~
+On the golem side of it, if you 'open door', you get the message, '%s is
+
+already unlocked' 
+
+
+@CAshke@n
+
+
+-- Works fine now, for me. May have just been that reboot.
+
+@C*Florian@n
+
+~
+898674601
+Eastern Edge of a Subterranean Field~
+Horigath~
+On the northernmost room of the eastern edge of a subterranean field in
+
+troglodytes, there is a typo saying that the slippery rock allows no
+
+forther progress.  It should say further instead of forther, and I have
+
+posted a typo flag there.
+
+Horigath the young @gRanger
+
+@n
+
+- - -
+
+Fixed.
+
+@CN@cereus@n
+
+~
+898722643
+Pets trapped.~
+Belgar~
+In the room 'Monster Laboratory' in Zarander's tower, west of the lab
+
+door, my pets won't follow me east, or move east, despite them coming
+
+from that direction to get in in the first place.
+
+
+@c----------------------@n
+
+Didn't see this with my horse.
+
+@g-Starshine@n
+
+~
+898341121
+Angel fish(x13)~
+Loucke~
+Today I died to 13 angelfish because more than one was able to pop into
+
+the same room and they killed me.  I'm pretty sure this is a bug because
+
+the crystalline dragon also used to pop more than once, but was changed
+
+because an imm deemed that a bug also.
+
+--Loucke
+
+-->Format your notes...will look into it.
+
+@GCode looks right, and cannot reproduce the incident.
+
+@n(assuming 56005)
+
+@C*Florian@n
+
+
+@C==
+
+The angelfish always move east when they reset, but since they can move
+
+around, you can always wait for some of the angelfish to move to another
+
+room unlike the crystalline dragon infant.
+
+
+Hmm, seems the angelfish won't move so I've altered the code in that room. 
+
+It's not a bug per se, and it was your mistake for attacking the poor
+
+gardener, especially with so many angelfish in the room.
+
+Olah@n
+
+~
+898730243
+fadgar the shepherd~
+Servius~
+i was fighting him, fled, regenerated, and while coming back another
+
+shepherd attacked me (whom i had never encountered before).  This invoked
+
+my death and even though the fact that he attacked me is kind of
+
+realistic, it probably wasn't supposed to happen...
+
+
+***
+
+It was supposed to happen.
+
+Rue
+
+~
+898754648
+Detect Good~
+Grimsza~
+Just a little typo.
+
+A beam of bright light shoots forth and pieces Sinary's heart.
+
+Should probably be pierces not pieces.
+
+~
+898757726
+Shadowy forest.~
+Belgar~
+In the room 'Along the Northern Slope of a Sandy Cliff', flying pets
+
+can't climb the cliff up.  Oh, when a flying pet is ordered to climb down
+
+from there, it has a chance of failing and starting to fall.
+
+
+@C==
+
+Flying pets can now fly up the cliff.
+
+Olah@n
+
+~
+898830952
+twisted ankle while riding~
+Gaines~
+I was riding my horse along the Mountain Road, when I recieved the
+
+message: 
+
+
+You catch your foot in a rut in the road!
+
+A twisted ankle scratches you.
+
+
+Now I'm figuring this is either a big rut or a bug.
+
+
+@C==
+
+Fixed.
+
+Olah@n
+
+~
+898831106
+Dragoth Way hidden room~
+Ador~
+On Dragoth way in Denab-Knur there is supposed to be a hidden room, but
+
+something is wrong with the command to 'move slab'.  (The error message
+
+is 'Nothing found matching 'west''.) 
+
+
+@C==
+
+Fixed.
+
+Olah@n
+
+~
+898831273
+Renegade Gnome thieves,~
+Otamo~
+I believe thier plural setting is blank :)
+
+--
+
+fixed
+
+~
+898853726
+Deer Desc~
+Reid~
+In the description of the deer, the line 'It is posed here quietly' has a typo, and currently reads 'It it posed here quietly' (with two it's)
+
+
+
+Reid
+
+~
+898835063
+growl~
+Jemasze~
+Growl <someone> gives message
+
+@yGrrrrrrrrrr ... take that, Jemasze!@n
+
+And dont just delete this note plz!  I hate it when my notes get deleted
+
+:p 
+
+~
+898898832
+sword special~
+Sinary~
+I have a winterblade, and there are times when I get the message: The
+
+scimitar turns very cold as an icy streak of blue races up the blade! 
+
+But no effect happens.  Seems to happen about 50% of the time.
+
+
+@C* * *@n
+
+The reason youre seeing this is because the attack on the scimitar is
+
+missing the target.  This is programmed for the message to go off and the
+
+sword to have an extra attack which inflicts cold damage.  However, this
+
+extra attack can miss the same as a regular one.
+
+Orb
+
+~
+898976777
+get all bag~
+Grimsza~
+Every time I type get all bag I get the message A pair of baggy quiltwork
+
+pants isn't a container.
+
+Could be wrong, but I thought that get all <container> should target
+
+items in inventory first?
+
+
+@C==
+
+Not necessarily.  It'll just target whatever item it sees first in your
+
+inventory, which in this case was the 'bag'gy quiltword.
+
+Olah@n
+
+~
+898987113
+Whistle~
+Greyclaw~
+Might be fixed.
+
+~
+898999657
+cheer~
+Servius~
+cheer zim
+
+I see:
+
+You cheer wildly for Zim.
+
+others see:
+
+Servius cheers wildy for Zim.
+
+
+wildy is incorrect grammar
+
+~
+899011839
+body slots~
+Servius~
+this is very very odd.  I am wearing a cloak, a jacket and a backpack. 
+
+Nothing out of the ordinary.  When I look at myself, it is all there and
+
+when I type 'eq' it is all there, but when another person looks at me,
+
+it's not there...  The jacket is what goes invisible...  and i am sure
+
+this isn't gagged out or anything...
+
+---
+
+This is not a bug - some clothing covers others.
+
+- Merior
+
+~
+899038864
+helpfile for stats>?~
+Jaime~
+nuff said, I dont get the stats there =)
+
+--
+
+added.
+
+@C*Florian@n
+
+~
+899075721
+hole in the wall...~
+Ples~
+typo in the room #30842 when you 'look hole' it says 'theough' instead of
+
+'through' :) 
+
+--
+
+Fixed, though for the time being, unless its in the city of soskul
+
+itself, in a room desc, you dont need to worry about typos in the swamps. 
+
+The entire swamps are being changed.
+
+@C*Florian@n
+
+~
+899075865
+Dwarf holy symbol.~
+B'yann~
+sed to only have its special affect for dwarf paladins/clerics only, now
+
+it seems to work on more races...  bug, oversight, or item change?  Kinda
+
+makes the carved holy symbol a little less useful if it aint a bug.
+
+
+B.
+
+~
+899085164
+baggy quiltwork pants~
+Vorex~
+no one can repair these, including the person who makes them...
+
+~
+899015061
+Sea sprites guards~
+Edgar~
+When I try and walk past a sea sprite guard, he stops and says they don't
+
+allow evils inside, (I am a Vyan, aligned lawful evil), yet they let Aera
+
+walk right past them, (Vyan, neutral evil) 
+
+Either these guards are sexist, or there's something wrong here.
+
+~
+898988627
+lesser summon~
+Servius~
+I would HIGHLY appreciate it if someone could tell me if I am completely
+
+wasting my time with this.  I spent a lot of practice points getting it
+
+up to level 7 and now I can't get a familiar.  I am aware that switch is
+
+broken, but every single cast of this I have done (on basically every LG
+
+reagent for the spell has failed.  If I could be informed as the current
+
+status of this spells' functionality it would be great.
+
+****
+
+P.S.  I have had requests from mages for a list of currently
+
+non-operational spells as there seems to be a # of them.  Wasting pracs
+
+sucks...
+
+--
+
+@GAll the summoning spells are now working, though switch is still broken. 
+
+I will post a list of non-functional spelsl on the announcements board. 
+
+(Also, double crumb problem for evil lesser summoning resolved) 
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899158663
+Longscan~
+B'yann~
+This doesn't seem to work in conjnction with the opt autoscan levels.. 
+
+As in, I have opt autoscan set to not scan in towns, but longscan is
+
+still working in them.
+
+
+B'yann Al'Tor.
+
+
+@C==
+
+All towns, except Pennan, have been fixed so that setting autoscan at 2
+
+will no longer autoscan in towns now, even if you have the 'long scan'
+
+skill.
+
+Olah@n
+
+~
+899167856
+trouts~
+Birren~
+I think the plural of trout is trout.  Spotted just outside the north
+
+gate of Chiiron.  (and sorry if I am being pednantic).
+
+~
+899180220
+Yetis~
+Zim~
+Yetis hit other yetis and the snow worm with area attacks.
+
+~
+899072544
+Wererat High Priest~
+Snog~
+When this mob does its area attack it also hits the mobs in the room with
+
+em.  Not sure if it should or not but in the past mobs don't hit other
+
+mobs in the room with area attacks.
+
+- Snog -
+
+~
+899072465
+Box in Mansion~
+Debin~
+I noticed that if you are meditating in the same room with the large
+
+wooden box in the mansion near chiiron, and type "look box" then it says
+
+you "can't do that while sitting." But you can look at any other mob...? 
+
+Hmmm.
+
+~
+898985880
+inscription~
+Kwee~
+in room 19143, the inscription should be removed,
+
+as the story line from which it sprung is no longer valid.
+
+(i.e. the clan does not exist).
+
+
+@C* * *@n
+
+I do not choose to remove this.  Stone monuments stand fora long time and
+
+those who come after us can wonder about the stone the way we wonder
+
+about artifacts in real life.
+
+Orb
+
+~
+899185780
+Yetis~
+Edgar~
+The yeti was able to roar while it was stunned
+
+
+@C* * *@n
+
+This is the result of the code not knowing if the yeti is alive or dead. 
+
+Since the roar is a special attack, it could conceivably go off just as
+
+the yeti dies or is stunned.
+
+Orb
+
+~
+899185603
+Room number 26022~
+Jocelyn~
+I search the blankets and get this message:
+
+
+Amidst the jumble of the blankets you feel something small and hard.
+
+Treasure!?
+
+
+You pull it out and find yourself holding a flattened, dead mouse.
+
+
+I looked on the floor, in my inventory and all around yet I don't have
+
+the flattened mouse or a dead mouse anywhere.  I don't even get a message
+
+that I threw it away or anything.
+
+
+I realize not everyone would want to have this item in their inventory,
+
+but being the packrat I am I would like either a flattened mouse, a dead
+
+mouse, or some sort of message that I threw it away.
+
+
+Jocelyn - The packrat/bag hog
+
+~
+899190267
+hill giants~
+Snog~
+Hill giants aren't flagged as giants, they can sweep kick and be sweep
+
+kicked.
+
+- Snog -
+
+~
+899268284
+Bandits bug.~
+Belgar~
+In room 47015, when you defeat the mage, typing skin corpse gives
+
+'Corpses without a race cannot be skinned.
+
+
+@C==
+
+Fixed.
+
+Olah@n
+
+~
+899325597
+sos-kul~
+Alman~
+the place where you beam into from death to sos sometimes has the nice
+
+agro python in it, which kills you real good if you are low level... 
+
+thought it was supposed to be a sanct...
+
+--
+
+There is no such reset in this room.  For this to have happened, a ranger
+
+had to have let one loose here.  :( 
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899351653
+Temporary fix for reagents~
+Ganelon~
+I'm sure the admins are hard at work on coding and bug fixing, but I do
+
+know that there's a certain amount of frustration building up over not
+
+being able to get roses and such because pick is not yet working.  I know
+
+this requires some fixing to object code, but I'd suggest that roses and
+
+any other pickable reagents be stocked in reagent shops until the fix is
+
+completed.
+
+
+I for one would like to run certain disease-containing zones soon, and
+
+I'm certain I am not alone.
+
+
+Ganelon -- who can't cast spells but likes them anyway
+
+--
+
+-picky picky picky.  YOu better be picken a lot.  All rose bushes (only)
+
+are sort of working now.
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899364504
+the head of the raider chief~
+Grimsza~
+currently weighs 20lbs.  Seems a little excessive.  Should prolly weigh
+
+about 8-9lbs.
+
+~
+899360980
+Is it deliberate that...~
+Seltha~
+Is it deliberate that belt+pouch (custom item) takes the main belt slot? 
+
+(ie you can wear belt+pouch and belly pouch at the same time...
+
+~
+899368081
+Saurd/old Warrior~
+Simior~
+When you ask the old elf warrior about spells and weapons in Vaasa, he
+
+says to go see Saurd to learn about maces and staves.  Saurd does not
+
+teach mace.
+
+
+@g- - - - -@n
+
+
+This was a minor oversite from the time when trainers were changed I
+
+think, maybe even earlier.  Been so long since I reviewed that little bit. 
+
+When it was created U'lulandriel (the old warrior) was intended as the
+
+newbie instructor as in Chiiron and Voaleth.  Since we aren't going to be
+
+using Vaasa as a starting town, its almost never seen (as people that low
+
+a level rarely make it into the Vaasa, at least not without already
+
+knowing that sort of information).  The needed reviion will be made, and
+
+thank you for your assistance.  :) 
+
+
+Shade and sweet water,
+
+Talis
+
+
+@g- - - - -@n
+
+~
+899505141
+Briddle~
+Edgar~
+You try and sleep, "Briddle wont allow vagrants to sleep in his shop" It
+
+seems kinda odd considering he doesn't own a shop.
+
+Note:Briddle is the dwarf outside the barbarian area if you don't know.
+
+--
+
+In order to customize stuff, you have to be a shop.  He customizes stuff,
+
+so...
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899529632
+glass prism~
+Snog~
+The weight seems incorrect.  It says, "the prism is rather heavy for it's
+
+size." in the desc of the item.  It currently weighs .5 lbs and use to
+
+weigh about 3.0 lbs.
+
+- Snog -
+
+~
+899536358
+shopkeepers~
+Servius~
+For some odd reason, their shipment of pinches of krynite has been
+
+delayed for the past month.  I wonder what happened to the supply-demon? 
+
+*peer* 
+
+@C* * *@n
+
+
+@yShopkeepers have been cutoff of their supply.  Although, I believe they
+
+still have the knowledge to make them if you have the proper components.
+
+--Fenlyn@n
+
+--
+
+The Bear speaks the truth.  Krynite pinches were never meant to be sold
+
+like candy.  Thus, they are now a custom.  And before anyone gets out
+
+their box of Tide or Cheer, please find the custom, weigh it, and have
+
+faith.  Minor enchantment is suppose to be more common than major, but
+
+not super common.  IN the long run, it will still be cheaper to
+
+buy/custom krynite than scrolls.
+
+Thanks,
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899621576
+social listings~
+Sls'seires~
+perhaps someone could waste some time eliminating from the social lists,
+
+those which are duplicated in the general list?
+
+
+f.e.  soc gnome lists only those special ones, soc lizard gives a whole
+
+list 
+
+perhaps the race listings should only contain the specials?  this is just
+
+an idea if any wants to putz around with something of no real import :) 
+
+Sls'seires, the hatchling warrior
+
+
+i am aware they act differently, but it would be easier to find the
+
+unique ones 
+
+--
+
+I'm not sure of your point, but when you type social lizardman, EVERY
+
+social listed IS lizardman unique.  When you type soc gnome, every social
+
+listed is gnome unique.  Yes, clearly, the lizardman social's person has
+
+no life.
+
+If this isnt addressing your point, mail me.  Because there are no
+
+duplicates, for if it is listed under social <race>, its special for that
+
+race.
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899621938
+Missing name~
+Cecil~
+I was standing on Delving lane just after the bend to the west and I
+
+noticed that the contents read the following: 
+
+
+Two  are standing here.
+
+
+Clearly the name of the mob (item?) was missing.  Then a few seconds
+
+later someone arrived.  When he left, the MUD said two times: 
+
+
+A giant falcon leaves east.
+
+
+After this, the 'Two are standing here.' message didn't appear any longer. 
+
+Seeing the falcons didn't arrive with the person, I assume that the mob
+
+with the missing name was the falcon.
+
+
+Although I have no idea what is causing this bug, this is what I saw and
+
+I hope it can help ya'll.
+
+
+-- Cecil --
+
+~
+899775551
+improves~
+Servius~
+If you cast a leech spell (which you weren't leeching before) and improve
+
+it on that cast, the improvement on the leech doesn't occur until the
+
+next casting...  seems a little buggy..
+
+
+
+@g- - - - -@n
+
+If you build a house poorly, and as you wrap up construction realize a better way to do it... is the house suddenly built better or do you have to tear it down and rebuild it?
+
+It works the same way with leech.  As you cast you improve your understanding of the mechanics and will be able to do a better job from the begining next time.
+
+If its a problem, simply unleech the spell and recast it for the full effect of your greater knowledge.
+
+-Talis
+
+@g- - - - -
+
+~
+899786506
+Odd timing for messages.~
+Khila Tgar~
+This appeared while I was sleeping.
+
+The murky water parts slightly on the surface in a V-shape as rats and
+
+Odd really how I can approach and sleep at the same time.
+
+Khila Tgar
+
+
+@g- - - - -@n
+
+One of my favorite litanies...  we can't determine if you are sleeping or
+
+not with our functions.  This leaves us two options...  use NO cool
+
+effects that greatly increase the atmosphere of a place.  Or have them,
+
+and occasionally you notice something in your sleep.  I think most of the
+
+imms agree, the occasional odd message while you're sleeping is worth the
+
+overall effect achieved.
+
+-Talis
+
+@g- - - - -@n
+
+~
+899787685
+White Stag~
+Simharik~
+I think removing 'deer' from the White Stag's keywords would be a good
+
+thing.  I was trying to kill an actual deer, but my spell decided it
+
+would rather focus on a mob that I had no chance, nor wish to kill.
+
+--
+
+Done.
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899789570
+Switch~
+Aristo~
+Switch doesnt work? Or does it?
+
+
+@yNope.  --Fenlyn@n
+
+~
+899646046
+NPCs and tell.~
+Staw~
+I think this has been posted before, but the aged troll still suggests
+
+you "tell an NPC hi" A possible alternative might be having him suggest
+
+that you "say to an NPC hi".
+
+
+Staw.
+
+
+------------------
+
+Fixed......i think
+
+
+- Terek
+
+~
+899790534
+Room #113~
+Seltha~
+Appears to still have the door to the pre-wipe clan FIST stronghold...
+
+~
+899556672
+Room #21099~
+Raudhrskal~
+This room still mentions the presence of Skap's old stronghold.
+
+So do rooms # 21029 and 21027.
+
+~
+899529555
+room 39520~
+Snog~
+When you move north from this room with a group the group does not follow.
+
+- Snog -
+
+~
+899459777
+Room #37160~
+Kastle~
+then you do the action to open the secret door, it sasy the
+
+The hidden door is already closed.
+
+da Door wont open...
+
+Kastle the wqandering pair of gloves
+
+--
+
+All works as it should in this room - just as you 'open' to open a door,
+
+and 'close' to close a door, perhaps the verbage here is varied too?
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899834930
+Desert scarabs~
+Griffin Tgar~
+Don't have a plural. When they're together you see: two *blank*
+
+--
+
+Fixed.
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899834992
+condor~
+Griffin Tgar~
+A giant cliff condor With its feathers puffed, a giant condor squawks
+
+angrily.
+
+
+this mob's appearance is a bit shaky ;)
+
+@C==
+
+Fixed.
+
+Olah@n
+
+~
+899838945
+scarab queen~
+Loxus~
+The crystalline scarab queen shows up as 'a scarab beetle' on scan. 
+
+Also, she seems to have an area attack, but it just hits the tank
+
+multiple times instead of the other group memebers.
+
+
+Loxus
+
+--
+
+Fixed*2.
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899843693
+Silence~
+Jemasze~
+When you are silenced it says :
+
+@rYou are silenced and unable to cast spells!@n
+
+But you do not need to speak for all spells, like Balm.
+
+--
+
+Actually, there are three schools of thought on this one.
+
+A) You're right, but the code doesn't provide for a way to tell.
+
+
+B)Actually, all spells have verbal components, except that, in the
+
+player's interest of cutting casting times, they are not always displayed
+
+- use your imagination.
+
+
+C)Either A or B can be right, but the fact is there isn't anything we can
+
+do about it, in case A, and in case B its an error in your favor.
+
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+Expected something like that :-) thanks for replying though. much appreciated.
+
+~
+899854547
+Lion pit~
+Cynthia~
+mm, I'm not entirely sure, but I think the code in the room to the south
+
+of me is a little broken...  I fell thru, but then I got the message
+
+'Under Construction'...  So that's south of room number *GASP* #63534
+
+Woah!  That many rooms?!!!  WOW !!!
+
+~
+899792582
+the corpse of all furry animals~
+Servius~
+Most little furry creatures have corpses that weigh 20 lbs.  With the new
+
+sacrificial system it would make more sense to modify these to be more
+
+realistic and less of a burden on us players hauling corpses to alters. 
+
+doubt both squirrels and skunks etc weigh 20 lbs.
+
+
+Well, maybe if they were domesticated...
+
+
+@C==
+
+Most creatures will have a default corpse and weight depending on their
+
+size.  While it's possible to create individual corpses for each and
+
+every mob, it's neither fun nor important to do so.  Thus, I highly doubt
+
+this will get changed in the near future for every mob you see.
+
+Olah@n
+
+~
+899875195
+small cloaked figure~
+Glambrax~
+When this gnome does his little blinding thingy it says 'clipped words in
+
+rappid succession'...rapid only has one P :) 
+
+
+----------
+
+Specificy which mob please, Small cloaked figure tells me its 1 outta 20 mobs ;)
+
+-Terek
+
+~
+899902567
+raw chuck of meat~
+Pandin~
+When I look at a raw chuck of meat I get from the ant lairs it says 'A
+
+rotting piece of meat lies on the floor here.' Seems sorta weird since it
+
+is in my inventory.
+
+
+@C==
+
+Changed.
+
+Olah@n
+
+~
+899918519
+typo~
+Jerryl~
+When someone searches the bones in room #12029 the first letter of the
+
+person's name is cut off when others read what they did.
+
+
+lec searches the bones on the floor.
+
+
+The player's name is Alec  ;)
+
+--
+
+Heh, maybe the mud does have an AI.  First it deletes me, then starts on
+
+Alec.
+
+Fixed.
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+
+------------------
+
+It's not fixed :p
+
+@C==
+
+Fixed.
+
+Olah@n
+
+~
+899918627
+Theatre Collections Guy~
+Ashke~
+The theatre collections guard gives Kavina his ticket back.  She's a She,
+
+not a he..last she told me ;) 
+
+
+@CAshke@n
+
+
+@C==
+
+Fixed.
+
+Olah@n
+
+~
+899919681
+Dark grey tabbard~
+Griffin Tgar~
+takes main body slot.
+
+
+@C==
+
+Changed.
+
+Olah@n
+
+~
+899920221
+Rings of courage.~
+B'yann~
+Wearing two of these has the same effect as wearing only one :P
+
+
+B.
+
+
+@yThis is intentional.  --Fenlyn@n
+
+~
+899921840
+Sea sprite guard~
+Edgar~
+He does a speical attack in cyan bold, it says "the small sprite traces
+
+some patterns in the water before him" It says this, yet nothing happens. 
+
+You think he was preparing to do something...
+
+
+@C==
+
+Altered a little since a function in its attack code doesn't seem to be
+
+working at the moment.  The guard will do his normal attack now, so be
+
+warned.
+
+Olah@n
+
+~
+900009350
+Emaciated man.~
+Belgar~
+This guy is tamable.
+
+
+@C==
+
+Fixed.
+
+Olah@n
+
+~
+900010155
+Dwarf Skull Girdle~
+Razu~
+A dwarf skull girdle is wearable by AN ELF?  yet not by a goblin? 
+
+*chants bug bug bug bug* :) 
+
+---
+
+Only race that can't wear this item are dwarves, for obvious reasons.  Is
+
+no bug with the object.
+
+-- Merior
+
+~
+900075769
+One-way door?~
+Alana~
+From room #40553, there is a doorway leading down.  If you go down, and
+
+it closes behind you, nothing seems to open it again from underneath. 
+
+And you get trapped.
+
+Could someone check this out?
+
+Alana who doesn't breathe water too well.
+
+---
+
+There is a way to open it.
+
+-- Merior
+
+~
+900163095
+northern bats~
+Dierna~
+Northern bats don't appear properly where there are more than one in a
+
+room.
+
+~
+900144601
+Chiiron Magic Shoppe~
+Axis~
+When you enter the Chiiron Magic Shoppe for the first time, the mage
+
+there asks you whether you could get some stuff for him, on order to
+
+complete a newbie quest.  In order to gain the quest, you must tell the
+
+mage 'yes'.  But, the mage does not give his name, and when trying to
+
+tell to his keywords (mage.vast.powers) it says the 'No one found
+
+matching...' stuff.  So, in short, you can't get the quest assigned to
+
+you :( 
+
+
+- @YAxis.
+
+@y
+
+Use TO for in character conversation with someone.  Use TELL for out of
+
+character conversation with someone.  --Fenlyn@n 
+
+~
+900197140
+Exits~
+Griffin Tgar~
+If you leave south from 'Black Hills - Dirt Mound' (room 39007), you go
+
+to room 39003, Black Hills - Pile of Rocks 
+
+
+Only problem is that there's no exit back north to the first room.
+
+---
+
+Just because you can't see the exit doesn't mean you can't get there.
+
+-- Merior
+
+~
+900246457
+Within the White Tower #51501~
+Zim~
+There doesn't seem to be any way to get out if you manage to get trapped
+
+inside with the door shut.
+
+~
+900224466
+gremlins~
+Servius~
+they can blink when mortally wounded...
+
+
+***
+
+It is an innate ability they have.  It is controlled unconsciously when
+
+they are in danger.  As such, it can trigger at anytime they still have
+
+life.
+
+Rue
+
+~
+900267252
+Mobs not intact?~
+Debin~
+I'm not sure if anyone else has reported this, but I discovered that
+
+'touch'ing and mob returns a bizarre message.  For example...
+
+
+You touch a tumbleweed and find that they are all intact.
+
+
+This can't be right. ;)
+
+-Debin
+
+
+***
+
+This is a social presumemably used to make sure something is there.  Try
+
+it on players.  Although it is a little silly, it is not a bug.
+
+Rue
+
+~
+900284663
+Slick green waterskin~
+Razu~
+Cannot hold this item, since they weigh quite a bit, it would be a nice
+
+relief to hold it in my free hand.  :) 
+
+(well they're heavy when full , but still im a wuss)
+
+
+@YRazu
+
+~
+900247425
+Socials while meditating~
+Debin~
+It seems some socials I am capable of doing while meditating (even though
+
+I can't emote, or do most others.) These are the ones I've found so far...
+
+
+Boogie (gnome specific)
+
+Groan
+
+Apologize
+
+Admire
+
+Bkiss
+
+Boggle
+
+Caress
+
+Cough
+
+Drool (I don't know many monks who drool while meditating, but who knows?)
+
+Snore (this is a little much)
+
+Love
+
+And many more (I didn't feel like going through all of them)
+
+
+-Debin
+
+
+@C* * *@n
+
+I went through and set these socials to what I feel are appropriate
+
+positions.  Since meditation is considered a higher state than resting, I
+
+believe,, I left it so that many of the socials could be done during
+
+resting, which also means they can be done during meditation.  If you
+
+find any that are blatently mis-positioned, mail me or post em up on the
+
+board.  thanks alot.
+
+Orb
+
+~
+900315567
+hidden room in monastary~
+Borodin~
+if key is on a keyring, you can't unlock its door.  Works fine if key is
+
+in your inventory.
+
+
+@C* * *@n
+
+This room is probably a code as opposed to a conventional door lock. 
+
+Hence, you must have the key in your inventory instead of in a container
+
+such as a keyring or bag.
+
+Orb
+
+~
+900315048
+Skliss.~
+Belgar~
+In the room 1 north of 31159, the code to make skliss pop out has made
+
+multiple jump out.  There are three there now.
+
+~
+900316887
+the spell sleep~
+Servius~
+Ok, this is difficult to explain...  I was in a room with a tall shepherd
+
+and a sheep dog.  I cast sleep on the shepherd and the dog of course
+
+leapt to attack me.  The problem is, the shepherd was suddenly awake
+
+(with no message saying he woke up).  So now the shepherd and dogs were
+
+attacking me.  I realize that the dogs would probably wake the shepherd
+
+up, but the spell is magical and trying to 'wake' any sleeping mobs put
+
+to sleep due to a spell doesn't work.  I think the shepherd probably
+
+should remain in his deep slumber.
+
+~
+899704285
+Room #356~
+Seltha~
+rosebush doesn't work here :)
+
+
+@y------
+
+@yFixed.
+
+@y - Nivel
+
+~
+900352111
+latch social~
+Ples~
+When you latch self it says 'You try to grab our own leg.'
+
+'y' missing in 'our' :)
+
+~
+900364294
+#34607~
+Creslin~
+In this room, the title has the word 'Crevass' in it, should be spelled
+
+'Crevice'.  I tried to 'typo' it and fell thru the hole.
+
+Creslin
+
+~
+900407347
+Hump Back Troll~
+Grimsza~
+You pat a hump-backed troll on his back.
+
+Used to be a *her* - kind of liked that better.  Hoping this is a bug and
+
+not intentional change.
+
+---
+
+Troll is sometimes a he, sometimes a she - they do have a rotation.
+
+-- Merior
+
+~
+900421994
+Goblin Mercs~
+Steele~
+They leap to attack you, but are registering as pure neutral
+
+*boggle*
+
+--
+
+Any type of mob can be aggressive - it is not the same as evil.
+
+-- Merior
+
+~
+900422038
+Wererats Quest~
+Luxus~
+In wererats quest, once I do it, and obtain the item,
+
+it cannot be sacrificed at the usual location.
+
+It says:
+
+The gods grow angry at your impudence.
+
+Yes, I figure maybe quest is different now, except that with the new sac
+
+changes, I figure there is the off chance it bugged the quest. :-)
+
+
+***
+
+I THINK this is fixed now.
+
+Rue
+
+
+p.s. if it isn't mail me and let me know what is wrong still.
+
+~
+900450033
+Custom~
+Gyre~
+living thorn whip            5000  ***   living thorn whip
+
+three branches of living thorn plants
+
+---
+
+Interesting how a living thorn whip has itself as an ingredient.  That's
+
+useful.  :) 
+
+--
+
+This has been posted many times, its not a bug and is how the custom is
+
+intended.
+
+Adakar
+
+~
+900467816
+Spectres of Dwarven warriors~
+Edgar~
+If it doesn't make sense to bash them, why would it make sense for them
+
+to bash us?
+
+@I
+
+---
+
+@I
+
+re: long argument, neither of us have the time for it.
+
+@I
+
+@RP@Yh@Gu@Bl@Me@n
+
+~
+900479624
+Necklace of mystic strength.~
+Vorex~
+Weighs way to much.
+
+~
+900427937
+casting sleep~
+Servius~
+casting sleep on a yeti when in a big group shouldn't cause a sleeping
+
+yeti to wake up...
+
+--
+
+Group size has absolutely nothing to do with spell functionality.  Either
+
+spell failed and it woke, or someone hit it.
+
+-- Merior
+
+~
+900502603
+Mage guardian fireball~
+Fingolfin~
+I saw a mage guardian fight a rabbit zombie.  (don't ask me why) Anyways,
+
+mage guardians cast fireball right?  So I saw the following: 
+
+
+A raging fireball fries a mage guardian!
+
+
+Silly guardian casted fireball on himself :)
+
+Fingolfin the ash spirit
+
+
+***
+
+The fireball works fine.  The rabbit was killed in mid-spell which causes
+
+this bug.  Much like spiders webbing themselves when their target dies.
+
+Rue
+
+~
+900515286
+help opt~
+Derjek~
+the bottom line in this is out of line with the rest of the help file,
+
+and also doesn't describe opt ignore 1,2 or 3.
+
+
+@C==
+
+Help options has been updated but will be subject to constant changing.
+
+Olah@n
+
+~
+900527778
+room 37573~
+Kohran~
+when you do what you do to open way to the south and look south it says :
+
+The is open . same thing when you go south and look north
+
+
+@C==
+
+Fixed.
+
+Olah@n
+
+~
+900528234
+Rose bush room #356~
+Gaines~
+This rose bush doesn't give flowers.  Gives the message that it isn't a
+
+container.
+
+--
+
+*laugh*
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n can be a bit wardsback sometimes.  The
+
+syntax for picking roses here is rose pick.  Duh.
+
+Is fixed.
+
+~
+900564421
+Red efreet~
+Griffin Tgar~
+@rThe efreet extends his hands, palms up, and spinds, sending a wave of
+
+fire across the room.@n 
+
+
+I think spinds should be spins, or I could be one word short in my
+
+vocabulary skills.
+
+~
+900590953
+Magic missile bug~
+Crassus~
+It says your hands starts to glow a deer amber... should be deep
+
+~
+900581573
+kha-da preist~
+Diyab Nisri~
+the one in the altar room doesnt have bearded for a kw
+
+~
+900580635
+Fire newts~
+Volkaran~
+A fire newt's firy tongue @Rscorches@n you.
+
+
+@g A @ygolden star@g for whoever spots the mistake :)
+
+
+**
+
+Fixed
+
+Rue
+
+~
+900635287
+banshee~
+Snog~
+its attacks are messed up
+
+
+***
+
+Fixed.  It is now mean.  Very mean.
+
+Rue
+
+~
+900637134
+stone hammer~
+Kohran~
+its desc at the end says to hold it it place, should be in place i think .
+
+~
+900669143
+necklaces~
+Alec~
+Seems you can wear two neck items if they have a different name, but not
+
+two of the same.  Seen two people with multiple necklaces now, but still
+
+cant wear my two goblin ear necklaces:( 
+
+--
+
+This is not a bug.
+
+~
+900680391
+monk shop~
+Glambrax~
+room 12556 has a typo in the second sentence.  it says 'No one seem to
+
+be' should be 'No one seems to be'.  The description should be altered
+
+anyway because it says no on is around even when the shop keeper is
+
+actually there.
+
+~
+900605882
+Hill Giant Chief~
+Grimsza~
+Body Location          Item                                       Condition
+
+---- --------          ----                                       ---------
+
+-??                    tarnished large bronze shield              reasonable
+
+~
+900717803
+Canines in the desert.~
+Vilnus~
+The keyword for hyenas on scan is canine.
+
+Hyenas are not canids.
+
+Minor and all, but it caught my attention.
+
+~
+900719529
+herbs~
+Ashke~
+When dropped, they still appear as 'sweet herbs growing here'.  Odd,
+
+didn't think they re-rooted that fast.
+
+
+@CAshke@n
+
+
+***
+
+This happens because sometimes we don't feel like having several objects
+
+to represent one object.
+
+Please use your imagination on this one.
+
+Rue
+
+~
+900884814
+$~

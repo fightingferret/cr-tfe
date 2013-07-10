@@ -1,0 +1,1378 @@
+#NOTES
+
+Tasloi vines.~
+Belgar~
+In room #38506, for example, if I leave north my pets don't follow, but
+
+if I order them north I get '[BUG] doesn't seem to be able to use a vine
+
+to swing north.  ' 
+
+Second, if I whistle, the pets *do* come across the exit.
+
+~
+899268092
+Rings...~
+Creslin~
+Dont think this is correct.
+
+@n
+
+You place on your left hand two shuvana wood rings.
+
+@n
+
+Creslin
+
+~
+899427849
+Shops~
+Derjek~
+Fiogis is closed, giving no light races the ability to custom armor, yet
+
+Briths armor shop can custom to their hearts content.  Why can't Fiogis
+
+just open a littly, and allow only bronze armor to be made at least?
+
+Just wondering at the balance of things...
+
+~
+899436977
+Re: Fiogis~
+Orb~
+No, he canot be opened because nothing in there works.  The one in
+
+brithbarad hasnt been closed becuase I didnt know it existed :P As for
+
+accusations that I "fixed that one first" it was unknown to me that it
+
+was even there, sorry for not knowing one of the million and one details
+
+this mud posseses.  I will close the brithbarad one and hope to have it
+
+done sometime next week.  It is a very time consuming job, and I am rying
+
+to find the consecutive hours to fix it.  Unfortuneately, I also have a
+
+ton of other things to do, as well as a real life.  I am working on it,
+
+and it will be done when its done.  Your patience is appreciated.
+
+~
+899440597
+swiming~
+Kain~
+Well i got a prac point from trying to swim but i was to exhausted, dont know if this is a bug or not.
+
+                           kain
+
+~
+899563334
+Attacking corpses?~
+Badvok~
+If a room contains a corpse such as "a corpse of the worker ant" and a
+
+mobile of the same name, then "cast shock worker" reports "you cannot
+
+cast shock on the corpse of the worker ant".  The solution is to junk the
+
+corpse but it's a pain to do everytime.
+
+
+---
+
+
+Not that this is the solution you want but kill 2.ant will work also.
+
+~
+899593172
+Human introductions~
+Skarn~
+A lawful evil human can introduce himself to a lawful good elf, but not a
+
+lawful evil troll.  Seems real stupid.
+
+~
+899594111
+orogs~
+Servius~
+You cannot get out of orogs unless you have searching at a high level... 
+
+we are locked in there atm :) 
+
+~
+899793376
+Room #28094~
+Demok~
+There's a new exit here going down, however it is inaccesible and it's
+
+appearance is bugged when looking at it, attempting to enter it etc.
+
+~
+899795678
+Stray pets?~
+Nettle~
+Is it a bug that my timberwolf seems to wander away
+
+at the most inopportune times?
+
+Well, I'm not really sure just when he wanders.
+
+I just don't notice that he's missing until I need his help, heh.
+
+Nettle
+
+~
+899811341
+re: cynthia's pit (I am cynth btw)~
+Seltha~
+I didn't wanna do 5 min relog modify the note then another 5 min relog so
+
+here's the update...
+
+
+Kay, where to start :)
+
+I was mapping as Seltha earlier in the day, and Florian came along and
+
+said Oi, what did I do to make the warning message turn up on his screen... 
+
+He pinned it down to some code in the room south of #63534 (brithbarad
+
+gates) Told me he fixed the code and wasn't sure what it did...  well
+
+being the cautious persion I am, I remembered that Phule had been working
+
+on the plains, and Phule being Phule you can't trust his code as far as
+
+it will throw you ;) (no offence intended, I admire his code, but only
+
+when it's not me being affected by it ;)) So anyways, I didn't go play in
+
+that room (very glad I didn't)...
+
+
+Well later on in the day, I was mapping now with Cynthia, areas I
+
+couldn't go with Seltha (such as darkhaven), and curiosity killed the cat... 
+
+I decided to check out that code :) I head to that room, walk in and die. 
+
+I think to myself 'yup, that's Phule for you' :) Then I get all these
+
+people asking how I managed to kill myself and think mmm, and this time
+
+decide to check it out paying more attention :) So, after turing
+
+incognito on, I walk back into the room (taking note of what happens),
+
+and find that I get teleported immediately into a room with *no exits, no
+
+description* (under construction) and a fall that MUTILATES you, and a
+
+lioness...  mmm pain :) 
+
+
+So I was just thinking you might wanna break that code again, since the
+
+room is broken...  unless you were wanting a death trap *cough* 
+
+-- Seltha (aka Cynthia)
+
+~
+899812688
+magic missile~
+Slarskis~
+on the recieving end of someone prepping, in place of pebble, the word
+
+[bug] is there in the messages 
+
+~
+899823748
+spectres of dwarven warriors~
+Grimsza~
+They try to bash you when you are on the ground already.  *shrug* minor
+
+bug, thought I should mention it though.
+
+
+~
+899826552
+Brazen~
+Casbal~
+Brazen is no longer agro.  not shure if this was a change or a bug 
+
+~
+899855261
+Talking to wandering NPCs~
+Alana~
+If you talk to the sage in Medienne, they can wander out of the room,
+
+while talking to you...  This makes asking questions alittle awquard.  Is
+
+there a way to stop him form wandering while talking to you?
+
+Alana who can't walk fast enough to keep up with the old frail dude.
+
+~
+899860088
+light~
+Fleur~
+Create light at level 10, netting a green light, floating nearby
+
+should be purple.;)
+
+~
+899862834
+Gnomes~
+Cylaria~
+The corpse of a renegade gnome guard isn't a container. ??
+
+could be a bug, wasn't sure
+
+hmm... applies to other gnome renegades as well
+
+~
+899877418
+Ja-rain.~
+Brenna~
+Something I noticed while killing him, nothing big:
+
+
+The figure pulls back its hood, revealing a cruel, blue-white face with
+
+jet-black eyes.  He opens his lipless mouth and shrieks, sending forth a
+
+blast of wind.
+
+A tall humanoid's freezing wind mauls you.
+
+
+Would seem that a freezing wind might be more inclined to deal cold damage.
+
+~
+899883794
+S'aark's personal bodyguard~
+Snog~
+I've been killing this mob a while now and it has become apparent to me
+
+that he is more dangerous without a weapon.  Meaning, the damage he
+
+inflicts on me is more when he uses his claws than when he loads with a
+
+weapon.  My reasoning for this being a bug is the disarm ability.  This
+
+skill needs to have more of a use than just because you need it for guard
+
+or what ever the case might be.  Just seems really odd that a mob will do
+
+mauls to me with a weapon and decimates when it does not wield a weapon.
+
+- Snog -
+
+~
+899889673
+cast create light~
+Umraniya~
+Now I have a bunch of green light that according to my equipment list is
+
+floating near by and I have found no way whatsoever of getting rid of
+
+them.  And they don't go away over time.
+
+~
+899892038
+create light~
+Hala Ioryn~
+We all know work on this spell hasn't been completed yet, but I thought
+
+this might still be worth pointing out: 
+
+
+Each ball of light I create adds 1/100th of a pound to the weight total
+
+at the end of my equipment list, although it does not alter the weight
+
+totals on my inventory.
+
+
+I suppose I could come up with a justification for this, but it seems
+
+like it may not be intentional, as my balls of light don't _look_ like
+
+they weigh anything.
+
+~
+899904322
+pkill~
+Jerryl~
+When you walk in room #40269 and the mob has already been killed, you get
+
+the message 'As you enter the room, you stumble into a sticky spider
+
+web.' followed by 'You can't kill players here.' (i'm the only one in the
+
+room anyways) 
+
+
+/Jerryl\
+
+
+@C==
+
+This message always appears to players but it's the only way for the
+
+spell to go off.
+
+Olah@n
+
+~
+899918267
+tickle <person> <object>~
+Servius~
+case in point:
+
+
+Xendrak tickles Derminis with an enchanted polished bracelet of white
+
+silver.  he collapses to the ground, giggling helplessly.
+
+
+The 2nd sentence needs capitalizing.
+
+~
+899929304
+LIST OF KNOWN BUGS~
+Alana~
+This is a list of most of the current bugs known about and posted on this
+
+board...  please read this before posting, so you don't re-post known
+
+stuff.
+
+
+OBJECTS.
+
+Objects, items that don't just sit there, but are built to interact with
+
+DON'T WORK, mostly.
+
+Like: Bushes (can't pick, get, harvest)
+
+Seeds (can't be planted etc)
+
+Containers: liquid ones (don't tell how full)
+
+Books don't work.
+
+Mounts. (so things can't be put on them)
+
+Money (some foreign coins)
+
+Cursed equipment. (no message when you put it on)
+
+Invisible things (are seen, to do with hide not working?)
+
+Cook, Pick, bite, bash, rescue, junk
+
+
+SKILLS/ACTIONS not working/not fully working
+
+Cook, Pick, bite, Whistling(for pets), bash, rescue, junk
+
+undo, kick, peek, appraise, hide, punch, and other thieve skills.
+
+Can't snort snuff.
+
+Some quests are buggy (some related to other bugs)
+
+Grouping....  (autoloot, group following actions like jumping or entering
+
+certain areas, split and group messages) 
+
+Stringing commands together like movement with a buy/sell at the end. 
+
+The action seems to happen before you get to the room required.
+
+Autoloot
+
+Sacrifice (can't do it with goods in inventory, need to drop them before sacrificing)
+
+Autoscan in the desert (not showing all your group)
+
+Some racial socials.
+
+OPTION Wimpy.
+
+
+SPELLS abit buggy...
+
+(See complete list on the Announcement Board)
+
+Shock (can cast it in a body of water like a pond)
+
+Calm spell (when not in combat)
+
+Animate dead/Greater animate (strange responses)
+
+
+NPC NAMES.  If you look at them, you learn their names, but this doesn't
+
+save.  Mainly because it would be a huge space filler as each player
+
+would need their own file of which npc's they have looked at.
+
+
+MOBS.  Seems some are having an aggro complex.  Some will attack and then
+
+stop, some non-aggro are being aggro, some are assisting etc.
+
+
+LIGHT. It don't work, this goes for the spell create light.
+
+
+Hmm, I think that's most of it....this will be amended as time goes by.
+
+Alana
+
+~
+899939767
+feathers~
+Slarskis~
+should you put a feather on your head before a cap, or after a cap. 
+
+Currently you have to put it on before the cap.  Is this backwards?
+
+~
+899944945
+Plural~
+Kauji~
+Just walked in on a battle and saw:
+
+Two giant falcons is here, fighting a deer.
+
+
+Kauji
+
+~
+899952763
+Queue~
+Taeneth~
+I have no idea if this has been posted, so here it is again if it has:
+
+
+Cures are queued a lot longer than they used to be.  Or different,
+
+somehow.  I don't like it and I know a lot of other clerics don't like it
+
+either.  It's making our job a whole lot tougher than it already was. 
+
+Cures should not be queued for more than a round unless you're sending
+
+off more than the max per round.
+
+~
+899955242
+Casting spells.~
+Alana~
+Before pwipe, you couldn't cast spells in the Chiiron bank...  so not to
+
+spam other people in the room.  But now, you can.  Is that an oversight?
+
+Plus all the other shops in Chiiron are Sanctuaries, but the bank isn't...
+
+Is that how it's suppose to be?
+
+Alana the spam hater..
+
+~
+899955539
+Iflags~
+Raudhrskal~
+there is no way to set the bugs or clan Noteboard iflag levels, as there
+
+are Info levels of the same name.
+
+
+--Raudhrskal
+
+~
+899956093
+Wererat high priest.~
+Belgar~
+His area attacks are only wounding me, not my pets.
+
+--
+
+Many area attacks bother only players, otherwise are likely to also injure
+
+other mobs
+
+~
+899963528
+Zombies~
+Derjek~
+I can skin Some zombies, like a hyena, and get bits of bone and rotting
+
+flesh, but I can't skin corpses of boars or stags?  Surely their just all
+
+one big dead family?
+
+Why not be able to skin them all?
+
+@GThis is personal preference on the part of the builder.  For certain
+
+reasons, I needed all of my zombies and skeletons to do stuff like this. 
+
+Whether or not the rest should be unskinnable or made partly useful is
+
+probably up to their creator.
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+--
+
+
+On another tangent, I killed a timberwolf and within seconds cast animate
+
+and got 'its too old to be animated' er.  too old?  Like I shoulda taken
+
+1 second instead of 2?  Or if its age of the animal, should be a bit
+
+clearer?
+
+@GCheck its I.D.  next time.  Only corpses 50 years or younger can be
+
+animated j/k.  No idea.
+
+~
+899964091
+Missed rose bush in Room #40501~
+Seltha~
+As the title says :)
+
+~
+899972826
+Hauberk mail~
+Malhic~
+Hauberk mail sleeves are a much higher level than the hauberk mail vest
+
+and hauberk mail leggings.  I guess it might not be a bug, but does seem
+
+strange.
+
+~
+899982936
+Zap~
+Edgar~
+Doesn't work
+
+~
+899984066
+Room #37578~
+Demok~
+Can't use the 'time' command while sleeping.
+
+~
+900018759
+climb~
+Grude~
+now this may not be a bug....heh...but when did mountain rams start
+
+climbing trees?  i just saw a litle durfie with not one but two of these
+
+spectacular creatures up at the top of the vultures.  *boggle* 
+
+@I
+
+---
+
+@I
+
+probably because mud does not differentiate between 'can climb
+
+mountainside' and 'can climb tree'.
+
+hopfully work won't be put into that for quite some time :)
+
+@RP@Yh@Gu@Bl@Me@n
+
+~
+900020939
+Re: web problem~
+Servius~
+I noticed it too.  When a mob is webbed, rewebbing of the mob does not
+
+make any difference in changing how long the web lasts.  The mob breaks
+
+free from the web only based on the first web and further webbing will
+
+only have an affect after the mob breaks free.
+
+~
+900030358
+groups in pkill areas~
+Kami~
+Was wondering if you cant code pkill areas so that you cant accidentally
+
+attack a group member?
+
+
+Kami..da absent minded tank
+
+
+@yIs your opt safe.kill set true?  And if it is, then repost.  --Fenlyn@n
+
+~
+900041288
+Bugbear shaman~
+Ganelon~
+The shaman's cry for help currently reads:
+
+
+The shaman bellows, "Help, [BUG] is attacking me!"
+
+~
+900044565
+Sub-monks~
+Snog~
+Are all the monks in the entire monestary suppose to come and help when a
+
+sub-monk yells for help?  On scan, the mob was called "a monk" not the
+
+monk guard in the sub-monk zone.  Now when I scan after fleeing, I see..
+
+north : two monks, a monk guard, four strongly muscled monks
+
+Now I'm gonig to leave before I get myself killed.
+
+- Snog -
+
+~
+900046023
+Hit-regen items.~
+Belgar~
+These items still give half as much + regeneration as an identify scroll
+
+shows them to.
+
+
+@yThat's odd.  It should give you 10% of displayed vallue.  --Fenlyn@n
+
+
+Er, whoops. I mean:
+
+An item with a hit-regen displayed of 10 gives +0.5 regen, while an item
+
+with mana-regen displayed of 10 gives +1 regen.
+
+~
+900048632
+login~
+Sailis~
+When you mistype your character name at the log in prompt, you get a
+
+little paragraph about things that you may have done wrong.  The last
+
+sentence of this paragraph reads: " After having done that and received
+
+email containing the confirmation code go to option 2 and being the
+
+process of creating a character." I may have had too much to drink
+
+tonight, but I think the word 'being' should actually be 'begin'.  Just
+
+goes to show how many people really read menus and room descriptions and
+
+all that sort.  :D 
+
+~
+900049918
+Fire newts.~
+Belgar~
+THe large and small fire newts don't have the keywords large and small
+
+respectively.
+
+-
+
+The large ones also have an appearance of:
+
+A large red fire newt flicks crawls around.
+
+~
+900060700
+Corpse/befriending bug~
+Kierthos~
+Whilst strolling to my favorite "snack on the run" place, I noticed a
+
+corpse of Sardon lying on the ground.  Seeing that it was empty of all
+
+gear, I decided to attempt to pick it up.  Lo and behold, I could!
+
+Here's the problem:
+
+(1) To the best of my knowledge, I am not befriended to Sardon. 
+
+Therefore, I should not be able to pick up his corpse.
+
+
+(2) If this part of the code is buggy, then other code relating to
+
+corpses may be buggy too.  *shrug* 
+
+
+(3) Finally, Sardon's corpse only weighed 0.95 pounds.  I know gnomes are
+
+small, but this is ridiculous...
+
+
+For purposed of documentation, I am going to store the corpse in my bank
+
+account.  (viewing of the corpse is between noon and 6 pm, EST) 
+
+
+Kierthos
+
+Strike that...  appears that the bank is refusing bad meat these days.
+
+~
+900061144
+Incense~
+Florian~
+Incense no longer goes out, making all those incense items permanent at
+
+this time.
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+Ps.  Until this is fixed, might be nice to remove all your incense lest
+
+ye be abusing ye gold ole bugs.
+
+Thanks.
+
+~
+900061524
+Spiderman can web, Why cant I?~
+Razu~
+I'm just darned sick of seeing this message all in one round.
+
+
+The web trapping a wisteria vine thickens.
+
+(*a few hits from group*)
+
+A wisteria vine breaks through the web holding it.
+
+
+It seems to me if we all have web at 10 this should not be happening.
+
+It's an utter waste of webs, and they're annoying to gather
+
+Please either fix the thickening to cancel out a break out
+
+message coming in the same round or make web a reagent-less
+
+spell
+
+
+@g- - - - -@n
+
+As annoying as this is, imagine what it must be like to be coding a mud.
+
+Add to this all the ungrateful little gits that whine no matter just how
+
+much you fix or improve.  I think a little patience is in order.  If it
+
+annoys you too much I see two options:
+
+Quit or quit and do it yourself.  :P
+
+Honestly I think we have enough problems with higher priority than a
+
+simple little spell that at least has an effect.  Or is it preferable to
+
+die to a bug several times and argue with the imms over whether or not to
+
+be reimbursed yet have a working low level spell?
+
+(ever see a grouchy Talis before?  ya have now :P )
+
+
+Shade and sweet water,
+
+Talis
+
+@g- - - - -@n
+
+
+@C
+
+==========================
+
+I agree there a lot of problems with higher priority, I expect
+
+you havent read drog's note on the general board, it has some
+
+info on imm/player relations. Ok fine I'd like to report that
+
+switch and auction and pick and follow dont work :p
+
+
+@YRazu
+
+~
+900061669
+Gods~
+Derjek~
+Reading help religion, then help <gods name> specifically, what the heck
+
+are Dwarves supposed to follow?  According to the files, dwarves tend to
+
+follow Kerog, but the help file reads no goods may follow him.  Okie,
+
+acceptable , okie, i'll follow the Other god, Kantos, god of mountains
+
+and earth, sounds Dwarfy?  But, it reads that he only attracts Neutral
+
+people, as they see his philosophical differences.  *cough* many dwarves
+
+are good, leaving us to follow pansy gods like Cynnis and co.  What, oh
+
+what, has happened to the typical dwarf loony, fighting against
+
+everything for the good of the land?  I mean, as Chaotic good, i want to
+
+fight against evil and will break the law if i have to, and go to extreme
+
+lengths.
+
+So, can you extend the gods aligns slightly?  I'd love to be a cleric
+
+with a suitable god.
+
+
+@yWe are working on redesigning the religions system and the religions
+
+within the system.  That's about all I can tell you for now.  --Fenlyn@n
+
+
+~
+900084191
+Lie social...~
+Seltha~
+Is stuffed kinda :)
+
+When you're sitting and type 'lie' it says situp, and no one sees what you did...?
+
+Well I'll let you immy type people look at it and figure out what's wrong ;)
+
+~
+900084241
+Blind Fighting~
+Grimsza~
+help blind fighting says:
+
+
+The result of this is that they are able to hit their opponents more
+
+accurately and with more power.
+
+
+However it seems to only help with accuracy, not with power.  Possibly
+
+the help file needs to be updated, possibly the skill is bugged, possibly
+
+something else, just thought I would mention it.
+
+~
+900086999
+Brithbarad armoury.~
+Winnowill~
+This appears to still be open.
+
+~
+900089914
+Bullywug shaman~
+Jaime~
+When it falls down after a falled bash it can still cast its fireball
+
+thing.
+
+~
+900123509
+green ball of light~
+Daelin~
+I'm not sure that this is a bug, but it seems a bit weird, so I'm reporting it,
+
+just in case. I died and one of the random items that stayed on my corpse was a ball
+
+of light created from the create light spell...when I loot the corpse it is now in my
+
+inventory. I can't rewear it either, no big loss of course, but I don't think it was
+
+intended.
+
+Daelin, the confused mage.
+
+~
+900136407
+Gaol in Kha-da~
+G'Narrl~
+Hi all...  I just want to report a possible bug...  I was in the alter in
+
+Kha-da happily sacrificing stuff to My goddess Algesa when I was grabbed
+
+and put into the Gaol for no possible reason I can think of...  I think
+
+the exact syntax prior to the imprisonment was "get all silk" meaning get
+
+all items from silk bag in order to sacrifice it...  Unless the gold pile
+
+has the keyword silk, then this imprisonment is not just...  I just want
+
+to report this as a possible bug and hopefully some kind imm will let me
+
+out of prison...  BTW how long until they let you out?  (probably never
+
+is my guess) *sigh* G'Narrl 
+
+---
+
+using GET in this room will get you imprisoned right now.  is a bug that
+
+you can't get out.  NONE of the timed triggers like that are currently
+
+working.
+
+-- Merior
+
+~
+900163587
+chant~
+Loxus~
+No history for the chant channel (just typing 'chant' turns it on and
+
+off).
+
+
+Loxus
+
+~
+900170559
+Tame~
+Diu~
+I casted tame with two rabbits on a room, on a rabbit.
+
+It said: You cast tame. The two rabbits now follows you.
+
+Later, I had raccoon pet. I wanted to kill rabbit
+
+I typed k rac by mistake, and it said:
+
+The room doesn't contain any items matching 'pet'.
+
+I tried later again later, and it was ok then...
+
+~
+900194306
+Chant~
+Zim~
+Says "someone chants:" while you're sleeping.
+
+~
+900197206
+detect evil~
+Grimsza~
+Seems to be buggy. Drog cast it and said I did not detect as evil.
+
+id says: Sex: male     Alignment: neutral evil
+
+Possibly this bug (whatever it is) has something to do with why I keep
+
+winding up in the lighty portal after reboots?
+
+Hrmm.. I wonder if this means I can enter chiiron after all?
+
+~
+900212668
+Rabbit Warrens~
+Cecil~
+When I scanned just south of 'Warren Tunnels - By A Crevice' (east of
+
+dwarf mage) where 'The tunnel has caved in, and you can not go that
+
+way.', I could see two rabbits north of me, passed the caved in wall.
+
+
+Moments later, both rabbits (one at a time over about a minute) arrived
+
+from the north, indicating that to the north, to exit is unlocked, while
+
+from the south, is is locked but not opaque.
+
+
+/// Cecil ///
+
+~
+900271930
+Help Sacrifice File~
+Alana~
+Could this file be updated to include the new changes, please.  Means if
+
+we send people to the help files, then they are getting the right
+
+information.
+
+Thanks heaps.
+
+Alana
+
+~
+900332576
+missing exits~
+Loxus~
+The following rooms used to have secret exits, which for some reason
+
+don't work now or no longer exist.
+
+
+#569    [west]
+
+#37034  [west]
+
+#37208  [down]
+
+
+Loxus
+
+~
+900338933
+stalked by light~
+Vivictus~
+I spammed create light for lots of time to get it to lev 7 for create water.
+
+Now I am being followed by at least a couple hundred balls of light.
+
+Rue already checked it out and said it was a code problem.
+
+Rue says (in primal): "is a code problem"
+
+Rue says (in primal): "post a bug note"
+
+I hope this can be fixed without much difficulty.
+
+~
+900354186
+Priestess in Chiiron~
+Idelfuss~
+I just practiced some stuff with the priestess in Chiiron, and when I
+
+handed her the money for her fee all it said was "You hand 5 sp."....not
+
+you hand it to someone or anything like that.
+
+~
+900356031
+'Wear' weight bug~
+Stol~
+Ok, I've got a furred waterskin of soup that weighs 7.6 lbs according to
+
+my inventory screen.  It's the only item i'm carrying, so my total carry
+
+weight is 7.55 (I'm guessing this is the actual weight and the 7.6 is
+
+rounded).  Anyway, when I hold the waterskin, my total carry weight goes
+
+down to -.05, it subtracted the rounded weight instead of the actual
+
+weight.
+
+~
+900381883
+Alingment Changes!~
+Catintallus~
+I have been attempting to talk to an immortal for the last couple of days
+
+and I would like something done about this.  I created Catintallus as a
+
+Chaotic Neutral charactor and found out the hard way the he was no longer
+
+CN.  but CE on checking my other charactor I found that his alingment has
+
+also changed from CG to CE (Kalgart) While the change with Kalgart isn't
+
+too much of a problem - I was really playing him that way, The change in
+
+Catintallus is very annoying as I have no wish to play him as CE ! Also I
+
+noticed this on wandering through Chirron - And being killed.
+
+
+mud mail or Email me on this one plaese as no imm's seem to be on when I
+
+can logg in 
+
+
+Catintallus
+
+
+@yHmmm.  Seems you have been attacking a Chiiron guard recently.  And you
+
+wonder why you are CE now?  --Fenlyn@n 
+
+@yOr were you CE before entering the town?
+
+~
+900455212
+Item Quantity bug~
+Gyre~
+buy 1*large canvas bag
+
+You buy four empty large canvas bags from a shopkeeper for 911 cp.
+
+Somehow, I don't think 1 equals four.  Stop me if I'm wrong.  :) 
+
+~
+900464502
+Two rabbits is stunned, but will...~
+Gyre~
+The blue arcs of energy charge a rabbit. mostly dead
+
+Two rabbits is stunned, but will probably recover.
+
+A human mage's swing mauls a rabbit's cottony tail. [ DEAD! ]
+
+---
+
+The mage had a pet rabbit.  His pet and the wild rabbit were the only
+
+mobs in the room.  He killed the rabbit in that one shot, so that is all
+
+the text there is of the battle.  I'm just curious why it had the
+
+plurality wrong on the rabbit.  Just in case it is relevent, I have opt
+
+numeric turned on.
+
+~
+900471163
+Quest~
+Kwee~
+upon completing the Lord Richard quest, a certain item still lies
+
+in my possession that should not.  I junked it however.
+
+~
+900560975
+King cobras..~
+Jaime~
+Was traversing the desert, pokin' around in random holes and such, when I
+
+disturbed a king cobra.  I got the return that it was squirting venom
+
+into *my* eyes, yet it burned my horse, then I got a line saying it tried
+
+to blind me, but my horse was blinded, it it let me know that clearly.If
+
+the cobra does do random area type attacks, mayhap change the syntax?
+
+~
+900563106
+Pet Area~
+Sythberel~
+I have a hyena and its area attack hits me as well as the mobs we are
+
+fighting.  Not sure if this is a bug since the area attack isn't
+
+something that could be directed, but thought there might be a problem
+
+with other pets that have area attacks.
+
+Syth
+
+~
+900563120
+Unconcious underwater~
+Gyre~
+If you fall unconcious underwater, you shouldn't have to 'get up'
+
+afterwards...  you're floating anyway.  While I haven't checked on it,
+
+the same is probably true for bashing, tripping, etc.  Those strategies
+
+just wouldn't be as effective underwater.
+
+~
+900585189
+bank bug~
+Mikhail~
+If your acct is say 300lbs... and you have 400lbs of bronze in your inventory
+
+if you do dep all*bronze it allows you to deposit all of the bronze regardless if it's over the bank weight limit.
+
+-Mikhail
+
+~
+900614321
+mobs blocking exits~
+Snog~
+When a mob is in combat with someone else it can still block your exit.
+
+- Snog -
+
+ps, this happened with a goblin merc
+
+~
+900637065
+mobs talking....~
+Elorieth~
+When i ask an animal (a deer, for instance) a question, it responds that
+
+it says "a deer tells you: "i know nothing about that."
+
+Last i remmembered, deer didn't respond to questions one asked them... :)
+
+-Elorieth... in hopes that someone didn't already mention this
+
+~
+900652650
+Looking~
+Griffin Tgar~
+I don't know about any other places, but in hobgoblins, When I type n .&
+
+kill chief .& look chief .& look incant I attack the chief and look at
+
+the incantrix first, then the chief, even though I typed the chief first.
+
+
+Nothing important, really, just kinda odd.
+
+~
+900679851
+tiny maple warbows.~
+Belgar~
+can be wielded at the same time as another weapon.
+
+~
+900689397
+objects in corpse~
+Gaines~
+After killing the old man on the Northern Sea Trail, I received the
+
+message that the corpse containted a raw stick of jerky and a wineskin of
+
+water.  But when I removed everything from the corpse, I got 2 of
+
+everything, not just one like the original message said should be in
+
+there.  Room number, if needed, is #21073.
+
+~
+900691301
+heavy brass bracer~
+Griffin Tgar~
+Item doesn't do what it says it should according to ID.
+
+~
+900697806
+Talking animals~
+Gyre~
+A white cat tells you: "I know nothing about that."
+
+---
+
+I'm not sure it's a bug...  heck, could be some sorta magical cat, but I
+
+thought it odd enough to post.  :) 
+
+~
+900710756
+Meditate~
+Paco~
+When i meditat it takes 6 energy.  When i am about out of energy, like i
+
+have 2 points of it left i still gain the maximum amount of hit points. 
+
+I think this should not be like that 
+
+Is it a bug?
+
+~
+900713188
+Minor speech impediment~
+Gyre~
+A ghost of a human smith tells you:
+
+"Have you found my friend yet? I cannot this torment much longer."
+
+---
+
+I assume he means 'I cannot stand this torment much longer'.
+
+~
+900719324
+Dreglor, a master warrior~
+Jareth~
+Dreglor (in Denab-Knur) does not display a string when you cannot learn a
+
+skill.
+
+~
+900727887
+Sanctify~
+Grimsza~
+You sprinkle the dust over [BUG], lightly covering it.
+
+Trouble is I am a monk, I can't do this. Next line was right.
+
+Arciryas pours a vial of holy water over [BUG].
+
+~
+900732449
+scrab lair~
+Phelan~
+in room #61003 in the desert scrab lair if you type get crystal it does
+
+this 
+
+*** FAILS TO COMPILE
+
+*** Error on line 17
+
+*** Error of unknown type.
+
+~
+900837128
+Cursed (nodrop) items.~
+Raudhrskal~
+Might be more of an idea than a bug, but it would be nice to put these
+
+things somewhere safe, such as in our bank accounts or in bags, or maybe
+
+even some kind of special bag..  Not only are they cumbersome, but they
+
+get in the way a _lot_.  They interfere with extra room descriptions, and
+
+just can be annoying in general at times.
+
+
+--Raudhrskal, who can't 'look stone' or 'look bone' in rooms with those
+
+extra descs.
+
+~
+900846580
+Poison~
+Saul~
+I was poisoned..  but still had a 1.5hp regen meditating..  it would take
+
+the -6e every tick, but would give the 1-2hps like it should 
+
+
+@R Saul.
+
+~
+900870288
+$~

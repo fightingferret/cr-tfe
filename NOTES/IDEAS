@@ -1,0 +1,3448 @@
+#NOTES
+
+Loop ideas~
+Florian~
+loop( all_in_group )-useful for area attack loops w/o having to use other
+
+exclusionary functions.
+
+loop( group_no_mob ) - useful for excluding pets in group without other
+
+cumbersome exclusion functions 
+
+~
+897374796
+Before a Dark Cave~
+Thentril~
+From somewhere a voice intones: "The area below is dangerous.  Probably
+
+too dangerous for you." This is a warning and should probably be in bold
+
+to make it easier to see.
+
+~
+897501510
+On reputation~
+Kierthos~
+Until reputation is working the way it is supposed to, could "Those that
+
+sit on High" lift the little restriction on light races not being able to
+
+group with dark races, and vice-versa?  Now, you may say that it won't
+
+make much sense, RP-wise to have elves and vyans working together...  but
+
+RP-wise it's just as much of a screw-job, to put it non-delicately, to
+
+force someone who, In-character, hates most other light-races to work
+
+with them if he wants to group.
+
+
+Yeah, I'm talking about me.  And I'm sure I'm not the only human who
+
+would rather that he could work with orcs, ogres, and trolls, rather then
+
+endless hordes of elven mages that seem to have cropped up since the
+
+world came back.
+
+
+I mean, look at it...  a chaotic evil human is still classed as a light
+
+race, yet will get killed if he enters most light-race towns.
+
+
+Oh, and before someone says, "Well, if you want to group with dark-races,
+
+play a dark-race.", I'll respond with this: 
+
+
+I don't want to play a dark-race.  I want to play a human.  There are RP
+
+reason why I want to play a human who dislikes working with most light
+
+races.  However, until reputation is either fixed or turned off, I can't
+
+RP the way I want to.
+
+
+So, in conclusion, I would like to say that once reputation is installed,
+
+it's going to make a lot of characters extremely cautious about what they
+
+kill.  But until then, it's a nuisance.
+
+
+Kierthos, the Stone Cold Steve Austin of Forest's Edge
+
+~
+897553798
+Krynite~
+Balthasar~
+Seems shopkeepers don't sell it anymore for some reason.  Perhaps an
+
+oversight?  (I hope.) 
+
+--
+
+No, no oversight.  Krynite is now a custom , for the same price at which
+
+pinches of krynite was bought.  While minor enchantment is not suppose to
+
+be nearly as rare as major enchantment, its not suppose to flow down the
+
+streets either.  Krynite ore is rare.  The idea of shops always having
+
+5-10 pinches of it was preposterous.  Now before people freak, and start
+
+griping before they know all the facts, check out the custom.  It's
+
+ingredients are much more common than say those for making krynite
+
+weapons.  And can be found outside the normal sources, too.
+
+@C*Florian@n
+
+~
+897678212
+Here's one~
+Kierthos~
+Similar to filter and ignore, how about an option to keep people from
+
+introducing?
+
+
+opt intro 0 - anyone can intro to you
+
+opt intro 1 - similar alignment (goods, neutrals, evils) can intro to you
+
+opt intro 2 - only those of same race can intro to you
+
+opt intro 3 - no one can intro to you... you ignore them.
+
+
+Just a thought,
+
+Kierthos - the Stone Cold Steve Austin of TFE
+
+~
+897789943
+assisting npcs~
+Derjek~
+In towns, seeing my dwarf citizens in kha-da being walloped, I know its
+
+not plausible to make towns a pk area but, why not enable a 'assist' mob
+
+command, so assist the town citizens, or a tell to guard command that
+
+calls guards into the room.
+
+I just hate watching my brethren dying.
+
+~
+897968766
+rescue~
+Gock~
+Make the random attack work again.  without having random attacks the
+
+warrior skill rescue is pretty much useless.  also it's not always fair
+
+to the people at the top of the list 
+
+~
+898038927
+Bash Door~
+Plagad~
+Us warrior no like carrying wimpy thief around.  We want 'bash' doors
+
+down!  UG!  Be good!  Doors be big but us be big enough to bash!  UG UG!
+
+~
+898198889
+stagger~
+Grimsza~
+I think that taking more than a certain percentage of a mob or players hp
+
+off in one hit should be good for a "stagger." I.e.  when I get a really
+
+nice crit and take a mob or player from perfect to wounded in one strike,
+
+stands to reason they fall back stunned for a sec no?
+
+Same thing of course for a mage doing that with a fireball, etc...
+
+~
+898295946
+Fire Shield and Web.~
+Zim~
+Fire shield should make you anti-web cause the fire shield would
+
+instantly burn off the web.
+
+~
+898315615
+Seeing colors,~
+Jaime~
+If tell is an OOC form of communication, maybe I should be able to see
+
+their names instead of kobold lord etc etc now?
+
+~
+898375401
+Color level...~
+Thrax~
+For all those people complaining about colors.  Why dont you make color
+
+an option level like ignore, etc?  That way, people who just want color
+
+in their prompts and battle can have that, while others can see all the
+
+colors in notes and mail.  This would work easily for when color in
+
+emotes is coded in, too(*wink*).
+
+Thrax
+
+*grunt*
+
+~
+898457989
+Thieves~
+Servius~
+Just another note on the topic of thieves.  A lot of people considered
+
+them a rather useless class before the pwipe.  I personally don't have
+
+much of an opinion on that, but judging from the very few people who
+
+played them compared to the other classes must mean that something was
+
+wrong with them.  In any case, a lot of their skills have been raised in
+
+levels.  A primary skill of any thief is backstab.  Why should this be
+
+moved up to level 10?  If thieves are crummy before, why have so many of
+
+their skills been raised?  It's not like they were ultra powerful.
+
+
+@CServius, @Rthe inquisitor.
+
+@n
+
+@CP.S.@n Why does rescue cost thieves 20 pracs per level?  seems REALLY
+
+high....
+
+~
+898473334
+Ability to think for ourselves~
+Illuminanti~
+I'll limit my ranting to a few lines because it's fairly simple point.  I
+
+think this dark_races/light_race seperation is pretty insulting.  I mean
+
+we ARE roleplaying arent we?  Roleplayers can choose to associate with
+
+whomever they choose.  Im very insulted that the imms decided to force
+
+rp'ing down our throats and are FORCING us to not associate with opposite
+
+races.  IMO some of the best interaction pre-pwipe was between dark and
+
+light races, they joked and taunted opposites over gossip and in person. 
+
+Where is the conflict between good and evil , it's gone!  You took it
+
+away by forcing us to not associate with them.  *sigh* So many of the
+
+things that made TFE great went with the pwipe, dont take away our right
+
+to pick friends and enemies and to interact.  *grumble* ranting is over
+
+now but agian this disgusts me and i wish i had never donated before the
+
+wipe.
+
+
+-Crazy Mad Frustrated TFE Playerbase
+
+~
+898547656
+ignore~
+Servius~
+if you try to send a tell to a person when you have ignore set, either a)
+
+ignore should automatically turn off or b) the person you sent a tell to
+
+should be allowed to reply or c) you should get a message saying tell
+
+could not be sent because you have ignore set.
+
+~
+898553053
+Filter notes..~
+Daar~
+Just a thought...it would be cool to be able to filter notes from the person as well as tell/chat/stuff...
+
+Daar
+
+~
+898560673
+consider~
+D'Arvill~
+Allow you to consider a corpse of something.  So that you don;t get 'You
+
+can't consider the corpse of a bugbear guard' instead you might get 'You
+
+look at a corpse of a bugbear guard and think it looks too big for you'
+
+basing the consider on its appearance not actual ability.
+
+And when you consider yourself, you should consider at 'Attacking and
+
+suicide is equivalent' as it actually is...through simple logic.
+
+~
+898574380
+Leather belt and pouch.~
+Belgar~
+I notice this was moved to being a main belt slot.  It always used to be
+
+in the same slot as the belly pouch, which kinda made sense, allowing you
+
+to wear a main belt and a pouch.  Now you can wear two pouches.
+
+How about making it the same slot as the belly pouch?
+
+~
+898603338
+Regarding Wanted board..~
+B'yann~
+Just an idea for the doofs who like posting and reposting their notes on
+
+the wanted board every time someone raises a bid by 1cp or so, why not
+
+wait and collect a few bids before spamming us every 5 seconds?  I like
+
+to be able to keep up with the announcements and seemingly intelligent
+
+debates on the general board, but seeing someone reposting a note all the
+
+time just because someone upped the bid a few coppers gets on my nerves
+
+:p 
+
+
+B'yann Al'Tor, the ranger who don't buy stuff from people who spam the board.
+
+
+Oh, and PS: I hope the auction block never comes back..  all it does is
+
+put equipment in the hands of clueless newbies, or people who couldn't be
+
+bothered getting it themselves..  People who work for the equipment
+
+should deserve to have it, those who cant be bothered going to a new zone
+
+and exploring, or who dont even know where to get it shold rot :p 
+
+~
+898635404
+Re: cities and alignment~
+Maxxim~
+Voaleth is dark only.  The gate keepers don't allow light raced people
+
+inside and if they are good aligned they'd better watch their backs
+
+trying to get in.  I really like chiiron allowing dark raced people
+
+inside too...
+
+~
+898638794
+Cities and Race~
+Gaines~
+Make Voaleth dark only and Chiiron light only.
+
+~
+898643213
+opt group.incog~
+Parn~
+Levels of group incognito:
+
+
+L1: Only Tank sees info
+
+L2: Befriended People
+
+L3: No one sees info
+
+~
+898710472
+wanted/board~
+Draynath~
+How about having a dark race only and light race only board
+
+as well as the current one? That way those people who are only
+
+going to deal with whichever race only posts on the proper
+
+board.
+
+
+Dray tired of asking about items posted...
+
+~
+898725287
+group.incog~
+Derjek~
+since the who list now always identifies someones race, if not level or
+
+class, why not have the group incognito no longer hide race as well?
+
+~
+898746883
+carved UNHOLY symbol~
+Maxxim~
+this should be an evil equivilent of the carved holy symbol.
+
+~
+898750704
+Called Shots~
+Kroog~
+Need I say more?  Role Players that play AD&D know what i am saying.  So
+
+do the imms.  It would require alot of work i know I have immed before
+
+but its possoble ;) PLEASE?  It would be really COOL!
+
+@I
+
+@I
+
+@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@n
+
+@G.@RKroog@n @Bthe@n @YW@Bo@Cn@Gd@Me@Br@Re@Gr@n@G.
+
+@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@c\@b/@n
+
+~
+898750848
+filter~
+Griffin Tgar~
+Filter could work on keywords, cause I don't know A stocky dwarven male
+
+with a big red nose, but I'd like to filter him.
+
+
+thanks,
+
+@rGriffin@n
+
+~
+898800792
+RP Between Dark/Lights~
+Maxxim~
+Players should be able to RP between other people as they choose.  I
+
+think it is unfair to force us to feel poorly upon other races just
+
+because they belong to the light.  This is not a whine, but honestly, if
+
+an ogre or vyan wants to hang out with an elf or gnome it should be their
+
+choice to make.  Not allowing the opposite sides to group up is pointless
+
+and it defeats the point of being a 'neutral' character as well.  This is
+
+just my opinion, which i share with many others.  Too many of my friends
+
+are on the light side but i happen to like being ogre...
+
+
+Thanks,
+
+@CMaxxim
+
+~
+898802036
+empty body parts~
+Ghu ju~
+i like how i loose more stuff now when i die. but i alos like that others do so too.
+
+but i think it would be nice to have a comand to show me were i am naked.
+
+i give you and example.
+
+lets say i lost a bracer. and i used the empty body part comand and it woudl tell me you have nothing on you wrists or you have nothing on your feet of your missing someing on your feet.
+
+a good idea is there  just reread it i english is jut not my bag.
+
+me say tanxs.
+
+me Ghu ju VooooDoooo queen of da troll !!!
+
+~
+898883261
+Notes~
+Nezzim~
+How about a note taking a gossip point?  Perhaps more.
+
+--
+
+If a note being posted ( all except for the bugs board) cost gossip
+
+points, might clearly cut down on all the gunk most people post for
+
+funzies that Immortals have to wade through and delete.
+
+@C*Florian@n
+
+~
+898898251
+friend, group, introed, not~
+Ickack~
+A lot of people are getting back to that stage where they know half the
+
+mud.  I'm sure we'd all appreciate an easy way to look for the people we
+
+like to group with.  Right now we have 'befriended' 'introed' and
+
+'unintroed'.  I think one more would be really useful, call it
+
+'acquainted' maybe, which is between 'introed' and 'befriended' in the
+
+who list and has it's own color on qwho.
+
+
+This would work nicely with opt ignore, by the way: 3 ignore all, 2 allow
+
+befriended, 1 allow acquainted, 0 allow all.
+
+
+Thanks for listening.
+
+IckAck
+
+~
+898900816
+ordering pets~
+Freywin~
+It's minor, but, sometimes I like to have my lynx lick Arlec's face. 
+
+now, since i'm intro'd to him, I call him Arlec.  but when i tell my
+
+kitty to lick arlec, he don't do nothing.  BUT, when I order him to lick
+
+llewyrr (one of arlec's keywords), he can lick him.  I think it would be
+
+nice if pets saw the names of people their masters are intro'd to,
+
+instead of their appearance.
+
+~
+898945759
+Opt Incog ...~
+Seltha~
+I think you were holding back on the incognito except for befriended
+
+pre-wipe, but now that we got the option for tells only from befriended,
+
+can't we have opt incognito 2 = only befriended can see...?
+
+Would be really great if you could.
+
+Thanks.
+
+-- Selth.
+
+~
+898960328
+armorer/weaponsmith~
+Borodin~
+I think it would be a little more realistic if these guys repaired the
+
+enchanted items they buy off players so that they can resell them for the
+
+best price.  The way it is now, people have no real need for identify
+
+scrolls.  All the have to do is wear the item until in bad condition sell
+
+it then buy it back and maybe spend a few hundred on an id instead of
+
+scroll price.
+
+~
+898991824
+Re: Trophies~
+Servius~
+This could be done in a similar fashion to Diablo.  When you pkill
+
+someone in Diablo, you get their ear.  These were symbols of one's power
+
+over others.  Perhaps you could skin player corpses in pkill areas ONLY
+
+if you were the one who defeated them....
+
+~
+899014574
+trophy command~
+Aucassin~
+How about a "trophy" command where a person could type it in and get back
+
+a list of the people they've pkilled, how many times, and what level they
+
+(the victims) were at the time.
+
+~
+899014826
+areas~
+Draynath~
+Yes, I know the imms are busy...but could we get some areas
+
+separated? Like hobgoblins and mercenaries in the pennan area?
+
+If it requires begging *beg* *beg* please :)
+
+
+@GI've extracted the room #s for these areas, but Merior has to separate them.
+
+Extracted:
+
+Wooly Spiders
+
+Aspects
+
+Mercs
+
+Hobgoblins
+
+Grells
+
+~
+899018891
+Bright red berries~
+Erainn~
+It would be nice, until pick is fixed, for more of the alchemists and
+
+magic shops to stock reagents that are usually gathered..such as bright
+
+red berries used for faerie fire.
+
+
+Erainn
+
+--
+
+Berries boosted in reset% until pick bush is fixed.  Sorry it took so
+
+long, but its hard to find serious ideas in the mass of drivel that gets
+
+posted about pillows, tacos, and exp spells.
+
+@C*Florian@n
+
+~
+899024084
+haste~
+Phelan~
+i got told by a mage that haste does not increase the rate you cast a
+
+spell like it says it does in help haste.  i want to know if you are
+
+changeing that and if not you might want to change the help file 
+
+--
+
+Since speed change of casting time seems negligable, give spell a
+
+costlier component but make target be any...probably raise in level too
+
+then ;) 
+
+@C*Florian@n
+
+~
+899027025
+Character birthdays.~
+Alana~
+Since we are a certain age, and we do age, and there is a calendar going... 
+
+how about each character having a random birthdate when created.  Put it
+
+in identity.  Then, if we want to, we can celebrate our coming of age, or
+
+hitting certain milestones....  I would certain like to throw a party for
+
+my friends at, say, 55...being an elf, probably means I've hit puberty or
+
+adulthood or something...  Hmm....  a timeline for races..  hmm.......
+
+Alana who just had a birthday and didn't know, so missed it.
+
+~
+899034242
+Web~
+Demok~
+Considering this reagent costs about as much as flint, if not more, and
+
+is used by some casters just as much, if not more, why do we only get one
+
+cast per web?  It'd be really nice if webs could hold three to five casts
+
+of the spell, cause they run out -very- quickly.
+
+--
+
+Mainly because it resets on the ground or can be gotten 'free' in 2-3X
+
+the places as flint.
+
+@C*Florian@n
+
+~
+899066040
+Scabbard~
+Cylaria~
+Please please please please please give us scabbards, either to store
+
+swords and reduce move cost when moving, or to store secondary weapons
+
+so we can wear them and not use them.
+
+
+Cylaria, wearer of fashionable equipment.
+
+~
+899076671
+Consent~
+Aera~
+There should be a way to see who has consented you.
+
+~
+899079333
+Re:Scabbard~
+Laenier~
+This would require some coding, but I think it might be worth it.
+
+
+Premise: Differentiate between carrying a weapon and wielding one.
+
+--'Wield' and 'draw' are the same effect, that of bringing your worn
+
+weapon to bear.  'Unwield' or 'sheath' lowers and sheathes/restraps it. 
+
+'Wear' wears the weapon into a wielded position, from which it can be
+
+sheathed.  'Remove' puts the item into your inventory, i.e.  assumed to
+
+be toted around in wrappings or in a bag (we carry far more than realism
+
+dictates, but there's no reason to change that).  'Get' and 'drop' same
+
+as before.
+
+--Change town guard mob code to check for wielded weapons.  Warnings can
+
+be given, and the character can even be blocked from entering town with a
+
+wielded weapon, ordering him/her to sheath it.  Make banks, trainers, and
+
+weaponscrafters' shops the only rooms in town where one can freely wield
+
+weapons, and code shop-owners and quest-givers to refuse to deal with
+
+them just as they do hidden players.  Once inside, if the weapon is
+
+rewielded, town mobs may on percentage chance respond with a pose,
+
+staring and moving away.  Guards may issue challenges, perhaps wait 10
+
+seconds..  and depending on the character's local reputation, may even
+
+attack for law-breaking.
+
+--Increase movement cost for walking/floating with a weapon wielded. 
+
+Make it impossible to climb with a weapon wielded unless you have climb
+
+skill at 9-10 and that weapon skill at 8-10.
+
+--Possibly change desc equip report to reflect the weapon in a state of
+
+being drawn or sheathed.
+
+--Encourage players to write an alias for *draw and *sheath, or *wield
+
+and *unwield, whichever they decide to use, which emotes the action and
+
+then executes it, with the coded command having a very simple "wield"
+
+message.  This leaves room for creativity.
+
+NOTE: Some swords, daggers, hand axes...  these sorts of things would be
+
+worn at the waist.  Battle axes, two-handed swords, etc.  worn on the
+
+back.  Some smaller weapons can even be removed from the vest.  Polearms
+
+and spears are always carried, but would be at rest, on the shoulder,
+
+when technically sheathed.  So the unwield message default would be
+
+"stops wielding" as I think it is now, and the report in the desc would
+
+list the item as 'unwielded' or some other non-sheath term.
+
+
+Yeah, it isn't imperative to the game, but it would add alot to the RP
+
+atmosphere.  Having to keep track of the status of one's weapons when
+
+going into town, the ethos of one's pets when encountering a mage
+
+guardian: these are at first glance a hinderance, but what they really
+
+accomplish is to remind people to take stock of where they are and what
+
+they're doing.  In other words, thinking like their character.
+
+~
+899085118
+Leaders Condition~
+Grimsza~
+Currently when my leader is dead leaders condition shows as ??  in my
+
+prompt.  This looks the same as if he had fled, or for any other reason
+
+is not in the same room with me.
+
+Of course, most of the time I know which it is anyway, but this can be
+
+very confusing when you lose link in a big battle and reconnect.  Also it
+
+doesn't make sense really, I mean, the leaders corpse is there in the
+
+room with you, so his condition should obviously be DEAD, not unknown.
+
+So the idea is that if the leaders corpse is in the room and not his
+
+living being, leaders condition in prompt should show as DEAD.  This is
+
+probably too hard to code, but I can't say that for sure, so I thought I
+
+would offer it up.
+
+~
+899104297
+Social 'shake'~
+Snog~
+Could the shake social be changed ot shakes your head at someone and a
+
+new social be created for handshake or vise versa?
+
+- Snog -
+
+ps, just seemed like it happens a lot that someone will shake my hand
+
+when they want to shake their head at me 
+
+~
+899110131
+Introes~
+Togashi~
+When you type in Whois <person> you should be able to see whether or not
+
+you have been introduced to them or not.  Thats a cool idea is it not?
+
+~
+899125696
+banks~
+Thaylinn~
+It would be nice if there was an option for not seeing other players
+
+making withdrawals and deposits at banks.  A lot of players like to
+
+show off by doing this.  Besides.. isnt banking supposed to be a somewhat
+
+private business?
+
+~
+899184374
+On Av's~
+Manook~
+I think there is some shoddy Approving going on.  Appearances are smiling
+
+or the color of thier eyes are shown.  Names that are common are getting
+
+by.  Names that are famous are getting by.  I think that the Avs need to
+
+be reviewed.  I think a way to solve this would be to have only a small
+
+amount of AVs.  Maybe like 5 AVs would be good.  These AVs will then be
+
+reviewed every so often by the imms or the players of the mud.  I think
+
+that Names, Description, and Appearances that do not comply with the
+
+rules should be reported and changed.  I think this will greatly increase
+
+the enjoyment of this Mud.  Thank you very much.
+
+Manook that notices the poor jobs of other mortals.
+
+
+@yI think you are misguided.  I won't say anything that Fleur and Aera
+
+have already touched on, but I really think that you are grossly
+
+underestimating the job that avatars have.  It isn't just slapping a flag
+
+on a character who begs for it.  It involves somewhere between 5 and 30
+
+minutes of hard work dependent on a number of factors...  how busy the AV
+
+is, how busy the player is, how stupid the player is (this does happen
+
+sometimes), and the list goes on and on.  Things would be much easier if
+
+players weren't as argumentative when an AV or imm tries to help you. 
+
+But as for you, my misguided friend...  put yourself in their shoes
+
+before telling them how much they suck.  Your argument is unfounded. 
+
+--Fenlyn@n 
+
+~
+899185834
+mail subject <subject>~
+Gibbin~
+Changes the subject of the current letter in the buffer
+
+
+Note title <title>
+
+
+@yTry mail title <new title>
+
+--Fenlyn@n
+
+~
+899185899
+qwho~
+Xemas~
+it would be real useful to have a qwho -R or something for a qwho that
+
+only gives light or dark races....  as it would be easier to find out who
+
+is on that you can actually group with...
+
+~
+899221771
+Void message~
+Jemasze~
+You cannot see the message when someone voids or looses link while you
+
+are sleeping.  As it kinda is ooc-info shouldnt we be able too?
+
+~
+899224839
+threaded noteboard system~
+Phule~
+So that there are not reams and reams of notes generally useless to most
+
+people (see quarterstaff bickering on general board), a threaded
+
+noteboard system would allow people to reply to notes, like 'note reply
+
+12', etc, and start a thread of notes which others can read and reply to,
+
+blah blah, and argue about quarterstaves to their heart's content (also
+
+if notes look like they should be bunched, imms could move notes to
+
+proper threads).
+
+This way I don't have to read 8 notes about quarterstaves to get to more
+
+important notes, like reimb requests to delete.
+
+@I
+
+@RP@Yh@Gu@Bl@Me@n
+
+~
+899249056
+wear~
+Loxus~
+It would be nice to have a helpfile explaining the 'can't cope' and
+
+'aversion' messages.  Also, when it says you need to remove something to
+
+wear an item, it would be real nice to know _what_ to remove, or at least
+
+which location you're trying to wear it in.
+
+
+Loxus
+
+~
+899252331
+Poisons~
+Demos~
+We could have phials of poison found in exquisite places, and when you
+
+pour the phial into - say a waterskin - the waterskin itself becomes
+
+contaminated.  Whoever drinks the waterskin may die, depending on the
+
+severity of the poison.
+
+~
+899254572
+goat hide boots~
+Xemas~
+hmmm, they are worse armour, for a level 10 item, than high hard boots,
+
+the easy to get level 1 boots.  they are a pain to get customed, and
+
+their only good point is the rather low cold resist bonus...  what is the
+
+point?  i'd rather have ac that cold resist...  mabbe they should be
+
+raised to high hard ac to make them not pointless...
+
+~
+899275383
+custom items~
+Darion~
+Why not make custom items worthwhile?
+
+I went through all the trauma of killing mountain rams to custom some
+
+nice goat-hide booties only to find that allthough being marginally 
+
+better at keeping out the cold they didn't compare to my 'newbie' boots.
+
+Again I went through the trouble to construct some baggy patchwork pants,
+
+yet it doesn't compare to my skirt!!
+
+also how about making the guy that customs the goat-hide stuff a trainer? 
+
+he would be certain to have something worthwile to teach, perhaps
+
+somethign rangers could benefit from?
+
+
+Darion the vyan invoker
+
+~
+899276424
+Sea sprites..~
+B'yann~
+One room in here that isnt completely water?  I'm sure the sprites have
+
+human guests every now and then, who probably need to sleep...
+
+
+B.
+
+~
+899285560
+Hair ribbons~
+Brenna~
+It would be nice if these went in their own slot, since they don't really
+
+do anything.
+
+~
+899290273
+*plead*~
+Belgar~
+Some way of filtering out the wanted board, without having to turn off
+
+display of posting on announcements and gen and stuff.  I've been sitting
+
+here for five minutes, and I've got about 20 pieces of info from the
+
+noteboard.  18 have been modications of people's dumb 'I want a staff of
+
+valor!  I have for sale a very tarnished bronze dagger' Two have been
+
+worth reading.
+
+~
+899343729
+Customs~
+Murrough~
+I agree with Darion, customs should always be much more worthwhile, even
+
+than the majority of things you find while adventuring.  To accomplish
+
+this you'd make a clear distinction between the two, even if the items
+
+seemed exactly alike.
+
+For an easy and previously noted example, take the white steel
+
+breastplate.  Assuming you weren't being spoon-fed by a big clan or
+
+buying shields off the auction channel for 50cp every few minutes,
+
+customing steel armor took months.  In some cases, many months.
+
+I remember there was an initial degree of respect held for the custom
+
+plate armors (I certainly respected it and was one of the first to obtain
+
+bronze), and unintentionally, with the advent of knight plate in Med
+
+Cemetary and White steel in White Gobs, almost all respect was lost. 
+
+Most people considered it inane to bother customing these types of items,
+
+and would go directly from an enchanted scale to knight to a hand-me-down
+
+steel.
+
+At some point custom plate became a fair bit better than their popped
+
+counterparts, which is nothing if not beneficial to the game.  I would
+
+suggest making town-customed items _significantly_ better...  because
+
+when you force people to shop in towns, the staples of society and
+
+knowledge, for the best of what's around...  then you set the stage for
+
+reputations and accountability: It can be very enjoyable and beneficial
+
+to be a criminal or a branded enemy, but it *means* something when you
+
+*can't* simply run an area and get the same stuff you can no longer get
+
+in town.  Looked at in that perspective, that is the reward for the
+
+lawful.  Customing is also quite a job, but it's not a chore...  it only
+
+makes the product all the more valued.  And respected.  You don't hand a
+
+mage 10 of them knowing one will reach +3 without blowing up, because you
+
+don't have 10 to offer.  It's an economic motivation, and anything is
+
+beneficial if it gets people to pause and drift away from the usual
+
+pointsfest.
+
+Please consider making all custom items undeniably better than their
+
+area-popped counterparts, even if it means insuring that no valuable
+
+armor popped in a zone is in greater than slightly rusted/tarnished
+
+condition.
+
+When you think of fantasy theme, the people who walk around and wear the
+
+equip off the monster they just killed...  these are *new* people.  On
+
+TFE, you're a regular soldier at level 10, an elite fighter at 25..  and
+
+it goes on from there.  How often do you stumble upon that glowing,
+
+demigod armor?  Shouldn't you expect the fruits of your labor, of lugging
+
+components back and forth, building up the cash and finding the place to
+
+custom it,...  wouldn't you expect it to be better than the item that's
+
+been sitting on the 20-year-old skeleton?
+
+
+Mm...  one last thought..  when was the last time anyone customed
+
+anything below plate armor?  :P 2 years?  3?  That tells you that there
+
+was probably a plan to begin with for economic and value tiers...  but
+
+rapid area and equip expansion didn't follow those lines.  It's never too
+
+late to go back and rethink them.
+
+~
+899345546
+Dwarven mines~
+Squigead~
+How about some good races to kill other than elves...we got dwarf
+
+specters, but they aren't living dwarves.  Be nice to have a village of
+
+each race that could be raided by lights and darks alike.  Just as a
+
+thought, a dwarven outpost, or perhaps where some miners are digging for
+
+mithril.  It could have some normal 'Dwarven miners' and perhaps some
+
+elite tunnel guards, like thunderers, or hammerers.
+
+Plenty of cool stuff that can pop on dwarvies too...the ideas are limitless :)
+
+~
+899363335
+Custom Armour~
+Grimsza~
+A couple further ideas on this general subject, perhaps the custom armor
+
+could be made with a little less metal (350 pounds of metal to make a
+
+breastplate that weighs around 15-20 pounds does seem excessive.)
+
+Especially considering the limit on bank accounts.
+
+I imagine this was done because in the old days with auction up it was
+
+way too easy to have the auction daemons working overtime to haul tons of
+
+bronze out of durfs to be melted.  This is no longer the case.
+
+Additionally, lest this should be unbalancing (which I doubt considering
+
+the poppable stuff that is so much easier to get anyway) customed armour
+
+should be made custom-fit.
+
+Making it custom fit would not only balance making it a little easier to
+
+get, it is also far more realistic.
+
+~
+899363950
+Armour~
+Grimsza~
+Actually, if we want to be realistic everything from hard leather up
+
+should probably be custom tailor.  But armourers should be able to tailor
+
+old armour to new wearers.  For a fee of course, a very substantial one
+
+in the case of the heavier armours.
+
+This wouldn't *just* add realism of course, imop it would help the
+
+economy here too.
+
+~
+899364489
+customing armor~
+Servius~
+Customable armor (plate armor etc) should take less crude plates based on
+
+your race and less cost to custom.  A halfling's suit of plate armor will
+
+not be nearly as large as that of a 500 lb ogre.
+
+~
+899365202
+Re:  customing~
+Orb~
+Yes, I am fixing this, currently, and yes it will be different.  Yes, it
+
+is also very time consuming, and very slow.
+
+~
+899365265
+mage spells~
+Servius~
+This is just looking at the balance between spells.  You take a look at
+
+mage spells between levels 15 and 20 and you'll notice there i only one
+
+spell to be learned-freeze.  Perhaps there should be one more spell moved
+
+to level 17 just for a balance instead of having 3 spells at level 20
+
+which require a lot of practices.
+
+@MServius Tullius, @CFirst of Seven.
+
+@nP.S.  This isn't just so I can get a spell sooner.  I truly think there
+
+is an imbalance there...
+
+~
+899366492
+Goblins~
+Snog~
+I was wondering if the goblin race should have some type of increased
+
+resistance to poison as the help goblin file would seem to suggest.  It
+
+states: Their resistance to disease and infection as well ...  Not sure
+
+if that would constitute an increase or not but it would seem that some
+
+sort of bonus would be applicable either to poison resistance or disease
+
+(plague).
+
+- Snog -
+
+~
+899410976
+Libraries~
+Demos~
+Perhaps a help file on the libraries?
+
+~
+899419494
+Summary: Ideas( June )~
+Florian~
+@GThe fact that these ideas are posted by an Imm does not mean that they
+
+are in any way endorsed by the Imm Staff.
+
+@C*Florian@n
+
+
+*Dynamic casting costs for cleric damage spells.
+
+*Disband command to ungroup entire group.
+
+*Report command, echoes prompt to entire room.
+
+*Disguise skill for thieves
+
+*Make opt ignore default 0 upon creation.
+
+*Show idle on who again.
+
+*Spell message gag...
+
+*More NPCs for the various races...too many human NPCs?
+
+*Ranger skill:Herbalism. Boosts pet's hp/move regen.
+
+*Add rank# to ID.
+
+*Dragon-slayer barkeep might pick up rumors about gobbins nearby?
+
+*Clear command, to clear the entire screen.
+
+*Make color codes work in appearances for players.
+
+*Way to steal someone's prompt for their own.
+
+*Make fame progression exponential...too easy to be legendary.
+
+*Spell idea: Rock to mud. Causes feet to stick in now muddy ground.
+
+*Bribe and hail/greet triggers for mobs.
+
+*Be able to set base AC for mobs with humanoid flag.
+
+*Be able to order pet to interact with player name, not keywords.
+
+*Separate typo and bugs board.
+
+*opt no.swim, to turn swimming off, to prevent accidental wandering.
+
+*Add hum social
+
+*Be able to tell difference between day/night, day of month, moon phases.
+
+*Tell items by item_type
+
+
+*Be able to put #spells prepped in prompt by slot number...
+
+*Make color codes work in emotes.
+
+*unity for other races like Shuvana Guard
+
+*Make weapon skills differ by level, so you can't learn all at level 1.
+
+*Show energy prepped in prompt.
+
+*Make desert terrain cost double thirst.
+
+*Make sure sleep spell takes into account resistances of mob.
+
+*Be able to manually add keywords to items.
+
+*mflag Skiddish - second mob flees room when its cohort gets attacked.
+
+*TO command history...
+
+*Identify language person just identified to you in...
+
+*Mobs should only be able to block one exit at a time.
+
+*Have to use correct language when talking to mobs...
+
+*Be able to Que commands not normally queable with a similar symbol like '+'
+
+*Send failure message of rescue to person beign rescued.
+
+*High Quest point list (similar to high list)
+
+*Spell idea: mass calm
+
+*Show arena defeats on info?
+
+*Spell idea: group cure light
+
+*Ability to ignore order of layers because pj parties cause more spam with it.
+
+*allow group incog to be set at levels like regular incog.
+
+*Expand Augury to players, revealing info about them including name.
+
+*Bucklers should go on wrist, not held, as they are strapped on.
+
+*Sort Area command list alphabetically.
+
+*Slow down mob wander time clock thingie.
+
+*Be able to turn gtell off.
+
+*Show total burden/weight carried vs. burden on inventory screen.
+
+*Socials flag, so some socials are seen (like sing) in adjacent rooms.
+
+*Info level message to no longer include level attained?
+
+*Spell: Hold person, prevents fleeing.
+
+*Let glance tell if someone is poisoned/diseased as well as phys cond.
+
+*Form of Pet Intro, so their names can be known too.
+
+*Opt social - turns off/gags socials?
+
+*Swap tell and to?
+
+*opt appearance.brief to see pcs eq but not desc...
+
+*Make Centaurs a playable race.
+
+*Spell to recharge wands: 1 charge per casting, %chance blow up.
+
+*Shouldnt be able to eat/drink in battle
+
+*Nod edible flag against troll empty tummys.
+
+*Spread out armor customs.
+
+~
+899457895
+Quest Skills~
+Lioncrest~
+Could there possibly be skills that you are taught once completing a
+
+quest?  It would encourage more people to do quests, whilst also have
+
+rare skills within the game.
+
+--
+
+*boggle* Cracked bottle problem
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899458170
+customs~
+Draynath~
+It would be nice if when you find some, personable mob who
+
+is a master craftsman, if he would give advice on finding
+
+the ingredients.  I'm told this is already done in one spot,
+
+not sure of others.  Would be nice if you could get clues in
+
+the major cities as well.
+
+--
+
+I agree.  Usually is creator choice, but I love the idea about mob's
+
+actually knowing or partly knowing what exactly they are customizing and
+
+where maybe to find the ingreds...
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899458410
+find familiar~
+Servius~
+Jazz up the 'spell find familiar' command to keep pace with all the other
+
+cool summoning spells (request ally, construct golem, find mount etc) 
+
+--
+
+Yeah yeah, i'll get to it.
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899458951
+Chairs and tables.~
+Belgar~
+Could we have some chairs and tables in the Cardinal pub, room 37053,
+
+please?
+
+
+Thanks, Belgar.
+
+~
+899481540
+arena~
+Stile~
+After being killed in an arena, send the player to somewhere closer to
+
+the arena itself, instead of across the world to their hometown.
+
+~
+899503522
+Scabbards.~
+Creslin~
+For those of us who use swords, i think it would be a grand idea to have
+
+scabbards.  Im not talking about any kind of magical qualities or
+
+whatever, just something that we could put our swords into when not
+
+attacking various creatures.
+
+Scabbards could also serve as signification of certain events.  In some
+
+periods of history, one gave a scabbard as an oath of his life.  This
+
+exchange usually took place between close friends or lovers.
+
+Now that ive had my say, ill shaddup.
+
+@B    Creslin Ironhand
+
+@R** @CWarder of the Light @R**@n
+
+~
+899537836
+Incognito~
+Brenna~
+Perhaps opt incog 1 could allow befriended individuals to see one's level
+
+and such, since 1 and 2 are currently the same thing.
+
+~
+899552945
+acid spray~
+Servius~
+Ok, there are lesser forms of all elemental attacks save for an acidic
+
+one.  Burning hands and chilling touch are both great low level spells,
+
+and if you look at their superiors they are a little spaced apart, with
+
+an acid spell even further up.  Shock also has it's upgraded version
+
+lightning bolt.  Perhaps 'acid spray' could be added as a weak level 6-8
+
+mage offensive spell.  This would provide mages with another decent
+
+attack spell which would be used even up at higher levels just like chill
+
+and burn...
+
+~
+899591787
+Socials...~
+Seltha~
+New social: 'pounce'
+
+pounce
+
+'Seltha looks about ready to pounce.'
+
+pounce *person*
+
+'Seltha pounces upon you with a mischevous twinkle in her eyes.'
+
+
+Modifications to 'kiss':
+
+At the moment it's a lovely social when asleep, but when you're both
+
+awake it's very plain...
+
+Something like 'You kiss *someone* gently on their lips.' would be more
+
+betterer :) 
+
+
+Modifications to 'snuggle':
+
+When someone snuggles you while asleep:
+
+'Someone gently snuggles against you.'
+
+
+Modifications to 'caress'
+
+It would be nice to caress with an object:
+
+'You lovingly caress *someone*'s cheek gently running a rose against it.'
+
+
+----
+
+
+Nope.  A certain fringe element of the mud does not need encouraging.
+
+~
+899593284
+Re: Seltha~
+Thaylinn~
+This certain fringe element of the mud can be used just as easily and
+
+even more graphically with emotes.  Would be nice to have these to keep
+
+them G-rated so people won't go out and emote it themselves with extra
+
+added words that could really offend people.
+
+~
+899593490
+Equip slots inside <>s~
+Taegore~
+The old way EQ was set up was nice, it had the names
+
+like this
+
+
+<Right hand finger>      shuvana wood ring
+
+<Left hand finger>       shuvana wood ring
+
+
+I think you get the idea, just had the < > around
+
+slots
+
+
+Prolly one of the few idea posts that would
+
+take just a few seconds to do.
+
+~
+899593558
+Language Cafe~
+G'Narrl~
+Just an idea to perhaps make RP a bit better?  Anyway, maybe there can be
+
+like a cafe to learn/practice other languages...  One for lights in
+
+Chiiron and one for darks in Voaleth...  This way, ppl can meet to
+
+converse and hone their language skills...  Perhaps this maybe somewhat
+
+anti-RP but it's a lot better than spamming "say" in a room full of ppl
+
+who don't want to hear it...  Just a thought...
+
+.
+
+G'Narrl
+
+~
+899646217
+crack in iguana~
+Phelan~
+this looks like 1 crack to me but it stops you from going a few diffrent
+
+directions also low dex people can spend a lot of time there falling on
+
+the same crack with a 19 int and 16 wis you would think i would be smart
+
+enough to stop triping 
+
+
+@yImagine the crack going from one corner of the corridor to the opposite
+
+corner.  This covers the whole walkway no matter which direction you go. 
+
+Anyway, if you have trouble getting across the crack, someone could
+
+always summon you to the other side....  or you could just go around it. 
+
+--Fenlyn@n 
+
+~
+899646249
+Foreswear~
+Grimsza~
+This (should someone choose to implement it) would be a command similiar
+
+to intro.  Actually more similar to befriend I guess.  Currently we have
+
+on who list befriended, known and unknown.  This would require creating a
+
+new category, foresworn.  People who are known but you have no intention
+
+of ever associating with could be foresworn, moving them to the end of
+
+the who list, after all the unknowns.
+
+~
+899670672
+"Wanted notes"~
+Snog~
+us as players progress, gain things from others easier etc.  My
+
+suggestions here is set it up somewhat like mails are and also what the
+
+auction board use to be.  After all, who is paying for this note board? 
+
+Where people repost notes over and over, playing with colors, getting
+
+their note at the top of the list so people see it etc.  Perhaps a small
+
+fee should go into each post or repost of a note that is made for this
+
+board, after all it is in character and someone needs funds to maintain
+
+the note board, correct?  This might also help to reduce some of the
+
+idiotic notes which myself and I'm sure others have seen on the board. 
+
+To conclude, would paying 1sp or 1gp be that expensive if it helps you
+
+make 10pp?
+
+- Snog -
+
+~
+899678732
+Carry pets..~
+Morhion~
+Being able to pick up a pet and carry them.  I mean just how much can a
+
+chicken weigh?  It would help a lot when they cant swim and you could
+
+carry em over water.  I guess youd have to consider a players str and the
+
+mobs weight to do that.  :) 
+
+~
+899684286
+Follow~
+Balthasar~
+Make it so if you type 'follow', it shows who you are following.
+
+~
+899688129
+Social~
+Balthasar~
+Step social
+
+~
+899689709
+layering~
+Grimsza~
+OK, this was a good idea, but IMHOP it's gone a bit too far.  Here's an
+
+example.  I have a bone cameo.  This is not removable.  I died and lost
+
+my neckpurse on my corpse.  My befriended person managed to retrieve it
+
+for me, but now I can't wear it because I would have to remove the cameo
+
+first.
+
+Does this really make sense?  And why is the cameo non-removable anyway?
+
+~
+899747671
+Re: Demok~
+Fingolfin~
+This is the last note I'm gonna post on the subject.  Not that Imms are
+
+gonna accept your idea anyway, but here goes.  Haste would make one
+
+class, monks in particular, far too powerful when compared to other
+
+classes.  My ex-clan leader, Mophus (lev 65 monk then), killed a dark
+
+pikeman in half a round while hasted.  What other class could possibly do
+
+that?  Level 89 warrior couldn't probably do that.  If you don't know
+
+what a dark pikeman is, go see dark citadel.  It's a 200k mob which
+
+average attack is MUTILATE, and has a specials which does *PULVERIZE*. 
+
+My point is, monks with haste would be far too powerful, compared to any
+
+other class.
+
+And that's not the balance the Imms are after.
+
+
+Fingolfin, who gets a bit tired from explaining to newbies.
+
+~
+899759837
+Opt longscan.~
+B'yann~
+Lets those of us with this skill (albeit just me at this stage) turn it
+
+on/off at will.  Would come in handy when running spammy zones where it
+
+isnt really practical.
+
+
+B.
+
+~
+899770075
+remove curse~
+Servius~
+The spell should only remove curses on one item at a time and only target
+
+the most recently worn cursed item.  This would reduce the chances of a
+
+newbie ring being lost.
+
+~
+899777565
+Drunkeness~
+Sedennial~
+I @estill@n think that being intoxicated should impose a penalty on Dex,
+
+Int, and Wisdom, but give a small + to con.
+
+
+Sedennial, @gthe slightly nauseated monk@n
+
+~
+899787145
+Educating the unwashed masses~
+Ganelon~
+Install code so that when players log in they get an abbrieviated note
+
+summary listing how many announcements have been posted since they last
+
+logged in.  Whether this actually increases noteboard readership is
+
+anyone's guess, but hey...
+
+--
+
+Used to be this way and it was lovely and very useful.  For the time
+
+being, just type note summary.
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+---
+
+I use note summary all the time.  Just a thought directed toward those
+
+who have not developed this habit.  (Or, rather, those who need big large
+
+hints that they need to be reading the announcements more often) 
+
+~
+899789368
+Make it easier.~
+Razu~
+This mud makes it too hard on the players.  All the changes
+
+(improvements) make it even harder.  This is just a game - games are
+
+supposed to be fun.  Why should a poor newbie have to kill 30 rabbits to
+
+buy some armor, and kill 30 more to repair it.  Then spend a week saving
+
+up for a decent weapon?  The rewards/cool things are too few and too far
+
+between to make this mud very enjoyable.  Ease up on the players a bit. 
+
+After all you have no mud without them.
+
+--
+
+So killing a rabbit should net you more exp?  Like poor mr.  wabbit is
+
+that hard.  Starting out isn't a cake walk, I'll grant you that.  But if
+
+it were, there would be no point to it.  As far as 'rewards' and 'cool
+
+stuff' being too few and far between, then perhaps you are not looking in
+
+the right places.  One of this mud's features is builder programable
+
+codes, which allows for each area to have as many 'search for secret
+
+stuff', 'move rock for golden treasures', 'push buttons for mystic
+
+secrets' And believe me, there are 100s and hundreds of them.
+
+
+As far as repairs and costs etc, when object codes are fixed and brought
+
+back online, a LIMITED amount of youth potion will be made available
+
+(sorry, no create water castings of it) if you adventure for it.  Until
+
+then, eyes open, chin up, and have patience.  Our goal is balance, not
+
+smearing newbies into the ground.  We always have that in mind, so please
+
+be kind and remember that we do?
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899789484
+clans and armor~
+Julien~
+Was just thinking that it would be a cool addition for clans if you could
+
+have the clan emblem etched into customable armor (at the time of
+
+customing, of course).  It would be a simple matter of using existing
+
+customs, only adding a material to the list, that being 'emblem of
+
+<blah>'..  and the appearance of the said armor would be changed to
+
+something like 'steal breastplate with an emblem of <blah> etched on it'
+
+But the exact wording doesn't really matter..  It would just add a bit of
+
+style to the wardrobe..  sorta like a coat of arms.  Could have armor,
+
+shields, helmets, etc all with the clan emblem.  The only possible snag
+
+in this idea would be the description of the armor.  But I'm sure that a
+
+system could be worked out.  And even if it couldn't, I'm sure that
+
+people would still love to have it at least change the appearance. 
+
+Whelp, that's pretty much all I have for now.
+
+
+-Julien
+
+~
+899790181
+zombies~
+Derjek~
+its illegal to abandon one, then just leave it lying around to kill
+
+newbies, but can we abando them inside a PK zone safely?  I meanm, its
+
+like setting a booby trap?
+
+~
+899816287
+junk command~
+Slarskis~
+to be able to junk something but have everything fall off of what is
+
+junked, like junking a corpse, but haveing the items fall off.
+
+~
+899831523
+Spit?~
+Fingolfin~
+Bring spit back please.  I need to spit on some people.
+
+
+@yGC removed that even though most of us had access to do so.  I think he
+
+once said that spitting brings out the immaturity in the munchkins.  The
+
+rest of what he said was just all hyphens and lowercase letters.  *poke
+
+GC* --Fenlyn@n 
+
+~
+899831839
+Ear Rings~
+Ory~
+Every other part of the body has a piece of armor to it.  Maybe Ear Rings
+
+should do something cool too, like +hp regen or whatever.
+
+-@ROry Tera'Tarlen@n
+
+~
+899834996
+saddlebags~
+Devilen~
+The command put object on horse, doesn't work yet.  Wondered if it's ever
+
+going to be fixed.
+
+@WDevilen @bthe Lone Ranger@n
+
+~
+899839844
+Trophies.~
+Jaime~
+When you pkil someone and loot the corpse, you should be able to skin the
+
+player corpse, creating a trophy of <player name>.lot easier than
+
+dragging some 350lbs troll carcass to pennan...
+
+
+Try to discourage gloating.  I can't see a point of this other than to
+
+gloat ...
+
+~
+899841601
+Autoscan~
+Cylaria~
+as there seems to be a free slot in the autoscan options how about this:
+
+Zero : No scan
+
+One : Autoscan all except group members
+
+Two: Autoscan except in cities
+
+Three: Full
+
+
+Cylaria, sick of group spam
+
+
+I don't understand this note.  Autoscan does not show people in same room. 
+
+Group members tend to be in same room.
+
+
+-Greyclaw
+
+~
+899841778
+Parchment~
+Skarn~
+It would be cool if we had some paper we can write various things on,
+
+like anonymous notes, etc.  You could just use the editor to write the
+
+notes, nothing really hard to code (I hope).
+
+
+@GAmendment:
+
+
+We write the notes in the language we speak - it wouldn't make sense for a
+
+Vyan to write a letter in humanic if he has never learned the language. 
+
+Depending on the profecientcy you have in the language that the parchment
+
+has been written in, the parchment may make a lot of sense, a bit of
+
+sense, or no sense of all - it all depends on how well you know the
+
+language.
+
+~
+899850421
+message damage.pets~
+Servius~
+I like to know how much damage my pet is doing, but not how much other
+
+players are doing.  This would be great because normally you would have
+
+to turn off mess damage.mobs while grouped and turn it back on when
+
+soloing etc.  Also, in groups it would be great to see pet damage but not
+
+player damage...  This could be useful in the oposite way.  When
+
+rangers/mages want to see their group mates damage but not that of their
+
+pets/familiars.
+
+~
+899858591
+Stablehand~
+Alana~
+Could it be possible for the Stablehand in Medienne to know about the
+
+other mounts he sells?  I mean, I'd like to know if Mules carry more than
+
+a pony.  Or even something about mules and ponies.  But he only knows
+
+about some special magical mount stallion...  seems odd.
+
+Alana who now has her mule....
+
+~
+899860511
+Blue-white Scimitar~
+Edgar~
+Blue bold color for the special, :)
+
+~
+899868887
+Damage tables~
+Snog~
+I've been looking at the damage tables and I was wondering if it'd be
+
+possible to put a little consistency into it.
+
+For example:
+
+* VAPORIZES * has only one star and does up to 200 hp of damage.
+
+For physical damage up to 200, you have: ** DEMOLISHES ** 
+
+
+I guess my point is that the caps and stars added to the damage words
+
+aren't consistant.  Suggestion being, have damage 1-50 for any type of
+
+damage be regular letters, no caps.  For damages ranging from 51-100hp,
+
+caps would be added.  Damages of 101-200hp would have a single "*"
+
+(giving a basic damage of 100+hp Like-wise, for 201-300hp of damage, two
+
+stars ( ** ) would be added and for 301+ damage, there would be 3 stars -
+
+"***"
+
+I hope this makes some sense and that it is considered as it would make
+
+the magic casters look better compared to the monks with the damage being
+
+done.
+
+- Snog -
+
+Talked with a few people, 10 or so, they all agreed it made sense except
+
+Griffin who didn't come up with the idea so didn't like it.
+
+~
+899875997
+Damage tables cont.~
+Snog~
+Change the current physical damage table to the following.  Here 1-50 is
+
+not in caps, 50-100 is in caps, 100-200 has one "*", 200-300 has "**" and
+
+300+ has "***".
+
+
+scratches...................0-1hp
+
+grazes......................2-3hp
+
+hits........................4-5hp
+
+injures.....................6-9hp
+
+wounds......................10-15hp
+
+mauls.......................16-21hp
+
+decimates...................22-28hp
+
+devastates..................29-38hp
+
+maims.......................39-49hp
+
+SAVAGES.....................50-62hp
+
+CRIPPLES....................63-75hp
+
+MUTILATES...................76-88hp
+
+DISEMBOWELS.................89-99hp
+
+* DISMEMBERS *..............100-120hp
+
+* EVISCERATES *.............121-145hp
+
+* MASSACRES *...............146-169hp
+
+* PULVERIZES *..............171-199hp
+
+** DEMOLISHES **............200-240hp
+
+** EXTRIPATES **............241-269hp
+
+** OBLITERATES **...........270-299hp
+
+*** ERADICATES ***..........300-349hp
+
+*** ANNIHILATES ***.........350hp+
+
+
+I hope this is decent enough, I only spent about a half hour on it but I
+
+wanted to give an example as to what I meant with the other damage tables
+
+note I posted.  These damages are somewhat uniform with the caps, *'s etc
+
+and if the cold/fire/acid/electric tables are made the same it would help
+
+show a mage's damage comparible to a monks and so forth.
+
+- Snog -
+
+As for cold damage...
+
+
+cools.......................0-7hp
+
+chills......................8-16hp
+
+numbs.......................17-30hp
+
+blisters....................31-49hp
+
+FROSTS......................50-74hp
+
+FREEZES.....................75-99hp
+
+* STIFFENS *................100-124hp
+
+* HARDENS *.................125-159hp
+
+* ICES *....................160-199hp
+
+** SOLIDIFIES **............200-249hp
+
+** PETRIFIES **.............250-299hp
+
+*** CRYSTALLIZES ***........300hp+
+
+
+Will add more when I get around to it.
+
+~
+899876000
+Web shield~
+Balthasar~
+High level spell that has a chance of webbing anything that tries to hit
+
+you. Good ranger spell.
+
+~
+899876988
+death traps~
+Xemas~
+in the mud policies it states this...
+
+Death Traps - Death traps ruin the fun of exploring and make life
+
+very frustrating.  There should be no death traps in any area.
+
+hmmmmm, can you say grems dock?
+
+~
+899877811
+Medienne Florist~
+Servius~
+There should be a florist added in Medienne.  The store could sell
+
+various types and arrangements and also have bright red roses for those
+
+clerics practicing their disease curing abilities.
+
+~
+899880526
+Wake up call...~
+Seltha~
+Ok, we can wake/wake someone, but I think we should be able to wake with
+
+socials too...  I mean if you're being jumped up and down on, or taken
+
+advantage of, you're gonna be awoken and wanna see who your tormentor is.... 
+
+so having a wake flag on socials for ones that can wake a person would be
+
+cool...
+
+
+For example: "slap"
+
+Sleeping person view: "A sharp feeling of pain on your left cheek awakes
+
+you, shaking the sleep from your eyes you find Seltha glaring down at
+
+you." 
+
+Initiating point of view: "Glaring at Bob, you slap him hard, awaking him
+
+from his slumber." 
+
+
+Socials I feel should wake you: bonk, bounce, brag, caress(?) cheer,
+
+clasp, comb, comfort, cough, cry, curse, dance(?), drool(?), faint,
+
+flail(?), flip, french, gloat, greet, growl, hkiss(?), hug(?), jump,
+
+kiss(?), lick, massage, noogie, nudge, pat, pinch, poke, prod roar,
+
+ruler, scold, scratch, scream, shake(hand), shriek, sing, slap, snap,
+
+snarl, sneeze, spank, swear, tackle, tantrum, taunt, thank(?), thump,
+
+tickle, twiddle, all forms of whap, whine(?), yodel.
+
+I am prepared to write all these wake up socials, if you will provide the
+
+code for which to do it :) 
+
+
+Also, someone yelling in the same room that you are sleeping should wake you.
+
+-- Seltha Larren, full of bright ideas that prolly will never get coded :)
+
+~
+899894628
+ice shield~
+Razu~
+With all the high levelers wiped the frost giant witchdoctor had a lot of
+
+spare time to live and think, then invented a cool new spell!  Ice Shield
+
+like fireshield but does ice damage :) 
+
+~
+899930408
+Iflag Announcements~
+Balthasar~
+Make it required to see everything posted on announcements board.
+
+~
+899935605
+iflag~
+Jerryl~
+Although it's not a big deal at the moment..  Would be nice if when you
+
+set iflags it checks the noteboard levels before the general info levels
+
+so we can use iflag clan # for the noteboard setting and iflag clans #
+
+for the general info.
+
+
+Jerryl
+
+~
+899935755
+corpses~
+Servius~
+if a corpse is empty it should have empty in its keywords...  it would
+
+make looting triggers better so you could 'get empty.corpse' and 'junk
+
+empty.corpse' after battle so we dont target corpses instead of mobs
+
+afterwards and so we dont junk precious items.
+
+~
+899936275
+cure 4 disarm~
+Gock~
+instead of having broken disarm for warriors at level 15 make a new skill
+
+named counter attack where warriors have a small chance of reversing
+
+their opponents attack onto themself cause the mob to be stabbed by their
+
+own sword/dagger ect..  it's just and idea but warriors are one of the
+
+most boring classes to play due to the large gaps in getting new things.
+
+~
+899950583
+animate dead~
+Slarskis~
+to have it so that it takes a leach to keep an animated animal alive, and
+
+if the leach is removed, the grue eats it right away, after duration...
+
+~
+899953805
+hello~
+Zephyr~
+I was wondering why a mage at higher level could not leech the energies
+
+from ther famliars ei hp or mana whilst in battle, since it is one of the
+
+greatest reasons for a mage to gain a familiar, jsut a thought 
+
+--
+
+Actually, mages classically have familiars for two reasons, neither of
+
+which is to steal their personal energies for their own.  The first
+
+reason is to have the familiar be their eyes and ears, watching out for
+
+the wizard with their (sometimes) enhanced senses.  Secondly, mages more
+
+oft than not spend the bulk of their time alone, researching new spells,
+
+making magic items, etc, and familiars are oft their only friends and
+
+companions during these lonely times - of course, anyone else would
+
+disturb their studies.  While in times of _great_ need, a familiar might
+
+allow its energies to be used by its master or a mage might impose on its
+
+companion for help, in most cases, doing so would threaten the familiars
+
+life.  And regardless how easy familiars are to get in the game (ie one
+
+per level), putting them at such risk is not something a mage would do.
+
+
+Sure, it might be cool that familiars substitute as free, instant chia
+
+pets that can do battle with you, but their main functions are to be
+
+scouts and companions.  With switch currently broken, the former is not
+
+possible, so I'm afraid everyone will have to be content with the latter.
+
+For the time being at least.
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899964817
+For the rangers and clerics...~
+B'yann~
+And the imms sick of hearing us whine after reboots about stck pets.. 
+
+fix follow, or make some way we can order our pets to enter the portal
+
+for somewhere ;) 
+
+
+*beg*
+
+
+B.
+
+--
+
+I'm all for fixing the is_follower/ loop( followers ) checks, for not
+
+only would it fix the portals, but it would also fix all sorts of 'enter
+
+hole' codes, 'climb rock' and would reopen med graveyard/crypt.  But
+
+there is only one of Gc and he is working hard, so bear with us.
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899964993
+Resist spells!~
+B'yann~
+Make them cost less pracs for rangers than clerics *sniffle* We generally
+
+arent as wise as they are by half, and yet the spells are just as costly... 
+
+they shold be easier to learn if anything, for rangers are tre masters of
+
+the wilderness and the elements...  I mean, we're rugged outdoorsmen
+
+after all ;) 
+
+
+B.
+
+(The ranger, who funnily enough, doesnt have many pracs)
+
+--
+
+Interesting. I'll mention this the next chance I get.
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899965173
+Spell:Group light~
+Edgar~
+Kinda self explanitory
+
+~
+899985652
+Leeching~
+Taeneth~
+I would love to be able to choose to leech continuously on another person. 
+
+As long as I'm online and they are online, the leech is active until I
+
+cut the leech.  I wouldn't even mind if all leeches were permanent until
+
+I cut them.
+
+
+It would solve the problem of losing leeches on crashes and reboots, too.
+
+~
+900011333
+umm?~
+Keltset~
+how bout when u sleep something it uses the word prone.  for instance
+
+instead of *the towering form of a yeti is sleeping here* use the prone
+
+towering form of a yeti is sleeping here it may seem a bit redundant but
+
+i think it may make a bit more sense or not....?  Keltset 
+
+~
+900044833
+rogue dwarf problem~
+Alec~
+In the room called pet cages you can't really look at anything.  There
+
+are supposedly pets, and cages and gates, but you cant look at anything. 
+
+This zone could use some cleaning up if an imm needs sumthin to do.
+
+--
+
+Actually, this is one of the MANY zones that is in need of being redone. 
+
+We can only do so much at once without stepping on each others toes. 
+
+Compared to getting trainers in, reviewing areas, and our own pursuits,
+
+rewrites have a slightly lower priority but we will get to them.
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+900058799
+Rub social~
+Seltha~
+Should be rub hands, not tummy...
+
+Rub = Seltha rubs her hands together, trying to warm them up.
+
+Rub *person* = Seltha rubs her hands over yours, warming them up.
+
+Rub *self* = Seltha rubs her hands greedily.
+
+Rub *item* = Seltha rubs her hands greedily over a platinum coin.
+
+~
+900068532
+Religions...~
+B'yann~
+How about when the religions system is fully implemented, give players a
+
+chance to change their alignments, so we can select the gods most
+
+appropriate to our characters/style of roleplaying.
+
+
+B.
+
+(Who atm can't find a religion he likes that would let him join.)
+
+~
+900112446
+The Dwarven god~
+Egan~
+Topic:Thryis
+
+Name: Thyris StoneBlade
+
+Alignment: Lawful-Good
+
+Symbol: A ancient axe infront of a stone mountain
+
+Worshipers: Dwarves of Lawful-Good Alignment
+
+Appearance: Thryis appearse as a young warrior dressed in armor of Ethrial light and carrying a mystical axe of Purety.
+
+.........................................................
+
+Thryis is the God of Balance and Power, Any dwarf who swares his servises
+
+to thyris must first compleat a quest of worth, only those of Lawful-good
+
+and Dwarven decent may follow thyris.  If the Dwarf is so gifted as to
+
+pass the test of worth he will behonored through out the dwarven comunity
+
+and Thryis will present this dwarf with t"The Axe of Iron Mountain".  The
+
+Axe gives +1 dam against evil beings but must never be used against
+
+innocent lives as the result would be catostrophic.  the disadvantages to
+
+following Thryis are, Poverty as aall the money gos to the poor and
+
+needy, water movment is doubled and the killing of innocent beings would
+
+result in aoutmatic exspulsion.
+
+Axe of Iron mountain: stats are simler to those of the Notched Falachion
+
+To the Gods[IMM] We Lawful-Good Dwarves really need this god there are few of us but we need a god to follow and this is not one persons view it was compiled by all the LG dwarves I could find.
+
+~
+900112721
+Time On TFE~
+Ory~
+Maybe there could be an option that shows the average time you play
+
+online.  I'm sure people would like that...its fun to think about.  Like
+
+every time you log on for over 20 mins, it starts recording.  Then
+
+divides by the number of times you log on, or number of days you play for.
+
+~
+900116746
+Aggro mobs~
+Balthasar~
+If you are more than 40 levels higher than a mob, it realizes that
+
+attacking you is stupid and refrains from doing it.  :P Good for getting
+
+rid of annoying ferrets and harrier hawks and stupid, silly black rabbits. 
+
+:P 
+
+~
+900128556
+Re: Aggro mobs~
+Servius~
+That is a great idea.  Wouldn't have to be 40 levels quite...  That is
+
+the way a number of other muds I've seen work and it makes a lot of sense. 
+
+I doubt a rabbit would attack something that was a lot more powerful than
+
+itself.
+
+~
+900128630
+Generic object term~
+Gyre~
+If I want to drop a single reagent, I can just type 'drop reagent'.  No
+
+matter what the actual name of the reagent is, it'll drop it.  Same with
+
+armor, weapon, and food.  But what if I want to drop one of anything, no
+
+matter what it is.  For example, I have a bag full of stuff I want to
+
+sacrifice.  At the moment, there is no easy way for me to get and drop
+
+those items, because they are not of a single 'type'.  And I don't want
+
+to 'get all' because that would just be a helluva lotta spam, and you
+
+can't sacrifice all anyway.  Would it be possible to add another
+
+pseudo-object type named 'item'.  So if I typed 'get item' it would get
+
+one of something...  anything.  Such as 'get item from bag', or 'get item
+
+from corpse'.  It is just meant to be an alternative to 'all', for the
+
+few situations where all doesn't work, in particular 'sacrifice'. 
+
+'sacrifice item' would be somewhat easier to use.
+
+~
+900168701
+Custom Weapon Names...~
+G'Narrl~
+Hello there...  Just a little Idea I had while mudding...  How about if
+
+you can name customed weapons just like you can name your pets?  I think
+
+it might add to the RP element somewhat if your notched falchion is
+
+different from all the others that are floating around. Just a thought.
+
+.
+
+G'Narrl
+
+~
+900170326
+Silly idea.~
+Fenlyn~
+Why not add a field to materials table setting durability values for
+
+steel, etc?  Then add field to objects for durability bonus.  Hmmm. 
+
+Guess that would eliminate need for durability field on the object itself
+
+(aside from the bonus).
+
+--Fenlyn@n
+
+~
+900194283
+Weight and Height~
+Axis~
+I think we should determine our own weight and height whilst writing our
+
+descriptions, so that our weight and height fit what we say about ourselves
+
+in our description and appearance. Later on, our weight and height can affect
+
+what items we can wear/wield - like the Belt of a Fat Man. :) Below is
+
+a bit of a demonstration....
+
+
+appearance A short, budgy human male with gray hair
+
+
+@BYour appearance has now been set.
+
+
+@nweight 500 @G(In Pounds)@n
+
+
+@BI'm afraid that is far too heavy. Characters of your race normally weigh
+
+between 100 and 350 pounds.@n
+
+
+weight 300 @G(As my character is very fat)@n
+
+
+@BYour weight has now been set to 300 pounds.@n
+
+
+@n- @YAxis.
+
+~
+900196743
+New skill idea~
+Kierthos~
+Balance
+
+Thieves, monks, rangers, warriors, and paladins can learn it.  Thieves
+
+learn it first and easiest, and so on down the line.  What this skill
+
+would do is prevent you from being bashed or sweep-kicked by checking vs. 
+
+your dex.
+
+
+(This comes in response to having spent most of the last fight on my butt)
+
+~
+900201071
+Request~
+Adakar~
+Perhaps add a function to the request command to allow a player to
+
+request audience with a particular immortal rather then just a request to
+
+be heard by any immortal.
+
+~
+900221611
+Bank accounts.~
+Khila Tgar~
+Now, I know I'll probably get hassled a lot for this idea anI'm certainly
+
+not saying that it isn't with out a great deal of problems but....
+
+Would it be possible to implement joint bank accounts for married couples.
+
+I know there would be problems with they got divorced or whatever but you
+
+know...it's an idea.
+
+Oh and no I haven't consulted my better half on this idea. :P
+
+Khila Tgar
+
+~
+900237799
+Chant~
+Gaines~
+Make it possible to change the color of the chant channel, so that it
+
+isn't simply the default text color.
+
+~
+900263880
+Pet Damage~
+Ashke~
+Think this might have been suggested but it doesn't hurt to say it again. 
+
+Would be kewl to have an 'opt pet.damage', to see what your pet
+
+gives/takes..  Yes I know you can see them with player/mob damage
+
+messages but who really wants to turn that on when they get in a group to
+
+avoid major spam?  :p 
+
+
+@CAshke@n
+
+~
+900272148
+charge~
+Servius~
+Charge (or ram) would be a higher level warrior skill that works similar
+
+to bash only is 500% more effective.  With bash's current state, nobody
+
+in their right mind would spend pracs on it.  Bash only works one in
+
+every ten times on even the simplest of creatures.  Charge would have
+
+bash as a preq and would work a lot better even on larger mobs.  If a
+
+warrior slammed into a cow (unbashable by many races) it would be sure to
+
+fall over, as would many other large creatures.
+
+~
+900292112
+not~
+Grimsza~
+Would be really handy if we had a not operator.  For instance get all
+
+!sword bag to get everything out of the bag except the swords...
+
+--
+
+Oooh, would be nice if it didnt abuse the CPU too much.  I'd hate for
+
+Object to invade us with wabbits in retalliation.
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+900310568
+SLeeping Socials~
+Ory~
+I *think that you guys should make a list ofall the socials you can do
+
+while sleeping...seperate from the normalsocials 
+
+--
+
+Idea:Social Switches ?
+
+social -s (returns socials you can do even in sleep)
+
+social -m (returns socials you can do even in meditation)
+
+social -r (returns socials you can do even in rest)
+
+social -f (returns socials you can do only when standing on your feet.)
+
+social -a (returns socials which are aggressive (if/when this works (again?) .)
+
+social -r (returns socials which reveal you when hiding.)
+
+social -d (returns socials which disrupt casting.)
+
+@G(Capitals of any of these might provide the socials which cant be done
+
+in this circumstances, etc) 
+
+etc. @C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n ?
+
+~
+900310805
+Hunger and Thirst and their affects..~
+Seltha~
+Aside from stopping your move regen and stuff, they don't have any bad
+
+affects, my thought was that as you get hungrier and thirstier you become
+
+weaker and less able to perform so when You are hungry.  and/or You are
+
+thirsty.  then you lose 1 con and str And so on down to You are startving
+
+to death!  and/or You are dying of thirst!  Where you should be down by
+
+about 5 str and 5 con After eating it should wear off like lingering
+
+touch of death...
+
+~
+900326628
+Languages.~
+Belgar~
+I think the present language system makes roleplaying excessively hard.
+
+
+Yes, it's realistic, maybe.  But stopping 1st level characters who live
+
+in chiiron from talking to each other in character means they start using
+
+tell to communicate.  If you want to be an elf, and talk to a human, you
+
+need to spend 12 pracs getting human to 7, and even then you get garbled
+
+communication.  Where's the incentive to talk in character, and not just
+
+use tell for everything?  When you consider that six races start in
+
+chiiron, learning enough languages to talk to them is basically
+
+impossible at low levels.  It worries me that at 1st level, you're taught
+
+to basically learn humanic to 1, introduce to people, then use tell. 
+
+After all, it screws your development over to learn languages.  The few
+
+people who arrive, decide to learn languages, and try to talk to other
+
+people get told to use tell, because it's so much more convenient.
+
+
+Conclusions:
+
+* trying to communicate in character is a major disadvantage, especially
+
+at low levels.
+
+
+Possible solutions:
+
+* a common tongue, which newbies start off with level 10 in.  give them
+
+their native language as well.
+
+* make languages irrelevant to say.  instead, make shopkeepers know
+
+languages, and affect shop prices by how well you speak their tongue, so
+
+elves get keen prices in vaasa.
+
+~
+900329386
+Order pet to *something* me~
+Seltha~
+Eg order dog to lick me...
+
+~
+900339525
+chapel for Pennan~
+Gaines~
+Give the godless people of Pennan a church or chapel or something to that
+
+affect.
+
+~
+900347150
+Trance~
+Fingolfin~
+Make a special message for trance.  Different from meditate one anyway. 
+
+It's a different skill.  Something like: 
+
+Fingolfin kneels down, closes his eyes, and goes into a trance.
+
+Or something like that, you Imms are better at writing that stuff than
+
+me, but you get the idea.
+
+
+Fingolfin the ash spirit
+
+~
+900347187
+sheep shears~
+Kwee~
+could you have the Sutler in Pennan sell sheep shears?
+
+You'd think with a whole community clothed in wool,
+
+their sheep would be a little easier to get wool off of.
+
+(0 for around 30 sheep so far)
+
+
+Kwee, who'd rather just cut the wool off then decimate the sheep population
+
+~
+900348004
+Re: Belgar - another solution~
+Grimsza~
+A much better solution would be to have races start in their own towns,
+
+as seems to have always been the unfulfilled intention.  Why is this not
+
+done now?  Because most of the towns need some building done before it
+
+would be fair to non-humans.  And yes, I know the current builders have
+
+plenty to do already.
+
+Still, I gotta ask, why are we getting new areas built when the old ones
+
+still need to be completed?
+
+And, I gotta point out, most of the work required is very straightforward
+
+stock building, and there are no shortage of builders lined up at the
+
+door asking for work.
+
+Finally, partial implementation of this would be a lot better than no
+
+implementation.  Vaasa, Brithbaraad, and Sos-Kul in particular are nearly
+
+ready for this now, starting Elves Orcs and Lizards off in their own
+
+towns would be a great start, the other races could continue to start in
+
+V-Town and Chiiron until their homes are ready.  It would still be a big
+
+step in the right direction.
+
+~
+900349624
+Atalk/Auction~
+Volkaran~
+Make atalk 1 gossip, it's ridiculous to spend 10 gossips per atalk when
+
+you're trying to sell something.  At least until the real auction comes
+
+back.
+
+~
+900352160
+Armor class.~
+Donovan~
+I'd like to see a way for people like myself to be able to know what
+
+their current armor class is.  (If there is a way, I'd appreciate
+
+knowing.) -Donovan.
+
+
+@yAC works differently here than on other muds.  So, if you were told
+
+what your AC is, it may not exactly be accurate to the part of the body
+
+where mobs like to hit you.  --Fenlyn@n 
+
+~
+900364185
+Bundle command idea~
+Paii~
+Bundle
+
+I suggest a command to bundle all like skins, for means of easy
+
+transportation and space-saving.
+
+What do you guys think?
+
+~
+900372181
+Rabbit Warrens~
+Kastle~
+When the scruffy dwarf is attacked he should call or whilste to the rabbits
+
+int he warren and have them cume cto his call
+
+might keep people from forece marching in and killing him and leaving
+
+or make rabbits auto blaock, so it cant be dont e that way
+
+~
+900402739
+OOC Commands~
+Axis~
+Make all OOC Commands (OOC, tell, who, etc.) have a + before them, so we
+
+can easily distinguish OOC and IC commands.
+
+
+- @YAxis.
+
+~
+900413971
+Vaasa City.~
+Donovan~
+(I'm not trying to be picky, nor demanding immediate action.  Having said
+
+that, I shall continue.  *smile*) 
+
+
+I would very much like to see the amount of eq in the city expand.  I was
+
+looking over the list of items at the weapon shop, for example, and found
+
+thier best weapon to be a bronze longsword.  Like I said, I'm not
+
+demanding immediate action, or any action at all, really.  Just would
+
+like to see our shops have a wider selection so I don't have to buy the
+
+slightly inferior human goods.
+
+
+-Donovan Al'Tan, Follower of Algesa, Drinker of Fine Scotch.
+
+~
+900439333
+goodbyes~
+Alec~
+Getting to where we might need a goobbye board.
+
+and a corresponding hey, just kidding, i'm back board.
+
+Obviously kidding, but geeze:)
+
+~
+900439367
+ulannu jay feather vs crown of s'aark~
+Servius~
+These two items give the identical statistics to my knowledge except one
+
+is about 100x harder to get.  Perhaps their statistics should be
+
+reconsidered.
+
+
+@yThere is a difference.  Perhaps con a mage into telling you the
+
+difference.  --Fenlyn@n 
+
+~
+900455631
+armor~
+Antoine~
+a lizardman asked how a cloak was when i logged into tfe today
+
+he was getting flmamed about not using an ic channel, and about how you arent' suppoised to get stats on anything over pub channels.
+
+there should be a list of to look at in shop that tells you how an item compares with another, BEFORE you buy the item.
+
+at least than it would save inocent newbies from being flamed because they dont' want to waste all of their money on an acessorie they don't know will work or not.
+
+Perhaps give the shopkeepers in the armor shops, and weapons shops soeme extra dialog, where you can ask them about cloaks, shields, leggings, torso armor, etc, etc, on then you receive a list,
+
+of all of each location's armor, and each type of weapon, in order from the best, to the leasest.
+
+P.S. i hope this note  wasn't too difficult to read, cuase i'm using telnet and don't have the ability to backspace.
+
+poste
+
+
+@yTry help compare.  Also, format your note so people can read it.  ;)  --Fenlyn@n
+
+~
+900455758
+Request~
+Gyre~
+Perhaps you should make an Imm/Ava command called 'answer'.  They type
+
+'answer player' and it automatically marks the request as filled.  If
+
+there are multiple requests, perhaps 'answer player for reason where
+
+reason is tested against the text in the requests that player has made.
+
+For example:
+
+request ava I need approval, thx
+
+request imm I'm stuck in jail because of a bug.
+
+Grayclaw types:
+
+answer Gyre
+
+Error message: Ambiguous, please specify the request you are answering.
+
+answer Gyre for jail
+
+Avatar types:
+
+answer Gyre
+
+Since the avatar only sees Avatar requests (I assume), it is unambiguous
+
+to them.  In any event, since Grayclaw answered the previous request, it
+
+was automatically removed from their request list anyway.
+
+~
+900459076
+Race-dedicated notboards~
+Malayne~
+I'm sure someone has suggested this, but I'm not sure so here it is:
+
+It would be really nice to have notboards for each race.  Would (maybe)
+
+encourage some unity and rp?
+
+~
+900477886
+Lynx.~
+B'yann~
+Whoever set up the ratio to how often they growl should walk from med to
+
+chiiron with 4 of them following.  Sometimes by moving one room I'm
+
+getting 20 growls, I think this is a bit much ;) 
+
+
+B, ranger without earplugs.
+
+~
+900483842
+Request cancel #~
+Florian~
+Request cancel # should let Imms cancel the request they have dealt with
+
+since players cant ever remember to :/ 
+
+PLease :)
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+900486531
+Swimming to sea sprites~
+Snog~
+Just a thought when swimming to this zone, maybe it should cost more mv
+
+to swim downward underwater and less mv to swim back towards the surface.
+
+Reason is pretty obvious.
+
+- Snog -
+
+~
+900531058
+room: Top of the Pit~
+Snog~
+This room is near the rogue dwarves and dragon.  There is a rope in the
+
+room desc and I'm wondering if another desc of the rope should/could be
+
+added to give hints as to the things that may be done with the rope.
+
+- Snog -
+
+This is also known as room: 2521
+
+~
+900574397
+Look (item)~
+Snog~
+Just a thought, but I know identify shows this but I was wondering if
+
+when you look at an item that it could show you what the item is made out
+
+of.
+
+- Snog -
+
+~
+900575162
+Denounce.~
+B'yann~
+The ability to denonce your religion..  lets say you wanted to leave your
+
+current deity but refrain from choosing a new one.  That way people who
+
+become frustrated with their gods can temporarily be completely without
+
+one, at least till they next sacrifice and choose a new god..  having no
+
+god could give penalties (lack of spells for clerics/paladins etc) not to
+
+mention the inability to pray..  would mostly be an rp thing.
+
+
+B.
+
+(Who thinks seeing Religion: None.  would be cool after his goddess
+
+refuses to grant his prayers one time too many.) 
+
+~
+900626502
+bounty~
+Slarskis~
+one would think, that if you sold body parts of a race to a bounty
+
+office, your reputation might reflect it towards that race even if the
+
+mob you killed isn't affiliated?
+
+~
+900650707
+Rabbit warren~
+Volkaran~
+Im just curious how these rabbits have such crazy resistance levels for
+
+small furry fleshy creatures.  They have huge electric and cold resist,
+
+fire is ok i think, but how is a rabbit so well resisted? :)
+
+
+@CVolkaran
+
+~
+900683991
+Filter-info~
+Fingolfin~
+Make it that if you filter someone, you don't see his name on info. 
+
+Whether he dies, posts a note, or raises or looses a level.  If I filter
+
+someone, I don't wanna know he's there.
+
+
+Fingolfin the ash spirit [IMMS]
+
+~
+900696162
+tank's gtells~
+Korc~
+I think tank's gtells should be able to be set to a different color than
+
+the rest..  it will make things much easier on the tank in a big group.
+
+~
+900719817
+Safe abandon~
+Sythberel~
+How about a safe.abandon option that won't let you abandon purchased
+
+pets like horses.  And no, I didn't learn this the hard way. :)
+
+~
+900719996
+Reputation.~
+B'yann~
+I've noticed its a lot easier for dark races to gain nation grievances
+
+than ligh races, mostly due to the elven village and gnomish picnic..  I
+
+haven't noticed many mobs with dark grievances, so heres some of my
+
+suggestions for mobs that could give nation grievances.
+
+
+Small goblins near kha-da
+
+Goblins in the Eerie caverns
+
+Pennan mercs
+
+Orc Raiders
+
+The wraithlords/sentinel/prince in vyans (If Harand-da is clanned, why not?)
+
+Voaleth palace mobs (if they arent already clanned)
+
+
+A few light mobs I've noticed who shold have grievances too.
+
+The duellist (He's an elf-type of great renown and skill)
+
+
+If people mudmail/tell me mobs/areas they think should be on the list,
+
+I'll be happy to add them.
+
+
+B.
+
+~
+900806975
+Ranger reagents..~
+B'yann~
+On behalf of all us rangers out there, with out wanted board posts and
+
+frequent atalk requests, those of us who dont endlessly want to live in
+
+lynx collecting sage.  ...  PLEASE make herbs and sage have more than one
+
+use per cast of balm/surcease..  5 would be a nice number.
+
+
+B.
+
+(CEO of Frustrated Rangers INC.)
+
+~
+900823711
+Social~
+Thaylinn~
+New social: Group hug
+
+Aww c'mon, please! :)
+
+@CThaylinn Valzayre@n, happy group hugger.
+
+~
+900830870
+vyans in vaasa~
+Slarskis~
+thinks portal shouldn't allow vyans into vaasa.  as they can use the bugs
+
+in mud, to allow them in, back to portal, and out when they shouldn't be
+
+let in to begin with.....
+
+~
+900881699
+Monk abilities - help files~
+Fingolfin~
+How about jazzing up help files describing monks skills?  I mean, help
+
+for locust kick, demon slash, and dragon strike and kinda lame.  I like
+
+shadow dance and bear grasp help files, so how about making all files
+
+similar to them?
+
+
+Fingolfin the ash spirit
+
+~
+900887400
+$~

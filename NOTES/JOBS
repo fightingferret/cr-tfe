@@ -1,0 +1,456 @@
+#NOTES
+
+Mountain Road~
+Kiian~
+The newly-expanded mountain road between Kha-Da and the Great North Road
+
+(see appx.  28026) could use some serious rdesc and dedit help.
+
+~
+835326576
+Terek's Jobs~
+Terek~
+*1) Turning Medienne into a working port.
+
+*2) Finishing my Shadowy Forest.
+
+*3) Doing the Sea of Stars (aka Northern Sea)
+
+*4) All wastes areas i left behind when we wiped.
+
+*5) Turning chiiron beach into a playground with big mean fish.
+
+*6) Expansion to the Southern Lands south of Sos-Kul
+
+~
+894048363
+Talis Stuff~
+Talis~
+@GCurrent@n
+
+
+Working Rue on newbie-ish areas.
+
+Revamping/Improving them prior to our grand reopening.
+
+(no peeking now ;)
+
+
+
+@GProgressing@n (these have been in the hopper for ages)
+
+            (being finished as I can)
+
+
+Vaasa spur - addition to the Vaasa, more like large woods
+
+             adds space for a quest that's being added.
+
+Deep Caverns - underground maze connecting Vaasa to Voaleth
+
+               Under the Dragonspire.  Lotsa space for
+
+               underground areas in there when I'm done.
+
+Tomb of the Elven Lord - High level in Vaasa, needs Vaasa spur.
+
+
+
+@GThings that will never be complete@n but I try anyhow.
+
+
+More undead - to attach to existing mobs.
+
+Clearing bugs board - sort of on the way side until reopening.
+
+
+Shade and sweet water,
+
+Talis
+
+~
+895082337
+*FLAIL*~
+Caer~
+Caer's little listy:
+
+
+
+@mRevisions in Lag Castle and Lag Castle Grounds.  <Big area --
+
+@I suggestions and/or volunteers appreciated and welcomed> 
+
+
+@mDesign, implement and maintain annoyance procedures for players,
+
+@I Immortals, Gods.@n 
+
+~
+895805407
+Mob changes~
+Olah~
+@CNote@n: Mobs done before adj_s/adj_p fields were added must be checked
+
+for correctness.  What was formerly in the prefix_s/prefix_p fields
+
+should now be in the adj_s/adj_p fields.
+
+Mob appearance is: <prefix> <name> <a/an> <adj> <sing/plur> <long>
+
+
+Mobs [1 - 99] @C*Merior@n (done, and has plenty else to do)
+
+Mobs [100-199] @CTalis@n (done, looking for more to do)
+
+Mobs [200 - 399] @C*Olah@n (done)
+
+Mobs [400-999] Phule (done, won't do more as is being called a monkey)
+
+Mobs [1000-1199] @C*Nereus@n (done)
+
+Mobs [1200-1399] @GStarshine@n (done)
+
+Mobs [1400-1599] @C*Nereus@n (done)
+
+Mobs [1600-1699] @C*Florian@n
+
+Mobs [1700-4000] @CCaer@n (@RDONE!@n)
+
+
+Please post the ones you're doing.
+
+
+@RAlso.  If you come to a mob that needs special attention, because it
+
+uses 'the' in its description or you feel that it might be prudent for
+
+someone else to look at it/for the creator themself to handle that one,
+
+mflag the mob with 'rabies.' By doing this, a single mfind -a rabies will
+
+show everyone which mobs need special care or attention.  Also, for mobs
+
+that are not finished and not in the game yet, especially if by a past
+
+creator, probably best to mflag poisoned them.
+
+
+@GSummary - For sorting either questionable mobs or unfinished ones that
+
+need recycled or looked at...
+
+
+@Cmflag questionable mobs needing looked over with mflag rabies.
+
+@Cmflag unfinished mobs with mflag poisoned...
+
+(Necessary so we dont have to keep lists of what mob needs what etc.)
+
+~
+895826893
+draconic things to do ..~
+Khisanth~
+My current zone is pending review, and hopefully should be in soon. :)
+
+
+I am working on making the seer more interesting, and working on a quest. 
+
+I plan to begin work on the temple of light as soon as I fine tune the 3d
+
+layout.
+
+
+@BKhis
+
+~
+896048075
+What I'm doing now~
+Olah~
+@C==@nFinish writing extras to the Shadowy Forest.
+
+@C==@nFix rbugs to Sjerdil's Tower.
+
+@C==@nStart mid-level bestiary area.
+
+
+@C==@nStart writing Vyan City.
+
+@C==@nStart writing Krysanth Outpost.
+
+~
+896201107
+Rue's Agenda~
+Rue~
+REVISING NEWBIE ZONES:
+
+
+@RCompleted:@n
+
+@B
+
+Pennan Orchard
+
+Chiiron Waterfall
+
+Kobolds
+
+Goblin Caves
+
+Wererats- *dance*
+
+Banker's Mansion ( added searches and moved safe )
+
+@n
+
+@RPending Rbugs@n
+
+@B
+
+@n
+
+@RIn Progress:@n
+
+@B
+
+Orlumber
+
+@n
+
+@RIn my Sights:@n
+
+@B
+
+@n
+
+~
+896573679
+Help Wanted: :)~
+Florian~
+Help wanted for refurbishment, finishing of castle lag mines.  Need not
+
+be fast, but hopefully someone can help finish it before September.
+
+If anyone is insane...er...bored and would like to help, just ask me.
+
+@C*Florian@n
+
+~
+897687304
+Olah and Terek's Jobs~
+Terek~
+Finish Smugglers Cave (Priority 1)
+
+Shadybrook (City itself)
+
+Road to Shadybrook
+
+Shadybrook Wilds
+
+Goblin Siege Camp
+
+Shadybrook Cemetary
+
+Ruined Cathedral
+
+Frost giant renovation
+
+Remaining Waste areas
+
+*** A NICE LONG VACATION ***
+
+~
+898299505
+Calliope's Capers~
+Calliope~
+Current jobs:
+
+
+Medienne Forest Review - slowly getting this done.  I can only look at so
+
+many trees a day.  I think I am about halfway through.
+
+
+Castle Lag Mines rewrite - Looking this area over to see what I have to
+
+work with and will start as soon as I have some sort of idea what I want
+
+to do.  Expect progress any day now.;) 
+
+
+Helping with extras for Orlumber - Trying to connect with Rue when I am
+
+not lagged to death to see exactly what he wants done.
+
+
+Calliope
+
+~
+898611591
+New tasks~
+Florian~
+@GCurrent tasks include:@n
+
+*Reorganizing all the trainers.
+
+*Writing quests for many of the new trainers that will be popping up.
+
+
+@GAlso, I'm writing newbie zones that include:@n
+
+*sea sand crab area for under the beach.
+
+*fungal caverns
+
+*stag beetle lair
+
+*rock lizards in sos-kul swamp
+
+
+@GHigher, progressing zones include:@n
+
+*Lost City of Shado
+
+*Great Pyramid
+
+*Abbey of Graye
+
+*Starite Mines Below Pyramid
+
+
+@GRe-writes include:
+
+@n*Castle Lag Interior
+
+*Castle Lag Cemetery/Tombs/Passages
+
+*Castle Lag Mines
+
+*Swamps I (25500-25555)
+
+*Swamps II (30750-30874)
+
+*Swamps III (31000-31173)
+
+*Sos-kul
+
+*Natural Caverns
+
+*Miles Slime Caves
+
+~
+898847102
+AREA REVIEW PROGRESS~
+Starshine~
+=== @cNEW AREAS@n ===
+
+Forgotten Tombs newbie (Florian): done-Merior, Calliope. FR
+
+Narak City (Phule): done-Finius. Rhen
+
+Sjerdil's Tower L30 (Olah): done-Nereus. SS
+
+Wrath Wyrms L20 (Nivel): done-Nereus. Oculus
+
+Dal-Entil Village L20 (Phobos): done-SS, Oculus. BtB
+
+Naraki Catacombs L70 (Phule): Bandolin
+
+
+=== @cREVISED AREAS/ADDITIONS@n ===
+
+Medienne Forest, Western side (Nereus): Calliope
+
+Chiiron Graveyard (Talis/Calliope): done-SS. Rhen
+
+Wererat Temple (Rue): done-Merior, Rhen. BtB
+
+Hobgoblins (Talis): done-Rhen, Calliope
+
+Medienne Sewers (Talis): done-Rhen, Calliope, SS. BtB
+
+
+*BtB - back to builder  *FR - Final Review
+
+~
+899165189
+Hi, I'm bear.~
+Fenlyn~
+Here's what I'm up to...
+
+> slowly dredging through object revisions.
+
+> working with Florian to code trainer quests
+
+> working with Rue to code as needed in Orlumber
+
+> Working at snail's pace on a beaver dam and willing to give it to some
+
+  other imm who actually has a brain.
+
+
+That's all I'm up to.  Working full-time with Internet access, but not
+
+always able to give my full attention to mud given the nature of my work.
+
+
+--Fenlyn
+
+~
+899665944
+Objects~
+Jimbalaya~
+Positions:
+
+Feet - Done
+
+Legs - Jimbalaya
+
+Waist - Done
+
+Body - Done
+
+Arms - Done
+
+Wrist - Done
+
+Hands - Derna/Fenlyn
+
+Finger - Done
+
+Neck - Done
+
+Head - Done
+
+Shields - Done
+
+Holdables - Fenlyn
+
+Weapons   - Done
+
+~
+899776792
+phulishness~
+Phule~
+http://www.cs.purdue.edu/homes/sdb/tfe/
+
+to get to the tutorial:
+
+1) click 'immsonly'
+
+2) login: tfe 
+
+3) password: ifubuildit 
+
+
+tasks:
+
+finishing fire newts - waiting on final approval from merior 
+
+finishing narak - tidying up rbugs, etc 
+
+
+@RP@Yh@Gu@Cl@Me
+
+~
+899777016
+$~

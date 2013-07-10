@@ -1,0 +1,1462 @@
+#NOTES
+
+Welcome - Sorta~
+Merior~
+As you see on the motd, we are in development mode.  In order to prevent
+
+player withdrawal, greyclaw is being kind enough to leave the site open
+
+to players.
+
+
+You are welcome to play in open areas, but we are changing them and may
+
+close them off for development.  Feel free to post bugs, no complaints
+
+please.
+
+
+Equipment, classes, everything is constantly changing for now.  If you
+
+can't deal with it, wait until we are really open.
+
+
+Please note we WILL be back, and WILL stress role playing.
+
+~
+893964553
+Clans~
+Orb~
+All clans have been deleted, all strongholds removed.  You will be forced
+
+to recreate, and reapply, subject to new rules which will be available
+
+when the mud comes back up for real.
+
+~
+893966375
+FYI~
+Merior~
+A temporary help file called pwipe summarizes a few things you may find
+
+of interest.
+
+~
+894024834
+POsting mob bugs.~
+Fenlyn~
+POsting bugs about color codes appearing in mobs description is fruitless. 
+
+We are still trying to get to all the mobs and adjust their appearance
+
+fields.  We've been workign non-stop on this for about 2 weeks, so you
+
+can imagine how hard this must be.  WE will eventually get to them, but
+
+for now, you will have to deal with funny appearance mobs.
+
+
+--Fenlyn
+
+~
+894139822
+Don't forget.~
+Fenlyn~
+Check the bugs board before you post one.  It has most likely been posted
+
+already.
+
+--Fenlyn
+
+~
+894171419
+The Gossip Channel~
+Caer~
+@RAt this time, you are given 1000 gossip points as a courtesy in case
+
+you run into problems during the testing phase of the game.  We ask that
+
+you only use the GOSS channel in situations of emergency.  Your points
+
+will be reduced to the normal allottment if you clutter up the GOSS
+
+channel with babble.  For now you may use OOC to chat.  Please allow us
+
+to leave the GOSS channel on while we work on the game.
+
+
+Oh, and I'm supposed to threaten you with Rue if you don't believe *ME*. 
+
+You have been warned. =)
+
+@n
+
+~
+894552413
+Taking Away Your Fun.~
+Fenlyn~
+Jimbalaya, Orb, Olah, Adakar, and myself have been working night and day
+
+to change all of the mud's objects to conform to some sort of standard.
+
+
+So far, the following positions have been completed:
+
+Feet, Arms, Finger, and Neck.
+
+
+Other positions and unwearable objects are still being worked on.
+
+
+This Public Service Announcement brought to you by Followers of the Bear.
+
+~
+894833317
+Air Immortal~
+Talis~
+Due to heavy traffic and the occasionally misplaced mortal, Air Immortal
+
+has been closed to undergo a maintenance check.  As a courtesy to our
+
+valued customers, we have installed portals (Hail Portal) in Chiiron,
+
+Voaleth, and Medienne.  This is only a temporary situation until such
+
+time as the claudications along the trails are removed and travel is
+
+again possible by more mundande means.  Please refrain from asking for
+
+immortals to transfer you as you are now provided with the means at hand.
+
+
+Shade and sweet water,
+
+Talis
+
+~
+895147607
+Re-opening~
+Merior~
+Expect periodic wizlock prior to the re-opening of the mud to allow
+
+builders to make final adjustments to areas and items.  We are moving
+
+around/modifying most of the old 'killing' areas and are keeping their
+
+contents secret until we are officially ready for business.  Most of
+
+these areas have been closed off for the last few weeks, but will need a
+
+few tweaks with no one wandering about.
+
+~
+895341453
+Avatars and Social Editors~
+Merior~
+Those wishing to be avatars or racial social editors when we re-open are
+
+invited to send samples (description and appearance for avatars, social
+
+or two for editors) to Orb and myself via mud-mail.  Those with previous
+
+experience who wish to continue those roles should also re-apply in the
+
+same manner.
+
+~
+895342013
+Ent revisions~
+Talis~
+What exactly is an ent?  Well, primarily its the big hulking humanoid of
+
+the light races.
+
+
+Most people are familiar with one version of an ent or another, most
+
+commonly they revolve around the concempt of a treant.  However, are ents
+
+aren't quiet treants.  That's right, @GENTS ARE NOTE TREES@n.
+
+
+In an attempt to remedy this, the help files are being revised. 
+
+Primarily, ents should be aware that they are no longer supposed to use
+
+descriptions of trees as their description.  If you attempt to use such a
+
+description after the reopening you will be asked to revise it to fit the
+
+new standards (to be set forth in the upcoming racial help file).  If you
+
+see an ent with a tree description, inform your local imm or avatar and
+
+we will use our special treant-hewing axe to purge you from the game.  I
+
+hear its rather painful.  ;) 
+
+
+To help forstall the arguments I'll tell you up front, this is not just
+
+the whim of a single imm (meaning myself) or a small cadre of friends.  I
+
+already discussed this with Merior and Greyclaw and I am merely following
+
+what is meant to be.  Ents are the bulky light race.  Ents are not trees. 
+
+If you insist on arguing the point, I can point you to the mudlist and
+
+several hundred other muds, one of which I am sure will satisfy you.
+
+
+
+Shade and sweet water,
+
+Talis
+
+
+
+(btw, most of the mileading ent socials have been removed in a further
+
+attmept to decrease the confusion.  More will be added as time permits) 
+
+~
+895533021
+Webpage~
+Greyclaw~
+Tfe has webpage at forestsedge.com.  If you have pieces that can easily
+
+be thrown in then give me an address to copy them from and if looks
+
+reasonable I will copy them.
+
+~
+895542927
+Timeline~
+Greyclaw~
+Will plan to reopen mud on Saturday, May 23rd.  Time will be whenever I
+
+wake up which is typically noon Geneva time or early morning in the
+
+United States.  All bugs won't be fixed but I think even now the mud is
+
+tolerable and not very abusable which is the main criteria.
+
+
+Major Bugs
+
+
+Auction
+
+Hide
+
+Burning Items
+
+Light
+
+Reputations?  (Need table of stats on what you've killed)
+
+Interlock of item saves to stop duplicating on crashes
+
+Bash, Backstab, etc
+
+Two-Handed Weapons
+
+Wielding weapons
+
+~
+895586846
+PK  *evil hiss*~
+Caer~
+All areas were set to no-PKill, but some areas will be relaxed and
+
+returned to Pkill status.  Please mail me areas that are Pkill until
+
+we're sure we've gotten all of them.  Thank you.
+
+~
+895625656
+i might just ...~
+Phule~
+start killing people who don't know how to format notes by now :)
+
+
+@c--
+
+I thought of that once, then I ran some quick numbers and came to the
+
+startling conclusion that we'd end up with an active playerbase of three
+
+people.
+
+
+Oi!
+
+
+--Caer
+
+@n
+
+
+@g- - - - -@n
+
+And I'll bet at least two of those are the alts of imms. :P
+
+@g- - - - -@n
+
+
+@yI find it appalling that you think my mortals would dare leave their notes unformatted.  Whatever would give you such an idea?
+
+--Fenlyn   :P @n
+
+
+@c--------------------@n
+
+Just call me -Note Formatter Extraordinaire-
+
+-<@mStarshine@n>-
+
+
+@g- - - - -@n
+
+At least all the imms know enough to format their notes?  Right?  I mean I'd never leave an unformatted note posted anywhere because I know just how annoying it is when you can't read it.  Especially after all the whining to wade through first.
+
+@g- - - - -
+
+~
+895742449
+Policies (Immortal Policies, help 333)~
+Merior~
+I would like to take this opportunity to bring this file to the attention
+
+of all mortals as well as immortals.  The guidelines in here are to be
+
+followed by all immortals, and to be respected by mortals.  Please pay
+
+particular attention to the subject of reimbursements.
+
+~
+895754017
+all race files updated~
+Talis~
+Recently the ents' race file underwent a change to reflect the fact that
+
+ents are not trees.
+
+
+Many of you may have already noticed that the other files have been
+
+updated as well.  I would ask that everyone planning on coming back after
+
+the pwipe and the grand reopening at least take a look at the race file
+
+for the race you plan on playing when you come back.  I'm pretty sure
+
+that means most of you since you're so addicted you can't even take a
+
+break when you know the work you do now will count for nothing.  ;) 
+
+
+There have not been many drastic changes, though there are additionial
+
+bits that may help in the creation of your apperance and descriptions as
+
+well as the way you interact with others.  While some bits (like elves
+
+not having facial hair and ents not being trees) that are not optional
+
+suggestions, realize that most of these are suggestions or information on
+
+what is considered typical and are not mandatory.  The idea is not to
+
+create a role playing mandate that will be strictly enforced, but to
+
+provide information so you will know what is considered "normal" and can
+
+play your role accordingly as you see fit.  :) 
+
+
+So take the bounty you have been offered and make of it what you will.
+
+
+
+Shade and sweet water,
+
+Talis
+
+~
+895758760
+Reput~
+Greyclaw~
+Mud is now watching you to make sure you are good little rpers.  Type
+
+reput to see what it knows.  For now nothing is being done with the info
+
+but expect those who are naughty to never get pray points in the short
+
+term and in the long term expect guards to attack you.
+
+
+Nation grievances are a count of how many mobs you kill from a nation and
+
+are being recorded now and may not be erased later.
+
+~
+895980198
+Auction~
+Greyclaw~
+Command will return but timing is whenever I feel like it.
+
+Posting as seems to be a frequent question.
+
+~
+895985917
+Calm Abuse~
+Rue~
+Do NOT cast calm while not involved in combat.
+
+Rue
+
+~
+895994213
+To and Tell~
+Greyclaw~
+Have split up ic tell and ooc tell.  To command is in character and tell
+
+is out of character.  Use to for the portal.
+
+
+i.e. TO PORTAL CHIIRON or TO PORTAL VOALETH
+
+or TO <person in same room with you> <blah blah>
+
+~
+896017006
+PK Areas~
+Caer~
+@YQuitting is NO LONGER allowed ( enforced by code ) in PKILL zones.@n
+
+
+Currently, only two areas have been reported as PK, both of which were
+
+known.  If I haven't sent you an "oops, thanks" message, you've found an
+
+area that is intentionally PK.
+
+~
+896017901
+Filter/Ignore~
+Greyclaw~
+Renamed ignore command filter and added ignore levels.
+
+Use opt ignore <level> to set it.
+
+
+0 : Noone
+
+1 : Anyone you haven't introed to.
+
+2 : Anyone not befriended
+
+3 : Everyone
+
+
+Also played with scan
+
+
+0 : No autoscan
+
+1,2 : Scan except in cities
+
+3 : Always autoscan
+
+
+And Autoloot
+
+
+0 : No Autoloot
+
+1 : Display items in corpse
+
+2 : Get gold in corpse
+
+3 : Get all items in corpse
+
+
+For now 2 and 3 are broken and act the same as 0.
+
+~
+896073563
+western plains~
+Phule~
+you've seen the lions, you've seen me wandering around.
+
+don't wander in or you might get eaten.
+
+(in other words, watch your step in familiar places)
+
+~
+896915406
+gremlins~
+Phule~
+be careful where you walk
+
+how much weight stand in one place may break things.
+
+area is now open.
+
+use your brains, no reimbs.
+
+~
+897001663
+Spells facelift.~
+Florian~
+Yeah, I thought I was done before, but I guess not.  Many of the spell
+
+messages are getting a facelift, from A to Z.  For those of you who like
+
+updated, the following spells have been altered somewhat: 
+
+
+*Acid Blast, Acid Storm, Animate Dead, Armor
+
+*Balm, Banishment, Barkskin, Blind, Blinding Light, Blink, Burning Hands.
+
+*Cause Critical, Cause Serious, Chain Lightning, Create Food
+
+@R*@GCure Serious, Cure Critical@n
+
+*Detect evil, Detect good, Detect Hidden, Detect Invis, Detect Magic,
+
+   Drain life.
+
+*Faerie Fire, Fireball, Flamestrike, Freeze
+
+*Group Critical, Harm, Holy Wrath
+
+*Infravision, Invulnerability, Lightning Bolt.
+
+*Maelstrom, Mystic shield
+
+*Neutralize, Ogre Strength
+
+*Protection/evil, Protection/good, protection plants
+
+*Remove Curse, Sense Life, Silence, Slay
+
+*Surcease - no more forced sleep imbibing.
+
+*tame
+
+
+(All for now, but I'm going through all of them this go around.)
+
+@R*As always, mudmail Florian any typos able the spells.@n
+
+~
+897081066
+Bridge Trolls~
+Nereus~
+Bridge trolls throughout the world have become much more adept at
+
+guarding their bridges.
+
+
+(This means no more sneaking or running past them.)
+
+~
+897082611
+Mist-filled Marsh~
+Olah~
+A cataclysm has occurred just south of Pennan opening a new terrain
+
+previously thought long gone.
+
+
+Due to popular demand, a few new creatures have been added.
+
+~
+897247122
+Botting~
+Florian~
+What is botting?  Botting is the use of autoomated scripts that perform
+
+actions for you.  This undermines the human element from the game.  There
+
+are several different types of botting, anything from complex triggers
+
+cor casting spells w/o being at the terminal, to having your character
+
+completely automated, so that she or he can get exp without the player
+
+actually being there.
+
+
+It may not be a new form, in fact I figured someone would try it sooner
+
+or later, but the use of scripts to solve puzzles is also botting,
+
+whether you're in front of the terminal or not.  Using scripts to ask
+
+mobs every word in the dictionary, or partial words, is one of the most
+
+offensive things I've seen in ages.  Not only is it getting around the
+
+system, but its also very disturbing to think that people will resort to
+
+this type of thing.
+
+
+Any and every form of botting is illegal, but the one I just described is
+
+more than just illegal, if anything can be.  In the future, it'll get you
+
+banned.  Period.
+
+I've taken the liberty of rearranging some of the quests that these type
+
+of word completion tricks have been used against.
+
+
+Enjoy.
+
+@C*Florian@n
+
+~
+897250732
+Clerical error...~
+Fenlyn~
+Due to a clerical error, I had mistaken flagged shirts as base layer when
+
+they should have been underlayer.  I regret this mistake and the problem
+
+has been corrected.
+
+
+--Fenlyn
+
+~
+897283342
+elven longswords~
+Talis~
+The elven longswords collected from Thalor's corpse were only obtainable
+
+through a bug.  There is a message given at the end of the fight that he
+
+shatters it against a tree, thus there should not be one on his corpse.
+
+
+If you have one of these you need to junk it as it does not belong in
+
+game.  If you are one of the 3 people who did the quest and your sword
+
+suddenly does something very peculiar please ask an imm to reimburse you
+
+another one.  In any case, the only elven longsword you have to worry
+
+about is the one with a dragon emblazoned on the blade.  The others work
+
+perfectly well.
+
+
+If comeone is trying to sell you one, do not buy it.  You will still need
+
+to junk it and are not exempt.  If you are caught trying to sell one... 
+
+well, lets just say it will go poorly for you.  This is a bug and you
+
+have been forwarned as such.
+
+
+Shade and sweet water,
+
+Talis
+
+~
+897312832
+Medienne~
+Terek~
+Under the command of Lord Richard the Medienne docks have been put into
+
+repair and set to be a functional port again.  Watch for developments.
+
+~
+897361004
+Abuse of Bugs~
+Merior~
+Just a reminder to all folks that bug abuse is considered a sin on this
+
+mud.  If you are discovered to be doing such a thing, an IMM will punish
+
+you as he or she feels is warranted.  Bugs include taking advantage of
+
+things that are not working properly due to code changes.  This very much
+
+includes finding ways to kill protected mobs (like shopkeepers), wielding
+
+a second weapon even though you don't know off-hand, etc.
+
+
+Please remember: if something seems to be too good to be true, it is
+
+likely a bug.  Report it (via mud-mail or by posting), and don't try to
+
+do it again.  Warn your friends to do likewise.  Not all IMMS can fix the
+
+bugs, but they can fix the bug abusers.
+
+~
+897394367
+Castle Lag~
+Caer~
+I'm fairly certain castle lag is still open...but at any rate it is being
+
+modified heavily.  Mobs will be the very last thing to change, so as of
+
+yet there is no need to worry about it.  The room descriptions are being
+
+modified currently, as are the actions, item placement, quests, etc
+
+within the castle.  Every effort is being made to preserve its original
+
+creators intent while upgrading the quality and playability of the area.
+
+@C*Florian@n
+
+~
+897462925
+Crabman catacombs~
+Florian~
+@RBeneath the desert of the windy red,
+
+Lie the graves of the crabmen dead.
+
+Something, though, has gone amiss,
+
+Threatening the desert if the problem persists.
+
+
+@GThe cry has gone up to one and all,
+
+To discover the reason for the spirits' fall.
+
+Beware the dangers, watch your every step,
+
+(and until thieves are in, dont expect to be adept.)
+
+~
+897503625
+Trainers~
+Florian~
+A plague of amnesia has broken out among many of the townfolks who used
+
+to provide their services as trainers.  Many of the townfolk are too far
+
+gone to remember much of anything, leaving adventurers to scope the land
+
+for new trainers.
+
+
+@GWhat does this mean?  It means that trainers will no longer be teaching
+
+15 or 20 skills.  It means that high level skills, anything from around
+
+level 15 or so, will no longer be taught in towns.  It also means that
+
+most trainers of high level skills are outcasts, hermits, ghosts,
+
+spirits, or any other type of creature who just arent that particular
+
+about who they teach, meaning that a lot of the nonsense about having to
+
+worry about having the right <align><race><class><day of the week><moon
+
+phase to train is being altered.  However, such isolated trainers are
+
+also harder to find, teach fewer skills, and are probably only findable
+
+by asking around for hints and/or completing a quest or two.
+
+@RNo more one stop shopping...er...practicing in a town or with the 'high'
+
+monks.  Finding people with the time, patience, and ability for teaching
+
+skills beyond the basic level will be something more special than shoving
+
+10 plat in someones face in-between going from the bank to the baker.
+
+
+@MAnd a simple FYI to placate some concerns...not every skill of levels
+
+1-15 need be taught in a town, though a _majority_ of skills level 1-5
+
+will be taught in starting towns, with a few exceptions.  These
+
+exceptions (like dodge) will have hints, rumors and mini quests added to
+
+make their positioning 'easy' for newbies to find.
+
+
+--
+
+@RFor those who care, tiny tweaks have been added to warrior and cleric
+
+pathways of choice.  Though for every class, it doesnt hurt to visit even
+
+the most obscure mobs for help.  (Oh, and monk routes too) 
+
+- @C*Florian@n the ever hated bane
+
+~
+897514591
+tfe survey~
+Phule~
+I have placed a small tfe survey at:
+
+http://itd12.lib.purdue.edu/
+
+please take the minute or so to complete it if you so desire.
+
+thanks.
+
+If interest is high, I can develop other surveys :)
+
+(ie, mail me with survey ideas if you'd like to see them)
+
+
+Heh.  Some brainiac turned off the power to my office last night.  Server
+
+is back up.
+
+
+Well, after a mildly entertaining 54 responses, it seems that...
+
+@I a) you all hate the code
+
+@I b) you all hate each other
+
+
+just kidding.  thanks for responding.  i'll leave the page up just for
+
+kicks, and if you have other surveys you wanna see...  mail me.
+
+
+@RP@Yh@Gu@Bl@Me@n
+
+~
+897663459
+Wrist objects...~
+Fenlyn~
+I've finished adjusting levels on wrist objects.  If you notice something
+
+weird, send me a mudmail.  Most likely, it was an oversight that comes
+
+from me drinking too much milk while playing with objects.  --Fenlyn@n 
+
+~
+897671032
+Bandage Disabled~
+Rue~
+Bandage has been disabled.  Do not expect it to work.
+
+Rue
+
+~
+897679624
+New library~
+Florian~
+As does Medienne and Voaleth, the desert now has a functional library,
+
+though it is small currently...just gotta find it.
+
+
+(Castle Lag does too now, not that the castle is open currently)
+
+
+@C*Florian@n
+
+(Also, help information file has been added)
+
+~
+897771116
+Posting of Changes~
+Merior~
+I am happy to announce that Greyclaw has fixed repair and melt.  It is
+
+possible that some other things have also been revised.  Please be
+
+advised that not ALL changes will be posted, particularly those involving
+
+abuseable bugs.  Those of you asking for reimbursement because you can no
+
+longer abuse a bug will be treated in the manner you deserve.
+
+~
+897874773
+Calling all writers!~
+Terek~
+Llama Inc.  is looking for a few good writers.  What does this mean to
+
+you?  Well quite simply we need someone who is bored enough to write a
+
+few books about subjects in our roleplaying world.  If you have the urge
+
+and want to write a book than your prize is that it gets published under
+
+your name for all to read!
+
+
+@WSubjects needed:@n
+
+
+Weaponmaking - All races
+
+Armormaking - All races
+
+Geography
+
+Mining - Different types of ore and how to mine them - All races
+
+Poetry from various races
+
+Battle tactics - All races
+
+Stoneworking - All races
+
+Various crafts from all races
+
+
+Answer the call! Your book will be published if it fits our mold.
+
+Please write it in medieval style, fantasy setting.
+
+
+All interested please mail Terek with your subject and mail a
+
+mail finished copy to me.
+
+
+- Terek
+
+~
+897929980
+Re: [BUG]~
+Fenlyn~
+May have noticed that everybody and their dog is posting this bug.  We
+
+are aware of it and GC warned us about it when he rebooted last night. 
+
+Thank you all 10 of you who posted it.  :P 
+
+--Fenlyn
+
+~
+897952852
+Dum da dummmmmmm~
+Terek~
+Introducing Terek and Olah's latest creation.  The vast expanse of the
+
+Shadowy forest awaits you.  Perils beyond belief, rich with treasures!
+
+
+Boy does this sound like a cheap movie ad, anyways enjoy it ;)
+
+
+- Terek and Olah [Llama Inc.]
+
+
+@yNow playing at a mud near you.
+
+-- The bear@n
+
+~
+898150454
+Clans~
+Rhen~
+I wish to apologize for the delay in clan approval, we will be getting
+
+our act together in the next few days and things should start moving then.
+
+I appreciate your patience.
+
+@I
+
+@BThe Opossum@n
+
+~
+898192756
+Faerie Tweaks~
+Terek~
+Sleeping these lil buggers is gonna be a tad hard now.
+
+
+Archers now attack properly, you've been warned.
+
+
+- Terek
+
+~
+898202790
+Med Crypt closed temp.~
+Florian~
+Med crypt is closing temporarily until all of its 'jump out' codes are
+
+redone.  For some reason, even though they havent been touched, they are
+
+suddenly going FUBAR.
+
+@C*Florian@n       ^^^^^---added by @yFenlyn@n
+
+~
+898237575
+Objects~
+Jimbalaya~
+I've been extremely busy with some school work preparing to graduate from
+
+college in another week.  As a result I haven't had as much time to keep
+
+up with objects as I'd like.
+
+
+Please mail me the names of any objects you run across which are set to
+
+drastically higher level then the mob they come from, and I'll do my best
+
+to fix them.
+
+~
+898262361
+Reminder about pets.~
+Terek~
+Taming them, abandoning them, and killing them for exp is a bannable
+
+offense.  Your pets are there to assist you in battle and be your allies,
+
+not to tank for battles you are not a part of, and not for easy exp. 
+
+Please read the @GPet_rules@n helpfile if you think you need a
+
+refresher...because abusing pets can get you into trouble fast.
+
+
+Terek
+
+~
+898375452
+Moment of silence...~
+Terek~
+for our beloved suspension bridge for which may years served us.  It has
+
+now died of old age and now rests in the bottom of the Sea of Stars
+
+*sniff*.
+
+
+- Terek
+
+~
+898632844
+The Suspension Bridge~
+Rue~
+If you find any mentions of the NO LONGER EXISTING bridge, please let me
+
+know.  I will remove them ASAP.
+
+
+Rue
+
+~
+898654261
+Monestary changes.~
+Florian~
+An item or two, which were obtained danger-free, have risks attached to
+
+them now so beware.  NO reimbursements will be given.
+
+@C*Florian@n
+
+~
+898670006
+Dark Faeries~
+Terek~
+Lil buggers have been tweaked somewhat to make them less....painful
+
+(cough) 
+
+
+Terek
+
+~
+898835429
+Corpses~
+Greyclaw~
+Last 5x as long as they did 5 seconds ago.  Shrug - now to go make some
+
+of your items disappear immediately.  :) 
+
+~
+899000254
+Help noteboard~
+Florian~
+This helpfile has been updated. Please read it and heed its warning.
+
+@C*Florian@n
+
+~
+899023312
+Stat Command~
+Greyclaw~
+Toyed with.  Forgot announcement.
+
+Exp = Expected value for base.
+
+
+@RShould be returning only your stats, regardless of who you stat.
+
+~
+899069364
+Current 'broken' spells~
+Florian~
+Currently, the following spells are not functioning.  They will be
+
+eventually, so if they are prereqs for spells you'll soon get, I'd go
+
+ahead and learn them - you will have to anyway in the future.
+
+
+*Animate Clay
+
+*Astral Gate
+
+*Augury looks iffy
+
+*Blinding Light
+
+*create light
+
+*continual light
+
+*Create feast (jsut hasnt been completed yet)
+
+*Confuse
+
+*hallucinate
+
+*hawk's view (is still switched with ahrm yes we know)
+
+*locust swarm
+
+*maelstrom
+
+*mists of sleep
+
+*poison cloud
+
+
+Everything else should be working - or is at least castable ;)
+
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+899159354
+Hill giants~
+Orb~
+These can no longer be affected by sweep kick, nor will they sweep kick
+
+you.  However, they do now have the advantage of some natural armor
+
+(thinck skin, you know).  I also lowered the coins on them slightly, as I
+
+felt the amounts were excessive.
+
+~
+899270258
+Waist objects~
+Adakar~
+All waist objects have been re-worked as deemed by the new object tables,
+
+if any seem over-under powered you can mail me about them :) 
+
+Adakar
+
+~
+899479986
+Codite Ore~
+Orb~
+Since over a thousand pieces of codite ore have been gotten illegally, I
+
+have fixed the problem, removed the ore, and set all the weapons to
+
+no.save.  I am sorry for the very few of you who did legitemately get
+
+these weapons, or unknowingly bought ore from cheaters, but there is no
+
+way for me to find the few honest individuals among the vast majority. 
+
+There will be no reimbursements for these items.
+
+~
+899710241
+fire newts~
+Phule~
+nobody expects a spanish inquisition.
+
+
+There is nothing noble in being superior to your fellow man. True nobility
+
+is being superior to your former self.
+
+
+oh, yeah, what this means is something like, an area is open somewhere,
+
+don't die in it, i hope you have fun, etc.
+
+
+@RP@Yh@Gu@Bl@Me@n
+
+~
+900020402
+Dark Forces~
+Adakar~
+Rumors have begun to circulate among the cities of Medienne and Sos-Kul,
+
+of dark times and even darker enemies.  Lord Richard has ordered all of
+
+his faithful guards to protect his old friends widow, Relanya, whom is
+
+staying within the city proper.  Lizardmen are keeping a closer watch on
+
+their young children as reports pour in of missing family members, and
+
+sounds of combat ringing through the swamps.  A general warning has been
+
+sent out to one and all, merchents and townsmen, adventurer's and
+
+farmers, 'Beware, Creature's not of this world walk among the untamed
+
+wilds'.
+
+~
+900100837
+Mods - July~
+Greyclaw~
+* Summon Format
+
+* Added Note Iflags
+
+* Spell Actions - $1 = caster, $2 = target, $3 = reagent, should all be
+
+  builder fixable
+
+* Added mess flags.  Supress messages.  Equipment does remove messages,
+
+prepare does prepare actions, bank do withdraw and deposit.  Shops,
+
+movement are broken.  0 is off, 1 is just friends, 2 is friends and
+
+group, 3 is everyone - of course I didn't test it though. :)
+
+* Sac and pray require a diety - use sac <item> to <diety> to set diety
+
+for pray - for now you may change religions as often as you like - Caer
+
+is example diety.  @yOn a side note, only imm with her own religion is
+
+Caer so this doesn't work on all imms.  --Fenlyn@n 
+
+~
+900112554
+Request~
+Greyclaw~
+Is command request.  Request imm <reason> and request app will register
+
+requests.  Request cancel will cancel requests.  Please use it instead of
+
+gossip from now on.  Request with no argument will display current
+
+requests.
+
+
+Helpfile exists... help request.
+
+~
+900255267
+Kobold Chief takes lessons~
+Rue~
+He's badder than before.
+
+Rue
+
+@y
+
+As in bad bad, not good bad which could be confusing.  --Fenlyn@n
+
+~
+900268187
+Apatite crystals now have a use~
+Rue~
+Read the title again.
+
+Rue
+
+~
+900269539
+All this request nonsense...~
+Fenlyn~
+This request command is great, but you only need to request for an
+
+approval or an immortal once.  It will stay in the request queue until
+
+you cancel it or quit.  So, if you need to talk to a particular immortal
+
+(Orb for instance), your request will be there when she actually does
+
+arrive.  Rest assured that we are reminded when there is a request
+
+pending for us.  It appears in our prompt and annoys us.
+
+
+This public service brought to you by Bears R Us.
+
+~
+900288779
+Glory Hole~
+Rue~
+The door opens easier now.
+
+Rue
+
+~
+900370866
+Mysterious chanting~
+Florian~
+An unusal amount of chanting has been heard echoing somewhere north of
+
+Chiiron.  The droning, melodious chant seems more sorrowful than anything
+
+else.
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+900441159
+Typo Command~
+Greyclaw~
+The typo command with no argument will display room number.  Please use
+
+it when if you need to refer to a particular room in a note.  Will help
+
+the daemons who often get lost going from Chiiron to Medienne.
+
+
+--
+
+When posting a bug note with a room number, PLEASE, do not be too
+
+specific in the note.  rather, post something, then use a typo message IN
+
+the room you discovered the problem.  There are too many munchkins who
+
+type 'typo' to 'match' the room number to something they can exploit or
+
+wouldnt necessarily find by themselves anyway.  Make sense?
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+900485661
+Town help files~
+Terek~
+I have created a new help file (Help towns2).  Although under
+
+construction it gives a small summary about each of the current open
+
+towns.
+
+
+- Terek
+
+~
+900488863
+Rogue Dwarves~
+Merior~
+This area is under renovation.  Am trying to keep it open during the
+
+process, but expect changes to rooms and mobs.
+
+~
+900508181
+Banshee~
+Rue~
+It is meaner.
+
+Rue
+
+~
+900637155
+Orog Cheiftain~
+Adakar~
+Be warned, the orog cheiften has decided to follow his alignment a bit
+
+more closely, and no longer cares about only hitting those in the room
+
+that he is fighting with...You have been warned, if you are in the room
+
+you may be brought into a fight.
+
+@MAdakar@n
+
+~
+900644037
+Jails Update~
+Fenlyn~
+The following jails have been temporarily fixed using my skills learned
+
+while watching MacGyver as a teenager...
+
+
+Kha-Da
+
+Vaasa
+
+Medienne
+
+
+Immortal assistance should no longer be required in these places.  By the
+
+way if you see anything really strange (say, oh, being teleported
+
+someplace for no particular reason), please let me know.  --Fenlyn 
+
+~
+900833928
+Roleplay issues~
+Florian~
+This mud is geared toward a happy medium of roleplay and game.  We
+
+encourage you to roleplay.  But at the same time, we ask that you
+
+remember that it is also a game insofar as other people are playing it
+
+for fun just as you.
+
+
+But while we encourage you to roleplay almost any role, roleplaying a
+
+jerk, is not one of them.  This issue and stance will be maintained and
+
+has been for quite some time.  It is even stated in the helpfiles.
+
+Shortchaging people outside of pkill zones is being a jerk and not
+
+roleplaying, as is anything else including kill stealing and kill looting. 
+
+Such things will not be tolerated.
+
+
+@C*@GF@Rl@Yo@Br@Yi@Ra@Gn@C*@n
+
+~
+900834090
+$~
